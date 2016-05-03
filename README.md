@@ -374,6 +374,7 @@
 ## 舟山
 
 - 舟山现代妇科医院
+  - 网址：www.zsxdfk.com
 - 舟山市千岛医院
 - 舟山市千岛医院妇产科
 
@@ -393,30 +394,44 @@
 ## 宁波
 
 - 宁波美莱整形美容医院
+  - 网址：www.nbmylike.com
 - 宁波博爱医院
 - 宁波虹桥医院
+  - 网址：www.nbhqyy.com
 - 宁波欧亚男科医院
+  - 网址：www.nbnkyy.com
 - 宁波甬城医院
 - 慈溪圣爱医院
+  - 网址：www.cxsayy.net
 
 ## 杭州
 
 - 杭州新东方妇产科医院
 - 杭州玛莉亚妇女医院
+  - 网址：www.hzmly.com
 - 杭州虹桥医院
+  - 网址：www.hzhqyy.com
 - 杭州建国医院
 - 杭州天目山妇产医院
+  - 网址：www.97120.cn
 - 杭州萧山九龙男科医院
+  - 网址：www.hzjl120.com www.nkxsjl.com
 - 杭州广仁医院
+  - 网址：www.hzgryy.com www.zjbybyw.com
 - 杭州阿波罗男子医院
+  - 网址：www.hzabl.com www.hzabl.cn
 - 杭州和睦医院
+  - 网址：www.hm120.cn
 - 杭州真爱医院
 - 杭州瑞丽医疗美容医院
+  - 网址：www.ruilizx.com www.hzzxyy.cc www.85181111.net www.railyzx.com
 - 杭州同济医院
+  - 网址：www.0571tongji.com www.hztjh.com
 
 ## 湖州
 
 - 湖州阳光女子医院
+  - 网址：www.snvzi.com www.hznvzi.com
 
 ## 泉州
 
@@ -433,8 +448,11 @@
 ## 嘉兴
 
 - 浙江新安国际医院
+  - 网址：www.sian.cc
 - 嘉兴曙光中西医结合医院
+  - 网址：www.jxjk.cn
 - 嘉兴博爱医院
+  - 网址：www.82056999.com
 
 ## 台州
 
@@ -444,8 +462,10 @@
 
 - 瑞安华东医院
 - 温州长征医院
+  - 网址：www.120cz.com
 - 温州协和医院
 - 温州建国医院
+  - 网址：www.wzjg120.com www.wzcwk120.com
 - 温州红旗医院
 - 温州爱尔五官科医院
 
