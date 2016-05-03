@@ -7,6 +7,7 @@
 - 1.紧急更新来自凤凰网的数据 <http://news.ifeng.com/mainland/special/ptxyy/>
 - 2.大约500家，和前面有重复的数据
 - 3.这份数据来自网络，并不完全准确，如果有写错了的,请及时提出来或提交更新(请提交到 README.md 文件)
+- 4.@wandergis 已经根据凤凰网的数据做了一个地图出来 https://github.com/wandergis/putian-hospitals
 
 ## 上海
 
