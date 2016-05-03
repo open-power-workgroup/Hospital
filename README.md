@@ -1,23 +1,3 @@
-Copyright [2016]
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-	http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
-
-
-
-
-
-
 # BlackheartedHospital
 网传附莆田系医院名单，欢迎更新
 
@@ -424,6 +404,7 @@ limitations under the License.
 - 山东青岛曙光医院
 - 青岛集美整形美容医院
 - 青岛新阳光医院
+- 青岛安宁医院
 
 ##德州
 - 齐河阳光医院
