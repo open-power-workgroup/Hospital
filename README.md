@@ -1649,4 +1649,5 @@ limitations under the License.
 - 江门福康医院
 - 肇庆福康医院
 - 湖南郴州福康医院
+- 全国所有的爱尔眼科医院
 
