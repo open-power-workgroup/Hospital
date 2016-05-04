@@ -1,4 +1,4 @@
-﻿# BlackheartedHospital
+﻿# Hospital
 
 凤凰网医院名单([http://news.ifeng.com/mainland/special/ptxyy/](http://news.ifeng.com/mainland/special/ptxyy/)),欢迎更新,本人不会有任何商业目的,如果出现不当的情况,请大家及时指出,并随时监督。维护过程中难免不会保证别人有商业目的或其它动机,但会尽最大努力避免。
 
