@@ -9,7 +9,7 @@
 - 3.@wandergis 已经根据凤凰网的数据做了一个地图出来 https://github.com/wandergis/hospital-viz
 - 4.@fushenghua 也开源了一个查询的 https://github.com/fushenghua/GetHosp/ 的项目
 - 5.为什么不推荐做原生的APP，比如说Android的APK包，因为要验证一个APK包是否很麻烦，现在的功能只是一个简单的查询功能，网页查询很轻松的满足了，验证一个APK包，权限是不是有问题，比如说要通讯录的权限等等的，还要抓包检查是否有收集用户信息等（比如说原生的APK做一个功能，用户第三次打开的时候，才去收集用户的手机信息，这个就很难发现,也没有这个精力去搞这个）,所以这里不推荐做原生的APP
-- 6.两个浏览器插件[@erichuang199](https://github.com/erichuang1994/PTXNotification)和[@zhangjh](https://github.com/zhangjh/chromeExt) 
+- 6.三个浏览器插件[@erichuang199](https://github.com/erichuang1994/PTXNotification)和[@zhangjh](https://github.com/zhangjh/chromeExt)和[@hustcc](https://github.com/hustcc/PTHospital.chrome)
 - 7.本文章收录的信息均来自互联网，仅为资源共享、学习参考之目的。作者对信息的可用性、准确性或可靠性不作任何承诺与保证
 - 8.如果您对信息有任何异议，请第一时间联系我们(hospitalforreview@gmail.com)。情况属实的，我们会第一时间予以删除，并同时向您表示歉意。
 
