@@ -1,6 +1,6 @@
 ﻿# BlackheartedHospital
 
-凤凰网医院名单(http://news.ifeng.com/mainland/special/ptxyy/),欢迎更新,本人不会有任何商业目的,如果出现不当的情况,请大家及时指出,并随时监督。维护过程中难免不会保证别人有商业目地或其它动机,但会尽最大努力避免。
+凤凰网医院名单([http://news.ifeng.com/mainland/special/ptxyy/](http://news.ifeng.com/mainland/special/ptxyy/)),欢迎更新,本人不会有任何商业目的,如果出现不当的情况,请大家及时指出,并随时监督。维护过程中难免不会保证别人有商业目地或其它动机,但会尽最大努力避免。
 
 # 版本1.2beta
 
@@ -984,8 +984,10 @@
 
 ## 淮北
 
-- 淮北女子医院
+- 淮北女子医院(现已改名为 淮北友好妇产医院)
 - 淮北阳光心理院
+- 淮北九龙男科医院
+- 淮北和平医院
 
 ## 合肥
 
