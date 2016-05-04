@@ -1,4 +1,4 @@
-# BlackheartedHospital
+﻿# BlackheartedHospital
 网传附莆田系医院名单，欢迎更新
 
 #版本1.2beta
@@ -542,6 +542,7 @@
 
 ##襄阳
 - 襄阳市第五人民医院
+- 襄阳东方女子妇科医院
 - 襄阳东大肛肠医院
 - 襄阳仁爱女子医院
 
