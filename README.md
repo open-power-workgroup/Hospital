@@ -9,6 +9,7 @@
 - 3.这份数据来自网络，并不完全准确，如果有写错了的,请及时提出来或提交更新(请提交到 README.md 文件)
 - 4.@wandergis 已经根据凤凰网的数据做了一个地图出来 https://github.com/wandergis/putian-hospitals
 - 5.为什么不推荐做原生的APP，比如说Android的APK包，因为要验证一个APK包是否很麻烦，现在的功能只是一个简单的查询功能，网页查询很轻松的满足了，验证一个APK包，权限是不是有问题，比如说要通讯录的权限等等的，还要抓包检查是否有收集用户信息等（比如说原生的APK做一个功能，用户第三次打开的时候，才去收集用户的手机信息，这个就很难发现），所以这里不推荐做原生的APP
+- 6.@fushenghua 也开源了一个查询的https://github.com/fushenghua/GetHosp/的项目
 
 
 ## 上海
