@@ -801,6 +801,11 @@
   - 电话 400-0851-962
   - 网址 www.o-wei.com
   - 网址 www.ygzhu8.com
+- 贵阳结石病医院
+  - 电话 0851-88546001
+  - 电话 0851-88546002
+  - 网址 www.qlxzhuanke.com
+  - 网址 www.gyjsbyy.com
 
 ## 铜仁
 
