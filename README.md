@@ -13,8 +13,7 @@
 
 
 #总览
-![Alt text](/blob/master/src/img/index.jpg)
-![Alt text](/src/img/index.jpg)
+![Alt text](/src/img/index.png)
 
 ## 上海
 
