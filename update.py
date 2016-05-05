@@ -17,7 +17,7 @@ def run():
 
 def debug():
     print('run in debug mode')
-    pass
+    readme_reader.debug()
 
 
 if __name__ == '__main__':
