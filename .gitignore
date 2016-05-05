@@ -2,3 +2,4 @@ xcuserdata/
 .DS_Store
 xcshareddata/
 .idea
+node_modules/
