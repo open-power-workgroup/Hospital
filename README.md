@@ -23,6 +23,8 @@
 
 # 版本1.2beta
 
+[](hospital list begin //PLEASE DO NOT DELETE THIS LINE)
+
 ## 上海
 
 - 上海市闵行区中医院
@@ -1449,3 +1451,6 @@
 - 中华不育网
 - 广州人流网
 - 中华肿瘤网
+
+[](hospital list end //PLEASE DO NOT DELETE THIS LINE)
+
