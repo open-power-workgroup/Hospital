@@ -1260,6 +1260,13 @@
 - 许昌新时代妇科医院
 - 许昌凤凰医院
 - 许昌中山医院
+  - 网址 www.xczshp.com
+  - 网址 www.xcyyhp.com
+  - 网址 www.2158888.com
+  - 网址 www.xczsnk.com
+  - 网址 xczsnk.com
+  - 地址 许昌市西大街280号
+  - 电话 0374-215 8889
 
 ## 廊坊
 
