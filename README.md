@@ -44,6 +44,7 @@
 - 上海真爱女子医院
   - 电话 +86 21 6226 9000
   - 网址 www.shzhenai.com
+  - 证据 [患者1](http://www.kobeei.com/lc/31713.html) [Google缓存](http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&oq=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.4678j0j4) 
 - 上海心脏病医院
   - 电话 +86 21 6482 9999
   - 网址 www.yodak.net
