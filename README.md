@@ -11,15 +11,15 @@
 
 # 特别申明
 
-1. 凤凰网医院名单,这些医院只是可能存在问题,并不是真的一定有问题,所以网友提交上来的内容,请大家保持高度怀疑和警惕。
-2. 这份数据来自网络，并不完全准确，如果有写错了的,请及时提出来或提交更新(请提交到 README.md 文件)
+1. 本文章收录的信息均来自互联网，仅为资源共享、学习参考之目的。作者对信息的可用性、准确性或可靠性不作任何承诺与保证。
+2. 如果您对信息有任何异议，请第一时间联系我们。情况属实的，我们会第一时间予以删除，并同时向您表示歉意。
 3. @wandergis 已经根据凤凰网的数据做了一个地图出来 https://github.com/wandergis/hospital-viz
 4. @fushenghua 也开源了一个查询的 https://github.com/fushenghua/GetHosp/ 的项目
 5. 为什么不推荐做原生的APP，比如说Android的APK包，因为要验证一个APK包是否很麻烦，现在的功能只是一个简单的查询功能，网页查询很轻松的满足了，验证一个APK包，权限是不是有问题，比如说要通讯录的权限等等的，还要抓包检查是否有收集用户信息等（比如说原生的APK做一个功能，用户第三次打开的时候，才去收集用户的手机信息，这个就很难发现,也没有这个精力去搞这个）,所以这里不推荐做原生的APP
 6. 三个浏览器插件[@erichuang199](https://github.com/erichuang1994/PTXNotification)和[@zhangjh](https://github.com/zhangjh/chromeExt)和[@hustcc](https://github.com/hustcc/PTHospital.chrome)
 7. 本文章收录的信息均来自互联网，仅为资源共享、学习参考之目的。作者对信息的可用性、准确性或可靠性不作任何承诺与保证
 8. 如果您对信息有任何异议，请第一时间联系我们(hospitalforreview@gmail.com)。情况属实的，我们会第一时间予以删除，并同时向您表示歉意。
-
+9. 本项目收录的“证据”，同样来自于互联网，也可能存在不实的问题。如果您对这些证据有疑问或异议，也请及时与我们联系，或者直接通过提交issue表示。
 
 # 版本1.2beta
 
@@ -34,8 +34,10 @@
 - 上海万众医院
   - 电话 +86 400 889 2218
   - 网址 www.wz120.cc
+  - 证据 [患者家属](http://health.dahe.cn/yypj/yhb/201207/t20120716_397644.html) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716_397644.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716_397644.html&aqs=chrome..69i57j69i58.4789j0j4&sourceid=chrome&ie=UTF-8) [天涯网友](http://bbs.tianya.cn/post-41-943030-1.shtml) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&aqs=chrome..69i57j69i58.2551j0j4&sourceid=chrome&ie=UTF-8)
 - 上海安真医院
   - 电话 +86 21 5771 1006
+  - 证据 [天涯广告](http://bbs.tianya.cn/post-41-751455-1.shtml) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-751455-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-751455-1.shtml&aqs=chrome..69i57j69i58.2326j0j4&sourceid=chrome&ie=UTF-8)
 - 上海福华医院
   - 电话 +86 21 5196 1999
 - 上海玛丽女子医院
@@ -44,6 +46,7 @@
 - 上海真爱女子医院
   - 电话 +86 21 6226 9000
   - 网址 www.shzhenai.com
+  - 证据 [患者1](http://www.kobeei.com/lc/31713.html) [Google缓存](http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&oq=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.4678j0j4) 
 - 上海心脏病医院
   - 电话 +86 21 6482 9999
   - 网址 www.yodak.net
@@ -607,13 +610,17 @@
 ## 龙岩
 
 - 龙岩女子医院
+  - 证据 [诚信网](http://xiaofeipinglun.com/yiyuanjiankang/5664.html) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fxiaofeipinglun.com%2Fyiyuanjiankang%2F5664.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fxiaofeipinglun.com%2Fyiyuanjiankang%2F5664.html&aqs=chrome..69i57j69i58.3136j0j4&sourceid=chrome&ie=UTF-8) 
 - 龙岩阳光医院
 
 ## 济南
 
 - 山东东方男科医院
+  - 证据 [患者意见1](http://www.adiguo.com/nanke.html) [Google缓存](http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fwww.adiguo.com%2Fnanke.html&oq=cache%3A%2F%2Fwww.adiguo.com%2Fnanke.html&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.4782j0j9) [患者意见2](http://tieba.baidu.com/p/2314938397) 以上意见仅代表发贴人
 - 山东紫荆花医院
+  - 证据 [患者朋友](http://www.fgjy99.com/art2016/2016010391635.html) [Google缓存](http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fwww.fgjy99.com%2Fart2016%2F2016010391635.html&oq=cache%3A%2F%2Fwww.fgjy99.com%2Fart2016%2F2016010391635.html&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.8547j0j7)
 - 山东红十字会医院
+  - 证据 [患者1](http://www.cywty.com/so/tousu1/2016/0504/4709.html) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.cywty.com%2Fso%2Ftousu1%2F2016%2F0504%2F4709.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.cywty.com%2Fso%2Ftousu1%2F2016%2F0504%2F4709.html&aqs=chrome..69i57j69i58.2342j0j4&sourceid=chrome&ie=UTF-8)
 - 济南一零六医院
 - 济南中医不孕不育医院
 - 济南中医白癜风医院
@@ -830,7 +837,11 @@
 ### 不孕症：
 
 - 武汉送子鸟不孕不育医院
+  - 电话 +86 27 8377 1313
+  - 网址 www.szn027.com
 - 武汉黄浦中西医结合医院
+  - 电话 +86 400 996 1009
+  - 网址 www.ctbyw.com
 
 ### 妇科、产科：
 
@@ -901,19 +912,36 @@
 ### 整形科：
 
 - 武汉华美整形医院
+  - 电话 +86 400 007 0606
+  - 网址 www.zswzx.com
 - 武汉五洲美莱整形美容医院
+  - 电话 +86 27 8678 5799
+  - 网址 www.88077777.com
 - 武汉韩辰整形医院
+  - 电话 +86 400 030 3027
+  - 网址 www.4000303027.com
 - 武汉艺星医疗美容医院
+  - 电话 +86 400 060 1992
+  - 网址 www.whyestar.com
 
 ### 专科
 
-- 武汉华美医院
 - 武汉博仕肛肠肛肠医院
+  - 电话 +86 27 88855999
+  - 网址 www.39bsw.com
 - 武汉仁安眼耳鼻喉医院
+  - 电话 +86 4006 027 669
+  - 网址 www.whrenan.com
 - 武汉京都结石病医院
+  - 电话 +86 27 88616718
+  - 网址 www.hbjieshi.com
 - 武汉太医堂中医院
 - 武汉国医堂
+  - 电话 +86 27 8763 9188
+  - 网址 www.gytsm.com
 - 武汉明德肛肠医院
+  - 电话 +86 27 8758 5666
+  - 网址 www.whmdgc.com
 
 ### 三甲医院外包科室名单如下：
 
@@ -1296,11 +1324,17 @@
 ## 兰州
 
 - 兰州仁和医院
+- 兰州天伦不孕症医院
+	- 网址 www.lztlyy.com
 
 ## 南宁
 
 - 南宁曙光医院
 - 南宁玛利亚医院
+- 南宁天伦医院
+	- 地址 广西南宁市西乡塘区明秀西路152号
+	- 电话 +86 771 232111
+	- 网址 www.nntlbyby.com
 
 
 ## 桂林
