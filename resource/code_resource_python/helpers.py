@@ -40,10 +40,27 @@ def write_file(filename, content):
     """
     try:
         with open(filename, 'w', encoding='utf-8') as f:
-            return f.write(content)
+            f.write(content)
 
     except IOError:  # file don't exist
-        print('the file cannot be found please make sure that you have correct file name inputted')
+        print('file cannot be created')
         print('the input file name is', filename)
+        print('if you do not understand the message, please fire a issue at:')
+        print('https://github.com/open-power-workgroup/Hospital/issues')
+
+
+def write_log(*args):
+    log_name = 'debug.log'
+    string_args = [str(arg) for arg in args]
+    line = ' '.join(string_args)
+    try:
+        with open(log_name, 'a', encoding='utf-8') as f:
+            if line.endswith('\n'):
+                f.write(line)
+            else:
+                f.write(line + '\n')
+    except IOError:
+        print('file cannot be created')
+        print('the input file name is', log_name)
         print('if you do not understand the message, please fire a issue at:')
         print('https://github.com/open-power-workgroup/Hospital/issues')
