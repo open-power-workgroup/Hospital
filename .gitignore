@@ -100,8 +100,6 @@ gen
 xcuserdata/
 .DS_Store
 xcshareddata/
-.idea
-node_modules/
 
 # for vim
 .*.swp
