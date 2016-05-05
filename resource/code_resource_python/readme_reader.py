@@ -25,7 +25,10 @@ the dictionary will of this form:
 }
 """
 import re
-import helpers
+try:
+    import helpers
+except ImportError:
+    from . import helpers
 
 
 def __parse_city__(city_line=""):
