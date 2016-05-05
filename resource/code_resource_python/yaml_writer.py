@@ -1,9 +1,10 @@
 import yaml
 try:
+    import helpers
     import readme_reader
 except ImportError:
+    from . import helpers
     from . import readme_reader
-import helpers
 
 
 def write(info_dict):
@@ -11,5 +12,5 @@ def write(info_dict):
 
 
 if __name__ == '__main__':
-    info_dict = readme_reader.parse()
+    info_dict = readme_reader.read()
     write(info_dict)
