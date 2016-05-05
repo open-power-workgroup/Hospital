@@ -9,9 +9,9 @@ the dictionary will of this form:
     {
         <hospital1>:
         {
-            <info1>: <info_detail>
-            <info2>: <info_detail>
-            <info3>: ''
+            <info1>: [<info_detail1>, <info_detail2>]
+            <info2>: [<info_detail>,]
+            <info3>: []
         }
         <hospital2>:
         {}
@@ -48,9 +48,9 @@ def __parse_hospital_info__(info_line=""):
     key = info_list[0]
     try:
         value = "".join(info_list[1:])
-        return {key: value}
+        return key, value
     except IndexError:
-        return {key: ""}
+        return key, []
 
 
 def __get_leading_space_num__(line=""):
@@ -111,7 +111,6 @@ def __parse_all__(content_lines=("",)):
                 else:
                     cur_type_index = prev_type_index + 1
 
-
                 # parse the current line into the info_dict
                 # this line is a hospital
                 if cur_type_index == 0:
@@ -119,26 +118,30 @@ def __parse_all__(content_lines=("",)):
                     if parsed_line == '':
                         print('we encounter a warning while parsing readme: ')
                         print('this line will be parsed as empty:')
-                        print(content_line[:-1])
+                        print('"' + content_line[:-1] + '"')
                         print('we will not add this line to the result')
                     else:
                         info_dict[cur_city].update({parsed_line: {}})
                         cur_hospital = parsed_line
                 # this is a info line
                 elif cur_type_index == 1:
-                    parsed_line = __parse_hospital_info__(content_line)
-                    if parsed_line == '':
-                        print('we encounter a warning while parsing readme: ')
-                        print('this line will be parsed as empty:')
-                        print(content_line[:-1])
-                        print('we will not add this line to the result')
-                    else:
-                        info_dict[cur_city][cur_hospital].update(parsed_line)
+                    key, value = __parse_hospital_info__(content_line)
+                    try:
+                        if value in info_dict[cur_city][cur_hospital][key]:  # key in info dict and value duplicated
+                            print('we encounter a warning will parsing readme:')
+                            print('this line is a duplicate info of previous info')
+                            print('"' + content_line[:-1] + '"')
+                            print('the hospital is', cur_hospital)
+                            print('the city is', cur_city)
+                        else:  # key in info dict and value not duplicated
+                            info_dict[cur_city][cur_hospital][key].append(value)
+                    except KeyError:  # key not in info dict
+                        info_dict[cur_city][cur_hospital][key] = [value, ]
                 else:
                     print('we cannot recognize the type of the line')
                     print('here is some information you can send to the issue:')
                     print('    this is the line')
-                    print('   ', "'"+content_line[:-1]+"'")
+                    print('   ', "'" + content_line[:-1] + "'")
                     print('    previous line has', prev_leading_space_num, 'leading white spaces')
                     print('    current line has', cur_leading_space_num, 'leading white spaces')
                     input('press <enter> to continue')
@@ -146,7 +149,6 @@ def __parse_all__(content_lines=("",)):
                 # update all the previous variable for the next round
                 prev_type_index = cur_type_index
                 prev_leading_space_num = cur_leading_space_num
-
 
     print('parse all finished')
     return info_dict
