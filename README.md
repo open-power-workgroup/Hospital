@@ -19,7 +19,7 @@
 6. 三个浏览器插件[@erichuang199](https://github.com/erichuang1994/PTXNotification)和[@zhangjh](https://github.com/zhangjh/chromeExt)和[@hustcc](https://github.com/hustcc/PTHospital.chrome)
 7. 本文章收录的信息均来自互联网，仅为资源共享、学习参考之目的。作者对信息的可用性、准确性或可靠性不作任何承诺与保证
 8. 如果您对信息有任何异议，请第一时间联系我们(hospitalforreview@gmail.com)。情况属实的，我们会第一时间予以删除，并同时向您表示歉意。
-
+9. 本项目收录的“证据”，同样来自于互联网，也可能存在不实的问题。如果您对这些证据有疑问或异议，也请及时与我们联系，或者直接通过提交issue表示。
 
 # 版本1.2beta
 
