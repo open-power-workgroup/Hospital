@@ -23,6 +23,8 @@
 
 # 版本1.2beta
 
+[](hospital list begin //PLEASE DO NOT DELETE THIS LINE)
+
 # 目录
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -549,6 +551,8 @@
 - 富源阳光医院
 - 曲靖九州医院
 - 曲靖曙光泌尿专科医院
+
+##
 
 ## 重庆
 
@@ -1603,3 +1607,6 @@
 - 中华不育网
 - 广州人流网
 - 中华肿瘤网
+
+[](hospital list end //PLEASE DO NOT DELETE THIS LINE)
+
