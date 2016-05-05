@@ -10,7 +10,7 @@ except ImportError:
 
 def write(info_dict):
     output = json.dumps(info_dict, ensure_ascii=False)
-    helpers.write_file(filename='hospital_list.json', content=outputj)
+    helpers.write_file(filename='hospital_list.json', content=output)
 
 
 if __name__ == '__main__':
