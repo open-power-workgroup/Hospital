@@ -618,9 +618,7 @@
 - 山东东方男科医院
   - 证据 [患者意见1](http://www.adiguo.com/nanke.html) [Google缓存](http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fwww.adiguo.com%2Fnanke.html&oq=cache%3A%2F%2Fwww.adiguo.com%2Fnanke.html&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.4782j0j9) [患者意见2](http://tieba.baidu.com/p/2314938397) 以上意见仅代表发贴人
 - 山东紫荆花医院
-  - 证据 [患者朋友](http://www.fgjy99.com/art2016/2016010391635.html) [Google缓存](http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fwww.fgjy99.com%2Fart2016%2F2016010391635.html&oq=cache%3A%2F%2Fwww.fgjy99.com%2Fart2016%2F2016010391635.html&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.8547j0j7)
 - 山东红十字会医院
-  - 证据 [患者1](http://www.cywty.com/so/tousu1/2016/0504/4709.html) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.cywty.com%2Fso%2Ftousu1%2F2016%2F0504%2F4709.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.cywty.com%2Fso%2Ftousu1%2F2016%2F0504%2F4709.html&aqs=chrome..69i57j69i58.2342j0j4&sourceid=chrome&ie=UTF-8)
 - 济南一零六医院
 - 济南中医不孕不育医院
 - 济南中医白癜风医院
@@ -1322,11 +1320,17 @@
 ## 兰州
 
 - 兰州仁和医院
+- 兰州天伦不孕症医院
+	- 网址 www.lztlyy.com
 
 ## 南宁
 
 - 南宁曙光医院
 - 南宁玛利亚医院
+- 南宁天伦医院
+	- 地址 广西南宁市西乡塘区明秀西路152号
+	- 电话 +86 771 232111
+	- 网址 www.nntlbyby.com
 
 
 ## 桂林
