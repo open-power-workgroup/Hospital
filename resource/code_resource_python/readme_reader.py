@@ -154,7 +154,7 @@ def __parse_all__(content_lines=("",)):
     return info_dict
 
 
-def parse():
+def read():
     lines = helpers.read_file('README.md')
     start, end = __get_info_line_num__(lines)
     print(start, end)
@@ -163,4 +163,4 @@ def parse():
 
 
 if __name__ == '__main__':
-    print(parse())
+    print(read())
