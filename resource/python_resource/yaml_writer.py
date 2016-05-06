@@ -1,4 +1,7 @@
+import os
+
 import yaml
+
 try:
     import helpers
     import readme_reader
@@ -8,7 +11,8 @@ except ImportError:
 
 
 def write(info_dict):
-    helpers.write_file('hospital_list.yml', yaml.safe_dump(info_dict, allow_unicode=True))
+    filename = os.path.join(os.getcwd(), 'resource', 'API_resource', 'hospital_list.json')
+    helpers.write_file(filename, yaml.safe_dump(info_dict, allow_unicode=True))
 
 
 if __name__ == '__main__':

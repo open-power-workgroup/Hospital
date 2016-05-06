@@ -1,6 +1,6 @@
-from resource.code_resource_python import json_writer
-from resource.code_resource_python import yaml_writer
-from resource.code_resource_python import readme_reader
+from resource.python_resource import json_writer
+from resource.python_resource import yaml_writer
+from resource.python_resource import readme_reader
 import sys
 
 
@@ -11,7 +11,7 @@ def run():
     yaml_writer.write(info_dict)
     print('info wrote down as yaml')
     json_writer.write(info_dict)
-    print('info wrote down as info_dict')
+    print('info wrote down in resource/API_resource')
     print('all finished')
 
 
