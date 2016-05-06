@@ -9,6 +9,10 @@ which includes the constants and general function(functions that are used cross 
 HOSPITAL_LIST_BEGIN_SYMBOL = "[](hospital list begin //PLEASE DO NOT DELETE THIS LINE)"
 HOSPITAL_LIST_END_SYMBOL = "[](hospital list end //PLEASE DO NOT DELETE THIS LINE)"
 CHINESE_REGEX_WITH_NUM_LETTER = r'[\u4e00-\u9fffA-Za-z0-9.]+'
+FMT = '''file cannot be created
+the input file name is {}
+if you do not understand the message, please open a new issue at:
+https://github.com/open-power-workgroup/Hospital/issues'''
 
 
 # -----------------------------------------------------
@@ -43,24 +47,15 @@ def write_file(filename, content):
             f.write(content)
 
     except IOError:  # file don't exist
-        print('file cannot be created')
-        print('the input file name is', filename)
-        print('if you do not understand the message, please fire a issue at:')
-        print('https://github.com/open-power-workgroup/Hospital/issues')
+        print(FMT.format(filename))
 
 
 def write_log(*args):
     log_name = 'debug.log'
     string_args = [str(arg) for arg in args]
-    line = ' '.join(string_args)
+    line = ' '.join(string_args).rstrip() + '\n'
     try:
         with open(log_name, 'a', encoding='utf-8') as f:
-            if line.endswith('\n'):
-                f.write(line)
-            else:
-                f.write(line + '\n')
+            f.write(line)
     except IOError:
-        print('file cannot be created')
-        print('the input file name is', log_name)
-        print('if you do not understand the message, please fire a issue at:')
-        print('https://github.com/open-power-workgroup/Hospital/issues')
+        print(FMT.format(filename))
