@@ -1,33 +1,36 @@
-# 莆田系医院名单
+# 初选的医院名单
 
-本项目首先来源于：凤凰网医院名单([http://news.ifeng.com/mainland/special/ptxyy/](http://news.ifeng.com/mainland/special/ptxyy/))。
-
-欢迎更新，本人不会有任何商业目的，如果出现不当的情况，请大家及时指出，并随时监督。维护过程中难免不会保证别人有商业目的或其它动机，但会尽最大努力避免。
-
+本项目首先来源于：凤凰网医院名单([http://news.ifeng.com/mainland/special/ptxyy/](http://news.ifeng.com/mainland/special/ptxyy/))，后根据其它程序员添加而成，并不代表医院就有一定有问题，只是一份初选的名单，项目随后会在这份名单的基本上，做成另一名单，另一份名单的标准如下
+- 曾经投放百度竞价广告 
+- 曾经媒体报道过医疗纠纷或者确认受骗 
+- 确认是莆田系
+随后我们会在这三条的基础上，提供更细节的审核标准
 
 # 贡献者指南
 
 提交贡献之前，请先阅读[贡献者指南](guide.md)
 
 # 特别申明
+1.项目不会有任何商业目的，如果出现不当的情况，请大家及时指出，并随时监督。维护过程中难免不会保证参与者有商业目的或其它动机，但会尽最大努力避免。
+2. 本文章收录的信息均来自互联网，仅为资源共享、学习参考之目的。作者对信息的可用性、准确性或可靠性不作任何承诺与保证。
+3. 如果您对信息有任何异议，请第一时间联系我们。情况属实的，我们会第一时间予以删除，并同时向您表示歉意。
+4. 本文章收录的信息均来自互联网，仅为资源共享、学习参考之目的。作者对信息的可用性、准确性或可靠性不作任何承诺与保证
+5. 如果您对信息有任何异议，请第一时间在Issues里面提出。如情况属实的，我们会第一时间予以删除，并同时向您表示歉意。
+6. 本项目收录的“用户反馈”，同样来自于互联网，也可能存在不实的问题。如果您对这些用户反馈有疑问或异议，也请及时与我们联系，或者直接通过提交issue表示。
+7. 如要转发本文章,请一定要把文章内容完全转发完全，并给上原文链接。
 
-1. 本文章收录的信息均来自互联网，仅为资源共享、学习参考之目的。作者对信息的可用性、准确性或可靠性不作任何承诺与保证。
-2. 如果您对信息有任何异议，请第一时间联系我们。情况属实的，我们会第一时间予以删除，并同时向您表示歉意。
-3. @wandergis 已经根据凤凰网的数据做了一个地图出来 https://github.com/wandergis/hospital-viz
-4. @fushenghua 也开源了一个查询的 https://github.com/fushenghua/GetHosp/ 的项目
-5. [@neuyu](https://github.com/neuyu) 已经开源了一个原生的Android APP https://github.com/neuyu/BlackHospital
-6. 为什么不推荐做原生的APP，比如说Android的APK包，因为要验证一个APK包是否很麻烦，现在的功能只是一个简单的查询功能，网页查询很轻松的满足了，验证一个APK包，权限是不是有问题，比如说要通讯录的权限等等的，还要抓包检查是否有收集用户信息等（比如说原生的APK做一个功能，用户第三次打开的时候，才去收集用户的手机信息，这个就很难发现,也没有这个精力去搞这个）,所以这里不推荐做原生的APP
-7. 三个浏览器插件[@erichuang199](https://github.com/erichuang1994/PTXNotification)和[@zhangjh](https://github.com/zhangjh/chromeExt)和[@hustcc](https://github.com/hustcc/PTHospital.chrome)
-8. 本文章收录的信息均来自互联网，仅为资源共享、学习参考之目的。作者对信息的可用性、准确性或可靠性不作任何承诺与保证
-9. 如果您对信息有任何异议，请第一时间联系我们(hospitalforreview@gmail.com)。情况属实的，我们会第一时间予以删除，并同时向您表示歉意。
-10. 本项目收录的“用户反馈”，同样来自于互联网，也可能存在不实的问题。如果您对这些用户反馈有疑问或异议，也请及时与我们联系，或者直接通过提交issue表示。
+# 关联项目
+1. @wandergis 已经根据凤凰网的数据做了一个地图出来 https://github.com/wandergis/hospital-viz
+2. @fushenghua 也开源了一个查询的 https://github.com/fushenghua/GetHosp/ 的项目
+3. [@neuyu](https://github.com/neuyu) 已经开源了一个原生的Android APP https://github.com/neuyu/BlackHospital
+4. 三个浏览器插件[@erichuang199](https://github.com/erichuang1994/PTXNotification)和[@zhangjh](https://github.com/zhangjh/chromeExt)和[@hustcc](https://github.com/hustcc/PTHospital.chrome)
+
 
 # 版本1.2beta
 
 # 目录
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
 
 - [上海](#%E4%B8%8A%E6%B5%B7)
 - [北京](#%E5%8C%97%E4%BA%AC)
