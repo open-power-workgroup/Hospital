@@ -11,7 +11,7 @@ except ImportError:
 
 def write(info_dict):
     filename = os.path.join(os.getcwd(), 'resource', 'API_resource', 'hospital_list.json')
-    output = json.dumps(info_dict, ensure_ascii=False)
+    output = json.dumps(info_dict, ensure_ascii=False, indent=2)
     helpers.write_file(filename=filename, content=output)
 
 
