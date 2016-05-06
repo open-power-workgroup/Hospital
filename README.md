@@ -20,7 +20,7 @@
 7. 三个浏览器插件[@erichuang199](https://github.com/erichuang1994/PTXNotification)和[@zhangjh](https://github.com/zhangjh/chromeExt)和[@hustcc](https://github.com/hustcc/PTHospital.chrome)
 8. 本文章收录的信息均来自互联网，仅为资源共享、学习参考之目的。作者对信息的可用性、准确性或可靠性不作任何承诺与保证
 9. 如果您对信息有任何异议，请第一时间联系我们(hospitalforreview@gmail.com)。情况属实的，我们会第一时间予以删除，并同时向您表示歉意。
-10. 本项目收录的“证据”，同样来自于互联网，也可能存在不实的问题。如果您对这些证据有疑问或异议，也请及时与我们联系，或者直接通过提交issue表示。
+10. 本项目收录的“用户反馈”，同样来自于互联网，也可能存在不实的问题。如果您对这些用户反馈有疑问或异议，也请及时与我们联系，或者直接通过提交issue表示。
 
 # 版本1.2beta
 
@@ -194,11 +194,11 @@
   - 电话	+86 400 889 2218
   - 网址	www.wz120.cc
   - 地址	上海市徐汇区吴中路2号
-  - 证据	[患者家属](http://health.dahe.cn/yypj/yhb/201207/t20120716_397644.html) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716_397644.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716_397644.html&aqs=chrome..69i57j69i58.4789j0j4&sourceid=chrome&ie=UTF-8) [天涯网友](http://bbs.tianya.cn/post-41-943030-1.shtml) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&aqs=chrome..69i57j69i58.2551j0j4&sourceid=chrome&ie=UTF-8)
+  - 用户反馈	[患者家属](http://health.dahe.cn/yypj/yhb/201207/t20120716_397644.html) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716_397644.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716_397644.html&aqs=chrome..69i57j69i58.4789j0j4&sourceid=chrome&ie=UTF-8) [天涯网友](http://bbs.tianya.cn/post-41-943030-1.shtml) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&aqs=chrome..69i57j69i58.2551j0j4&sourceid=chrome&ie=UTF-8)
 - 上海安真医院
   - 电话 +86 21 5771 1006
   - 地址	上海市松江区人民南路39号
-  - 证据	[天涯广告](http://bbs.tianya.cn/post-41-751455-1.shtml) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-751455-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-751455-1.shtml&aqs=chrome..69i57j69i58.2326j0j4&sourceid=chrome&ie=UTF-8)
+  - 用户反馈	[天涯广告](http://bbs.tianya.cn/post-41-751455-1.shtml) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-751455-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-751455-1.shtml&aqs=chrome..69i57j69i58.2326j0j4&sourceid=chrome&ie=UTF-8)
 - 上海福华医院
   - 电话	+86 21 5196 1999
   - 地址	上海市浦东新区惠南镇城南路98号
@@ -210,7 +210,7 @@
 - 上海真爱(整形美容)医院
   - 电话	+86 21 6226 9000
   - 网址	http://www.shzhenai.com/
-  - 证据 [患者1](http://www.kobeei.com/lc/31713.html) [Google缓存](http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&oq=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.4678j0j4)
+  - 用户反馈 [患者1](http://www.kobeei.com/lc/31713.html) [Google缓存](http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&oq=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.4678j0j4)
 - 上海沪申五官科医院
   - 电话 +86 21 5430 5338
   - 网址 www.hs5g.com
@@ -826,17 +826,17 @@
 ## 龙岩
 
 - 龙岩女子医院
-  - 证据 [诚信网](http://xiaofeipinglun.com/yiyuanjiankang/5664.html) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fxiaofeipinglun.com%2Fyiyuanjiankang%2F5664.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fxiaofeipinglun.com%2Fyiyuanjiankang%2F5664.html&aqs=chrome..69i57j69i58.3136j0j4&sourceid=chrome&ie=UTF-8)
+  - 用户反馈 [诚信网](http://xiaofeipinglun.com/yiyuanjiankang/5664.html) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fxiaofeipinglun.com%2Fyiyuanjiankang%2F5664.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fxiaofeipinglun.com%2Fyiyuanjiankang%2F5664.html&aqs=chrome..69i57j69i58.3136j0j4&sourceid=chrome&ie=UTF-8)
 - 龙岩阳光医院
 
 ## 济南
 
 - 山东东方男科医院
-  - 证据 [患者意见1](http://www.adiguo.com/nanke.html) [Google缓存](http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fwww.adiguo.com%2Fnanke.html&oq=cache%3A%2F%2Fwww.adiguo.com%2Fnanke.html&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.4782j0j9) [患者意见2](http://tieba.baidu.com/p/2314938397) 以上意见仅代表发贴人
+  - 用户反馈 [患者意见1](http://www.adiguo.com/nanke.html) [Google缓存](http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fwww.adiguo.com%2Fnanke.html&oq=cache%3A%2F%2Fwww.adiguo.com%2Fnanke.html&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.4782j0j9) [患者意见2](http://tieba.baidu.com/p/2314938397) 以上意见仅代表发贴人
 - 山东紫荆花医院
-  - 证据 [患者朋友](http://www.fgjy99.com/art2016/2016010391635.html) [Google缓存](http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fwww.fgjy99.com%2Fart2016%2F2016010391635.html&oq=cache%3A%2F%2Fwww.fgjy99.com%2Fart2016%2F2016010391635.html&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.8547j0j7)
+  - 用户反馈 [患者朋友](http://www.fgjy99.com/art2016/2016010391635.html) [Google缓存](http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fwww.fgjy99.com%2Fart2016%2F2016010391635.html&oq=cache%3A%2F%2Fwww.fgjy99.com%2Fart2016%2F2016010391635.html&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.8547j0j7)
 - 山东红十字会医院
-  - 证据 [患者1](http://www.cywty.com/so/tousu1/2016/0504/4709.html) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.cywty.com%2Fso%2Ftousu1%2F2016%2F0504%2F4709.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.cywty.com%2Fso%2Ftousu1%2F2016%2F0504%2F4709.html&aqs=chrome..69i57j69i58.2342j0j4&sourceid=chrome&ie=UTF-8)
+  - 用户反馈 [患者1](http://www.cywty.com/so/tousu1/2016/0504/4709.html) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.cywty.com%2Fso%2Ftousu1%2F2016%2F0504%2F4709.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.cywty.com%2Fso%2Ftousu1%2F2016%2F0504%2F4709.html&aqs=chrome..69i57j69i58.2342j0j4&sourceid=chrome&ie=UTF-8)
 - 济南一零六医院
 - 济南中医不孕不育医院
 - 济南中医白癜风医院
