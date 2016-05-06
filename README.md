@@ -209,7 +209,7 @@
 - 上海真爱(整形美容)医院
   - 电话	+86 21 6226 9000
   - 网址	http://www.shzhenai.com/
-  - 证据 [患者1](http://www.kobeei.com/lc/31713.html) [Google缓存](http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&oq=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.4678j0j4) 
+  - 证据 [患者1](http://www.kobeei.com/lc/31713.html) [Google缓存](http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&oq=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.4678j0j4)
 - 上海沪申五官科医院
   - 电话 +86 21 5430 5338
   - 网址 www.hs5g.com
@@ -285,7 +285,7 @@
 - 上海中骏医学科学研究所
 - 上海天伦医院（注：隶属上海明爱医疗集团）
 	- 电话	+86 21 6566 7633
-	- 电话	+86 21 6525 9999 
+	- 电话	+86 21 6525 9999
 	- 电话	+986 400 666 0102
 	- 电话	+86 21 5515 8829
 	- 网址	http://www.shtl120.com/
@@ -391,6 +391,49 @@
 - 天津长庚耳鼻喉医院
   - 电话 +86 400 6703 120
   - 网址 www.tjcg120.com
+- 天津阿波罗医院
+  - 电话 +86 022-28111999
+  - 网址 http://www.nkyy022.com/
+  - 地址 天津市南开区黄河道38号  
+- 天津美莱医学美容医院
+  - 电话 022-24239999
+  - 网址 null
+  - 地址 天津市河东区华昌道80-92号(裕阳大厦底商)
+
+- 天津254医院 部分科室 (注意是部分科室)
+  - 电话 022-26220266
+  - 地址 天津市河北区黄纬路60号
+  - 网址 http://www.yafrlaowuw.com/
+   ```
+医院别名：天津254医院、解放军254医院
+医院性质：公立/综合医院
+医院等级：三级甲等　　
+联系电话：022-26220266
+联系地址：天津市河北区黄纬路60号
+   ```
+- 解放军464医院 部分科室(部分男科吧)
+  - 电话 联系电话：4000220995
+  - 地址 天津市红旗南路600号
+  - 网址 null
+  ```
+医院别名：天津男科医院
+医院性质：公立/综合医院
+医院等级：三级甲等　　
+联系电话：4000220995
+联系地址：天津市红旗南路600号
+  ```
+- 解放军272医院 部分科室
+  - 电话 400-022-3272
+  - 地址 天津和平区多伦道185号
+  - 网址 null
+  ```
+医院别名：天津解放军第272医院
+医院性质：公立/综合医院
+医院等级：二级甲等
+联系电话：400-022-3272
+联系地址：天津和平区多伦道185号
+  ```
+
 
 ## 广州
 
@@ -782,7 +825,7 @@
 ## 龙岩
 
 - 龙岩女子医院
-  - 证据 [诚信网](http://xiaofeipinglun.com/yiyuanjiankang/5664.html) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fxiaofeipinglun.com%2Fyiyuanjiankang%2F5664.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fxiaofeipinglun.com%2Fyiyuanjiankang%2F5664.html&aqs=chrome..69i57j69i58.3136j0j4&sourceid=chrome&ie=UTF-8) 
+  - 证据 [诚信网](http://xiaofeipinglun.com/yiyuanjiankang/5664.html) [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fxiaofeipinglun.com%2Fyiyuanjiankang%2F5664.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fxiaofeipinglun.com%2Fyiyuanjiankang%2F5664.html&aqs=chrome..69i57j69i58.3136j0j4&sourceid=chrome&ie=UTF-8)
 - 龙岩阳光医院
 
 ## 济南
@@ -1000,7 +1043,7 @@
 
 ## 启东
 - 启东市中医院
-	- 电话	+86  513 8321 2540 
+	- 电话	+86  513 8321 2540
 	- 网址	http://www.qdszyy.com/
 	- 地址	江苏省启东市紫薇中路458号
 
@@ -1625,4 +1668,3 @@
 - 中华肿瘤网
 
 [](hospital list end //PLEASE DO NOT DELETE THIS LINE)
-
