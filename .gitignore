@@ -103,3 +103,6 @@ xcshareddata/
 
 # for vim
 .*.swp
+
+# for npm
+node_modules/
