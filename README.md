@@ -2,10 +2,10 @@
 
 本项目首先来源于：凤凰网医院名单([http://news.ifeng.com/mainland/special/ptxyy/](http://news.ifeng.com/mainland/special/ptxyy/))，后根据github社区程序员添加而成，并不代表名单中的医院就有一定有问题，只是一份初选的名单，项目随后会在这份名单的基础上，做成另一名单，另一份名单的标准如下
 - 曾经投放百度竞价广告 
-- 曾经媒体报道过医疗纠纷或者确认受骗 
+- 曾经媒体报道过医疗纠纷或者受骗
 - 确认是莆田系
 
-- 随后我们会在这三条的基础上，提供更细节的审核标准和流程，由于确认工作十分复杂，工作量很大，也希望github上面的程序员提供资料，提交信息。对于初选的医院名单，也可以继续提供信息
+- 随后我们会在这三条的基础上，提供更细节的审核标准和流程，由于确认工作十分复杂，工作量很大，也希望github上面的程序员提供资料，提交信息。对于初选的医院名单，也可以继续提供信息，项目同时也需要更多的人加入进来管理，如果有兴趣进来管理的，请在Issues里面申请(申请内容不限,注册时间不能太晚)。
 
 # 贡献者指南
 
@@ -16,15 +16,15 @@
 2. 本文章收录的信息均来自互联网，仅为资源共享、学习参考之目的。作者对信息的可用性、准确性或可靠性不作任何承诺与保证。
 3. 如果您对信息有任何异议，请第一时间联系我们。情况属实的，我们会第一时间予以删除，并同时向您表示歉意。
 5. 如果您对信息有任何异议，请第一时间在Issues里面提出。如情况属实的，我们会第一时间予以删除，并同时向您表示歉意。
-6. 本项目收录的“用户反馈”，同样来自于互联网，也可能存在不实的问题。如果您对这些用户反馈有疑问或异议，也请及时与我们联系，或者直接通过提交issue表示。
-7. 如要转发本文章,请一定要把文章内容完全转发完全，并给上原文链接，请清楚这份名单来源。
+6. 本项目收录的“用户反馈”，同样来自于互联网，也可能存在不实的问题。如果您对这些用户反馈有疑问或异议，也请及时与我们联系,请直接通过提交issue内容(这样大家都看的见)。
+7. 如要转发本文章,请一定要把文章内容完全转发完全，并给上原文链接，写清楚这份名单来源。
 8. 原维护这个项目的管理员@langhua9527，由于个人能力和经验不足，加上工作时间忙， 已经退出本项目的维护，已有新的团队来管理这个项目，新的管理员是@fakeforreg
 
 # 关联项目
 1. @wandergis 已经根据凤凰网的数据做了一个地图出来 https://github.com/wandergis/hospital-viz
 2. @fushenghua 也开源了一个查询的 https://github.com/fushenghua/GetHosp/ 的项目
 3. [@neuyu](https://github.com/neuyu) 已经开源了一个原生的Android APP https://github.com/neuyu/BlackHospital
-4. 三个浏览器插件[@erichuang199](https://github.com/erichuang1994/PTXNotification)和[@zhangjh](https://github.com/zhangjh/chromeExt)和[@hustcc](https://github.com/hustcc/PTHospital.chrome)
+4. 五个浏览器插件[@erichuang199](https://github.com/erichuang1994/PTXNotification)和[@zhangjh](https://github.com/zhangjh/chromeExt)和[@hustcc](https://github.com/hustcc/PTHospital.chrome)和[@huntbao](https://github.com/open-power-workgroup/Hospital/issues/195)和[@Pearyman](https://github.com/open-power-workgroup/Hospital/issues/195)
 
 
 # 版本1.2beta
