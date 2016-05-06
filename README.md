@@ -779,8 +779,6 @@
 - 杭州和睦医院
   - 网址：www.hm120.cn
 - 杭州真爱医院
-- 杭州瑞丽医疗美容医院
-  - 网址：www.ruilizx.com www.hzzxyy.cc www.85181111.net www.railyzx.com
 - 杭州同济医院
   - 网址：www.0571tongji.com www.hztjh.com
 
