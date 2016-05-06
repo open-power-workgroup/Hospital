@@ -60,14 +60,7 @@ def __parse_hospital_info__(info_line=""):
 
 
 def __get_leading_space_num__(line=""):
-    leading_space_num = 0
-    for char in line:
-        if char == ' ':
-            leading_space_num += 1
-            continue
-        else:
-            break
-    return leading_space_num
+    return len(line) - len(line.lstrip(' '))
 
 
 def __get_info_line_num__(content_lines=('',)):
