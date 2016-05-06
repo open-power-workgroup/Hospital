@@ -58,4 +58,4 @@ def write_log(*args):
         with open(log_name, 'a', encoding='utf-8') as f:
             f.write(line)
     except IOError:
-        print(FMT.format(filename))
+        print(FMT.format(log_name))
