@@ -1,4 +1,7 @@
 """
+This file was created by Chantisnake
+This code obeys GPL V3.0 licence
+
 this file is the helpers for this project,
 which includes the constants and general function(functions that are used cross file)
 """
@@ -9,7 +12,13 @@ which includes the constants and general function(functions that are used cross 
 HOSPITAL_LIST_BEGIN_SYMBOL = "[](hospital list begin //PLEASE DO NOT DELETE THIS LINE)"
 HOSPITAL_LIST_END_SYMBOL = "[](hospital list end //PLEASE DO NOT DELETE THIS LINE)"
 CHINESE_REGEX_WITH_NUM_LETTER = r'[\u4e00-\u9fffA-Za-z0-9.():/?=%]+'
-FMT = '''file cannot be created
+
+FILE_WRITE_ERROR = '''file cannot be created
+the input file name is {}
+if you do not understand the message, please open a new issue at:
+https://github.com/open-power-workgroup/Hospital/issues'''
+
+FILE_READ_ERROR = '''the file cannot be found please make sure that you have correct file name inputted'
 the input file name is {}
 if you do not understand the message, please open a new issue at:
 https://github.com/open-power-workgroup/Hospital/issues'''
@@ -29,10 +38,7 @@ def read_file(filename):
             return f.readlines()
 
     except IOError:  # file don't exist
-        print('the file cannot be found please make sure that you have correct file name inputted')
-        print('the input file name is', filename)
-        print('if you do not understand the message, please fire a issue at:')
-        print('https://github.com/open-power-workgroup/Hospital/issues')
+        print(FILE_READ_ERROR.format(filename))
 
 
 def write_file(filename, content):
@@ -47,7 +53,7 @@ def write_file(filename, content):
             f.write(content)
 
     except IOError:  # file don't exist
-        print(FMT.format(filename))
+        print(FILE_WRITE_ERROR.format(filename))
 
 
 def write_log(*args):
@@ -58,4 +64,4 @@ def write_log(*args):
         with open(log_name, 'a', encoding='utf-8') as f:
             f.write(line)
     except IOError:
-        print(FMT.format(log_name))
+        print(FILE_WRITE_ERROR.format(log_name))
