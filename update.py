@@ -1,3 +1,15 @@
+"""
+This file was created by Chantisnake
+This code obeys GPL V3.0 licence
+
+this file is the main of the code project, this handles two functions:
+- run:
+parses the readme and update all the info in `$REPO_ROOT$/resource/API_reference` (a json and a yaml format of the data)
+- debug:
+parse the readme in debug mode, which will write down all the process of parsing in `$REPO_ROOT$/debug.log`
+this function will note update json and yaml file in `$REPO_ROOT$/resource/API_reference`.
+"""
+
 from resource.python_resource import json_writer
 from resource.python_resource import yaml_writer
 from resource.python_resource import readme_reader

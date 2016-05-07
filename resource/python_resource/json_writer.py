@@ -1,3 +1,11 @@
+"""
+This file was created by Chantisnake
+This code obeys GPL V3.0 licence
+
+this file contain only a function `write`,
+which will dump the input info_dict into a json file into `$REPO_ROOT$/resource/API_resource/hospital_list.json`
+"""
+
 import json
 import os
 

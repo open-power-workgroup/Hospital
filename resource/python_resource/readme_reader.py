@@ -1,4 +1,7 @@
 """
+This file was created by Chantisnake
+This code obeys GPL V3.0 licence
+
 this file provides series of functions to parse and read the README
 and will return a dictionary object with all the information in the readme
 you know, dictionary, so make sure you computer has enough memory (if one day we really have thousands of data)
