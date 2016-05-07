@@ -820,7 +820,6 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
  - 网址 http://www.xygfkyy.net
  - 网址 http://www.qzsznyy.net
  - 网址 http://www.qzsznyy.com
- - 网址 http://www.0595fk.com
 - 泉州坤如玛丽医院
  - 负责人 徐金源
  - 网址 http://www.0595ml.com
