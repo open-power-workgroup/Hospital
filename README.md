@@ -28,6 +28,8 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
 
 1. 开发者如果需要使用本 repo 的数据，可以通过 [`resource/API_resource/`](resource/API_resource) 中的 yaml 和 json 文件来获取数据
   * 如果发现数据不同步，可以 fork 之后用 `python update.py` 来更新 yaml 和 json 文件，并提交 pull request
+  * 如果发现 `update.py` 运行过程中有 Warning，或者 json 和 yaml 中有错误，可以通过 `python update.py debug` 来 debug 所有的输出结果。
+    程序运行的 log 会写在根目录中的 `debug.log` 中。这个文件不会被 commit。
 
 # 特别申明
 1. 本项目不会有任何商业目的。如果出现不当的情况，请大家及时指出，并随时监督。
