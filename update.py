@@ -33,9 +33,7 @@ def debug():
 
 
 if __name__ == '__main__':
-    if len(sys.argv) <= 1:
+    if len(sys.argv) <= 1 or sys.argv[1].lower() == 'run':
         run()
-    elif sys.argv[1] == 'run':
-        run()
-    elif sys.argv[1] == debug():
+    elif sys.argv[1].lower() == 'debug':
         debug()
