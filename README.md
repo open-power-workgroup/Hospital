@@ -805,10 +805,25 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
 
 ## 泉州
 
-- 泉州华美美莱整形医院
+- 泉州华美美莱整形美容医院
+ - 负责人 龚英格
+ - 电话 0595-28266666
+ - 网址 http://www.qzmylike.com
+ - 网址 http://www.qzhmzx.com
 - 泉州南亚华侨医院
 - 泉州新阳光女子医院
+ - 负责人 郑海滨
+ - 电话 0595-28966788
+ - 网址 http://www.0595fk.com
+ - 网址 http://www.xyg120.net
+ - 网址 http://www.xygfkyy.com
+ - 网址 http://www.xygfkyy.net
+ - 网址 http://www.qzsznyy.net
+ - 网址 http://www.qzsznyy.com
+ - 网址 http://www.0595fk.com
 - 泉州坤如玛丽医院
+ - 负责人 徐金源
+ - 网址 http://www.0595ml.com
 - 泉州南亚医院
 - 泉州南亚医院黑龙江和平医院
 
