@@ -13,8 +13,9 @@ this function will note update json and yaml file in `$REPO_ROOT$/resource/API_r
 from resource.python_resource import json_writer
 from resource.python_resource import yaml_writer
 from resource.python_resource import readme_reader
+import io
 import sys
-
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer,encoding='utf-8')
 
 def run():
     print('run in normal mode')
