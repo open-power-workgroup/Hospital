@@ -1262,7 +1262,8 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
   -负责人：曾朝阳
   - 网址：csck120.com csby120.com csyouyun.com mlyfuke.com csmaliya.net mlyhn.com mly100.com 100mly.com mlybaby.com mariarl.com bjcsmly.com 5mmy.com maliyayy.com ckmly.com cslxg.com topmly.com xcmly.com mlyyr.com 39mly.com 99mly.com 5mun.com 7znn.com
   - 联系电话：0731-83999120
-  - 该医院隶属于长沙百佳玛丽亚妇产医院有限公司，该公司属于百佳国际集团旗下，与武汉百佳医院属于同一家公司旗下。武汉百家医院是已知莆田系
+  - 该医院隶属于长沙百佳玛丽亚妇产医院有限公司，该公司属于百佳国际集团旗下，与武汉百佳医院属于同一家公司旗下。武汉百佳医院是已知莆田系医院
+  - 
 ##耒阳
 
 - 耒阳云森医院
