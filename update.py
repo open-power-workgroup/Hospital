@@ -23,7 +23,8 @@ def run():
     yaml_writer.write(info_dict)
     print('info wrote down as yaml')
     json_writer.write(info_dict)
-    print('info wrote down in resource/API_resource')
+    print('info wrote down as json')
+    print('all info write down in resource/API_resource/')
     print('all finished')
 
 
