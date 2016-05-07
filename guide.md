@@ -37,3 +37,7 @@
 
 另外，还可以通过这些信息挖出其他莆田系医院：
 http://i.imgur.com/fUJaGy4.png
+
+# 网络调查技术与工具
+
+1. [工信部 ICP 备案查询链接](http://www.miibeian.gov.cn/publish/query/indexFirst.action)
