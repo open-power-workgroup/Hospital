@@ -4,7 +4,7 @@ This repo provides a list of hospitals in China that meet the following conditio
 
 1. Has/had paid advertisements on Baidu
 2. Has been reported on by the media for fraud
-3. Has a direct relationship with the Putian Network (a medical investment group in China)
+3. Has a direct relationship with the *Putian Department* (a lot of medical investment groups founded by persons and families from **Putian**, Fujian Province of China)
 
 The motivation for creating this repo can be read in articles like:
 
