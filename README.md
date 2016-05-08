@@ -46,6 +46,7 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
 # 关联项目
 1. 基于凤凰网数据的[医院地图](https://github.com/wandergis/hospital-viz) 
 1. [饥猪阅读（Piggy Reader）](https://github.com/huntbao/piggyreader)采用本项目数据在用户浏览时加以提示
+2. [用于Firefox的浏览器脚本](https://github.com/open-power-workgroup/Hospital/issues/213)，在Firefox中对用户加以提示
 1. 一个[有情怀的医院查询插件](https://github.com/fushenghua/GetHosp/)
 1. 基于凤凰网莆田医院数据做的[Android原生应用](https://github.com/neuyu/BlackHospital),可以定位到用户所在城市
 1. 其他四个浏览器插件[@erichuang199](https://github.com/erichuang1994/PTXNotification)和[@zhangjh](https://github.com/zhangjh/chromeExt)和[@hustcc](https://github.com/hustcc/PTHospital.chrome)和[@Pearyman](https://github.com/open-power-workgroup/Hospital/issues/195)
