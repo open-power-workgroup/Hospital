@@ -1,0 +1,35 @@
+dataversion: draft1
+created: 1462667234
+updated: 1462667234
+id: b68f8b16-26e4-4ab1-bce0-459e02b447ef
+name: 北京艾丽斯妇科医院
+city: 北京
+province: 北京
+address: 北京市海淀区北四环西路9号
+location: 
+  - lat : 39.987327
+    lng : 116.334477
+principal: ""
+url:
+  - http://www.fuke120.cn
+phone:
+  - 010-62800867
+baiduad:
+  - ad: No
+  - evidence:
+    - url1  
+    - url2  
+  - snapshot:
+    - url1  
+    - url2  
+news:  
+  - url: http://money.163.com/16/0329/09/BJAIJCRK00253B0H.html
+    snapshot: http://snapshot/http://money.163.com/16/0329/09/BJAIJCRK00253B0H.html
+comments:
+  - url: http://www.dianping.com/shop/4674723/review_more
+    snapshot: http://snapshot/http://www.dianping.com/shop/4674723/review_more
+  - url: http://ask.yaolan.com/question/15112409310913796432.html
+    snapshot: http://snapshot/http://ask.yaolan.com/question/15112409310913796432.html
+putian:
+  - evidence:
+    - ""
