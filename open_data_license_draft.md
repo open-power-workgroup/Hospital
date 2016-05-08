@@ -1,3 +1,5 @@
+## 这是讨论中的草稿 尚未正式使用。
+
 You are encouraged to use the Information that is available under this licence with only a few conditions.
 
 欢迎使用本项目提供的数据，以下是数据使用许可证相关信息，这份许可证只有很少的条件。
