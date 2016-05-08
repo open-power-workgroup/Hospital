@@ -19,9 +19,11 @@ import sys
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 
-def run():
+def run(show_error=True):
     print('run in normal mode')
-    info_dict = readme_reader.read()
+    if not show_error:
+        print('run in silent mode, there will be no warning and error message')
+    info_dict = readme_reader.read(show_error=show_error)
     print('info read, stored in info_dict')
     yaml_writer.write(info_dict)
     print('info wrote down as yaml')
@@ -37,7 +39,14 @@ def debug():
 
 
 if __name__ == '__main__':
-    if len(sys.argv) <= 1 or sys.argv[1].lower() == 'run':
+    if len(sys.argv) <= 1:
         run()
-    elif sys.argv[1].lower() == 'debug':
+    elif 'run' in sys.argv and 'debug' not in sys.argv and '--silent' not in sys.argv:
+        run()
+    elif 'debug' in sys.argv and 'run' not in sys.argv:
         debug()
+    elif '--silent' in sys.argv and 'debug' not in sys.argv:
+        run(show_error=False)
+    else:
+        print('input is invalid')
+
