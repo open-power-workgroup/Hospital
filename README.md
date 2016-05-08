@@ -1,4 +1,4 @@
-[English translation](README_en.md)
+## [English translation](README_en.md)
 
 # 这是什么？
 
