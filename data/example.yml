@@ -1,0 +1,37 @@
+dataversion: draft1 #数据格式版本
+created: 1462667234 #文件创建时间
+updated: 1462667234 #修改时间
+id: b68f8b16-26e4-4ab1-bce0-459e02b447ef #Version 4 UUID
+name: 北京艾丽斯妇科医院 #名称
+city: 北京 #城市
+province: 北京 #省份
+address: 北京市海淀区北四环西路9号 #地址
+type: 民营医院 #类型，民营医院/外包科室
+location:  #经纬度，目前使用地址从Google maps获得
+  - lat : 39.987327
+    lng : 116.334477
+principal: "" #负责人 可使用各省工商局提供的企业信用公示系统获得
+url: #医院网站 可能有很多个
+  - http://www.fuke120.cn
+phone: #医院电话 可能有很多个
+  - 010-62800867
+baiduad: #百度广告情况
+  - confirm: No #是否投放 Yes/No/null
+  - evidence: #证据
+    - url1  
+    - url2  
+  - snapshot:
+    - url1  
+    - url2  
+news:  #媒体报道 URL和快照
+  - url: http://money.163.com/16/0329/09/BJAIJCRK00253B0H.html
+    snapshot: http://snapshot/http://money.163.com/16/0329/09/BJAIJCRK00253B0H.html
+putian: #莆田系相关
+  - confirm: #是否确认 Yes/No/null
+  - evidence: #证据
+    - ""
+comments: #用户评论 URL和快照
+  - url: http://www.dianping.com/shop/4674723/review_more
+    snapshot: http://snapshot/http://www.dianping.com/shop/4674723/review_more
+  - url: http://ask.yaolan.com/question/15112409310913796432.html
+    snapshot: http://snapshot/http://ask.yaolan.com/question/15112409310913796432.html
