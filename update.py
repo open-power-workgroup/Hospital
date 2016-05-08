@@ -15,7 +15,9 @@ from resource.python_resource import yaml_writer
 from resource.python_resource import readme_reader
 import io
 import sys
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer,encoding='utf-8')
+
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+
 
 def run():
     print('run in normal mode')
