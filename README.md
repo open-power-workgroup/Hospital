@@ -1,3 +1,5 @@
+## [English translation](README_en.md)
+
 # 这是什么？
 
 本项目的意图是收集汇总与国内一些医疗机构有关的信息，供广大寻医问药的患者及家属参考。
@@ -9,7 +11,7 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
 
 ---
-[English translation](README_en.md)
+
 
 # 第一批医院名单
 
