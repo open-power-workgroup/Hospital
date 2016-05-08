@@ -592,11 +592,12 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
  - 负责人：林国金
  - 网站：http://yyk.99.com.cn/baoan/105761/jianjie.html
  - 电话：4008669999
- - 证据：（1）https://www.google.com/#q=%E6%9E%97%E5%9B%BD%E9%87%91+%E5%8C%BB%E9%99%A2&btnK=Google+%E6%90%9C%E7%B4%A2
-         （2）http://imgur.com/UzfXaWV
-          (3) http://imgur.com/PdDIwHo
-          (4) http://imgur.com/5PiBr6e
-          (5) http://imgur.com/LcXYUo0
+ - 证据：
+     1. https://www.google.com/#q=%E6%9E%97%E5%9B%BD%E9%87%91+%E5%8C%BB%E9%99%A2&btnK=Google+%E6%90%9C%E7%B4%A2
+     2. http://imgur.com/UzfXaWV
+     3. http://imgur.com/PdDIwHo
+     4. http://imgur.com/5PiBr6e
+     5. http://imgur.com/LcXYUo0
 
 ## 昆明
 
