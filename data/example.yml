@@ -28,7 +28,7 @@ news:  #媒体报道 URL和快照
   - evidence: #证据
     - url: http://money.163.com/16/0329/09/BJAIJCRK00253B0H.html #原始URL
       snapshot: http://snapshot/http://money.163.com/16/0329/09/BJAIJCRK00253B0H.html #快照 格式可以是稳定的第三方快照服务，也可以是页面截图链接
-      dateline: san577478, OpenPower, 05/08/2016 @ 12:27am (UTC) - submit #dateline是新闻媒体常用的格式，一般是一小段文本，写明贡献者、组织、时间、描述。
+      dateline: san577478, OpenPower, 05/08/2016 @ 12:27am (UTC) - submit #dateline是新闻媒体常用的格式，一般是一小段文本，写明贡献者、组织、时间、描述。参考： https://en.wikipedia.org/wiki/Dateline
     - url: ""
       snapshot: ""
       dateline: ""
