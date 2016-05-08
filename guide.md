@@ -40,4 +40,36 @@ http://i.imgur.com/fUJaGy4.png
 
 # 网络调查技术与工具
 
-1. [工信部 ICP 备案查询链接](http://www.miibeian.gov.cn/publish/query/indexFirst.action)
+## 网站域名查询
+
+[工信部 ICP 备案查询链接](http://www.miibeian.gov.cn/publish/query/indexFirst.action)
+
+## 使用工商局企业信用信息公示系统调查取证方法
+
+全国企业信用信息公示系统: http://gsxt.saic.gov.cn 这个页面上有各省系统的入口链接
+
+以 上海万众医院 为例
+
+1 进入上海公示系统 https://www.sgs.gov.cn/notice/home
+
+2 输入 上海万众医院 或者 万众医院 搜索 （如果找不到，可自行尝试缩短关键词搜索）
+
+3 得到搜索结果 上海万众医院有限公司，进入详情页面： https://www.sgs.gov.cn/notice/notice/view?uuid=PS0hIGEWVK63gZt7AqIcxkQZ5Db8QeQZ&tab=01
+
+这个页面上可以看到法定代表人姓名，注册资本，股东名单等关键信息
+
+法定代表人  占阳珊
+
+股东信息: 企业法人  上海万众医疗投资股份有限公司  企业法人营业执照(公司)  310000000094361
+
+4 Google搜索 占阳珊
+
+找到相关结果：
+
+上海市莆田商会常务副会长占阳珊 http://www.shptsh.com/index.php?m=cms&q=view&id=94
+
+同济大学与莆系医疗合作共建附属医院 http://t1.cn-healthcare.com/article/20150401/content-472036.html
+
+“关于万众医疗，根据公开可查询的资料，万众医疗董事长为占阳珊，副董事长为詹阳斌”
+
+确认为莆田系医院
