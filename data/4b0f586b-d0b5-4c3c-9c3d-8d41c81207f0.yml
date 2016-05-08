@@ -1,0 +1,56 @@
+dataversion: draft1 
+created: 1462696233
+updated: 1462696233
+id: 4b0f586b-d0b5-4c3c-9c3d-8d41c81207f0
+USID: "310115000904981"
+name: 上海华美医疗美容医院
+city: 上海
+province: 上海
+address: 上海市市辖区浦东新区源深路155号
+type: 民营医院 
+location:  
+  - lat : 31.239803 
+    lng : 121.530622
+principal: "雷启龙" 
+shareholder: 
+  - "黄志佳"
+  - "洪玲燕"
+url: 
+  - http://www.shhuamei.cn/
+phone: 
+  - 021-58856655
+  - 400-8806580
+baiduad:
+  - confirm: Yes
+  - evidence: 
+    - url: "http://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=229797933&idx=1&sn=d7b4d6917c2941efb2eee7494201c93e&scene=1&key=1936e2bc22c2ceb5b6cec9957668679bdee0eccba1c2ad490fb58174dccade1ad09d2a74f232433cdfc40c6553844685&ascene=1&uin=MjAwMzY4MTg0MA%3D%3D&devicetype=webwx&version=70000001&pass_ticket=cA2YNqi6SeOqPHDGMkFn4V8VhPmwdC72TQSVf6rqoWn45p3PCw1vhwI%2F0MWvr57L"
+      title: "百度竞价排名:山寨医院冒充知名医院"
+      snapshot: http://i.imgur.com/K2jBQnw.jpg
+      dateline: "san577478, OpenPower, 05/08/2016 @ 8:43am (UTC) - 上海华美医院在使用百度推广时，仍然在百度推广中设置了“九院”、“九院官网”、“九院地址”等关键词"
+news:  
+  - evidence: 
+    - url: "http://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=229797933&idx=1&sn=d7b4d6917c2941efb2eee7494201c93e&scene=1&key=1936e2bc22c2ceb5b6cec9957668679bdee0eccba1c2ad490fb58174dccade1ad09d2a74f232433cdfc40c6553844685&ascene=1&uin=MjAwMzY4MTg0MA%3D%3D&devicetype=webwx&version=70000001&pass_ticket=cA2YNqi6SeOqPHDGMkFn4V8VhPmwdC72TQSVf6rqoWn45p3PCw1vhwI%2F0MWvr57L"
+      title: "百度竞价排名:山寨医院冒充知名医院"
+      snapshot: http://i.imgur.com/K2jBQnw.jpg
+      dateline: "san577478, OpenPower, 05/08/2016 @ 8:43am (UTC) - 上海华美医院在使用百度推广时，仍然在百度推广中设置了“九院”、“九院官网”、“九院地址”等关键词"
+    - url: "http://newspaper.jfdaily.com/xwcb/html/2016-01/06/content_163209.htm"
+      title: "民营医院傍名院 虚假宣传被罚款"
+      snapshot: http://i.imgur.com/y5RMFoJ.png
+      dateline: "san577478, OpenPower,05/08/2016 @ 8:46am (UTC) - 日前，“上海华美医疗美容医院”因冒用他人名义进行虚假宣传，被工商部门依法处罚款20万元。"
+putian: 
+  - confirm: Yes
+  - evidence: 
+    - url: "http://finance.sina.com.cn/chanjing/cyxw/20140717/110219729613.shtml"
+      title: "俞敏洪炮轰莆田系民营医院"
+      snapshot: http://i.imgur.com/Wez5qVP.jpg
+      dateline: "san577478, OpenPower,05/08/2016 @ 8:46am (UTC) - 圈内人士知道的陈氏产业，还有华美整形系医院"
+
+comments: 
+  - evidence:
+    - url: ""
+      snapshot: ""
+      title: ""
+      dateline: ""
+
+
+
