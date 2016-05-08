@@ -38,8 +38,13 @@
 另外，还可以通过这些信息挖出其他莆田系医院：
 http://i.imgur.com/fUJaGy4.png
 
+# 网络调查技术与工具
 
-#使用工商局企业信用信息公示系统调查取证方法
+## 网站域名查询
+
+[工信部 ICP 备案查询链接](http://www.miibeian.gov.cn/publish/query/indexFirst.action)
+
+## 使用工商局企业信用信息公示系统调查取证方法
 
 全国企业信用信息公示系统: http://gsxt.saic.gov.cn 这个页面上有各省系统的入口链接
 

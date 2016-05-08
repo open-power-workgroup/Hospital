@@ -92,6 +92,8 @@ def __parse_all__(content_lines=("",), debug_mode=False):
     for content_line in content_lines:
         if not content_line.isspace():  # if this line is not space
 
+            content_line = content_line.replace('\t', '    ')  # replace tab with four spaces
+
             if debug_mode:
                 helpers.write_log('')
                 helpers.write_log('this is the current line we are processing:')
@@ -167,6 +169,9 @@ def __parse_all__(content_lines=("",), debug_mode=False):
                     print('    previous line has', prev_leading_space_num, 'leading white spaces')
                     print('    current line has', cur_leading_space_num, 'leading white spaces')
                     input('press <enter> to continue')
+                    # just pass the previous info to this line to disregard this line
+                    cur_type_index = prev_type_index
+                    cur_leading_space_num = prev_leading_space_num
                     if debug_mode:
                         helpers.write_log('we cannot recognize the type of the line')
                         helpers.write_log('here is some information you can send to the issue:')

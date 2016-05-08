@@ -31,6 +31,7 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
   * 如果发现 `update.py` 运行过程中有 Warning，或者 json 和 yaml 中有错误，可以通过 `python update.py debug` 来 debug 所有的输出结果。
     程序运行的 log 会写在根目录中的 `debug.log` 中。`debug.log` 不会被 commit。
 2. 本项目所有代码遵守 [GPL V3.0 协议](https://opensource.org/licenses/GPL-3.0)
+3. 所有基于本项目的其他项目，包括使用源码，和使用 api 的项目必须开源。[原因请看此处](https://github.com/open-power-workgroup/Hospital/issues/224)
 
 # 特别申明
 1. 本项目不会有任何商业目的。如果出现不当的情况，请大家及时指出，并随时监督。
@@ -821,7 +822,6 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
  - 网址 http://www.xygfkyy.net
  - 网址 http://www.qzsznyy.net
  - 网址 http://www.qzsznyy.com
- - 网址 http://www.0595fk.com
 - 泉州坤如玛丽医院
  - 负责人 徐金源
  - 网址 http://www.0595ml.com
