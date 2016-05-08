@@ -10,7 +10,7 @@ You are encouraged to use the Information that is available under this licence w
 * Use of any Information indicates your acceptance of the terms below.
 * 使用本项目提供的任何信息，表明你同意遵守以下条款。
 * The Information Provider grants you a worldwide, royalty-free, perpetual, non-exclusive licence to use the Information, including for commercial purposes, subject to the terms below.
-* 以下信息授予你一项全球性、永久性、不可撤回、包括商业目的使用许可证，本许可证受以下条款约束。
+* 以下信息授予你一项全球性、永久性、不可撤回、非商业目的使用许可证，本许可证受以下条款约束。
 
 ### You are free to:
 ### 你可以自由的：
