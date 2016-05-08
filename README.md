@@ -4,7 +4,7 @@
 
 本项目的意图是收集汇总与国内一些医疗机构有关的信息，供广大寻医问药的患者及家属参考。
 
-本项目由Open Power小组共同维护。Open Power小组是一个由志愿者组成的工作组，我们深知自己的能力有限，因此我们只能分享我们当前所知的信息，确保我们没有捏造信息，并努力提高信息的可信度至于这些信息应该如何指导行动，我们保持缄默。
+本项目由Open Power小组共同维护。Open Power小组是一个由志愿者组成的工作组，我们深知自己的能力有限，因此我们只能分享我们当前所知的信息，确保我们没有捏造信息，并努力提高信息的可信度。至于这些信息应该如何指导行动，我们保持缄默。
 
 本项目所有信息基于以下授权协议发布：<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
