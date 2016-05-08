@@ -17,6 +17,8 @@ This project is maintained by the Open Power Group panel, a collection of volunt
 
 The purpose of the Open Power Group is to encourage accountability and clear audit standards for medical institutions in China. As the work is complex and vast, we hope that anybody interested in this subject will contribute information. In particular, we need those with a technical background to join the core architecture team. If you are interested, please make a ticket in the issues section with your details.
 
+The Open Power Group is not related in any way to the OpenPOWER Foundation](http://openpowerfoundation.org).
+
 ### Guidelines
 
 1. This project has no comercial purpose. If any use of data from this project is connected with commercial use, please notify us.
