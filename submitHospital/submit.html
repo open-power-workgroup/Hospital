@@ -132,6 +132,9 @@
               <input class="input-xlarge" type="text" name="baidu_evidence_dateline" id="baidu_evidence_dateline" value="" >
             </div>
           </div>
+          <div class="form-actions">
+            <input type="button" name="baidu_news_evidence" id="add_baidu_evidence" value="Add" class="btn btn-primary">
+          </div>
 
 
           <legend>莆田系关联</legend>  
@@ -164,6 +167,9 @@
               <input class="input-xlarge" type="text" name="putian_evidence_dateline" id="putian_evidence_dateline" value="" >
             </div>
           </div>
+          <div class="form-actions">
+            <input type="button" name="putian_news_evidence" id="add_putian_evidence" value="Add" class="btn btn-primary">
+          </div>
 
           <legend>媒体报道情况</legend>  
           <div class="control-group news_evidence">
@@ -184,6 +190,9 @@
               <input class="input-xlarge" type="text" name="news_evidence_dateline" id="news_evidence_dateline" value="" >
             </div>
           </div>
+          <div class="form-actions">
+            <input type="button" name="add_news_evidence" id="add_news_evidence" value="Add" class="btn btn-primary">
+          </div>
 
           <legend>用户评论</legend>  
           <div class="control-group comment_evidence">
@@ -203,6 +212,9 @@
             <div class="controls">
               <input class="input-xlarge" type="text" name="comment_evidence_dateline" id="comment_evidence_dateline" value="" >
             </div>
+          </div>
+          <div class="form-actions">
+            <input type="button" name="add_comment_evidence" id="add_comment_evidence" value="Add" class="btn btn-primary">
           </div>
 
           
@@ -225,9 +237,30 @@
 
     var submitdata=function(){
     }
+    var add_evidence=function(item_name){
 
+          var new_evidence=$($("."+item_name+"_evidence")[0]).clone();
+          $(new_evidence.find("#"+item_name+"_evidence_url")[0]).val("")
+          $(new_evidence.find("#"+item_name+"_evidence_title")[0]).val("")
+          $(new_evidence.find("#"+item_name+"_evidence_snapshot")[0]).val("")
+          $(new_evidence.find("#"+item_name+"_evidence_dateline")[0]).val("")
+
+          new_evidence.clone().insertAfter($("."+item_name+"_evidence")[$("."+item_name+"_evidence").length-1]);
+    }
     $(document).ready(function () {
-      newitem();
+        newitem();
+        $( "#add_comment_evidence" ).click(function() {
+          add_evidence("comment");
+        });
+        $( "#add_putian_evidence" ).click(function() {
+          add_evidence("putian");
+        });
+        $( "#add_baidu_evidence" ).click(function() {
+          add_evidence("baidu");
+        });
+        $( "#add_news_evidence" ).click(function() {
+          add_evidence("news");
+        });
         
         $("form")
           .submit(function(){
