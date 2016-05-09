@@ -1,0 +1,3 @@
+[submodule "data/china-province-city-district-list"]
+	path = data/china-province-city-district-list
+	url = https://github.com/zerozh/china-province-city-district-list.git
