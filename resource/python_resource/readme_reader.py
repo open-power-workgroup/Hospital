@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# Coding: utf-8
+
 """
 This file was created by Chantisnake
 This code obeys GPL V3.0 licence
@@ -27,6 +30,7 @@ the dictionary will of this form:
 
 }
 """
+
 import json
 import os
 import re
@@ -92,6 +96,17 @@ def __parse_all__(content_lines=("",), debug_mode=False, show_error=True):
     cur_info = ""  # this is the current info that we are parsing (used in info_subitem)
     info_dict = {}  # the return variable that contain all the
     indentation_list = []  # this is the list that tracks the parent item indentation
+
+    def log_city_hospital():
+        if debug_mode:
+            helpers.write_log('the current city is:', cur_city)
+            helpers.write_log('the current hospital is:', cur_hospital)
+
+    def log_city_hospital_info():
+        if debug_mode:
+            log_city_hospital()
+            helpers.write_log('the current info name is:', cur_info)
+            helpers.write_log('the current info info is:', info_dict[cur_city][cur_hospital][cur_info])
 
     # calculation
     for content_line in content_lines:
@@ -162,8 +177,7 @@ def __parse_all__(content_lines=("",), debug_mode=False, show_error=True):
                         info_dict[cur_city].update({parsed_line: {}})
                         cur_hospital = parsed_line
                         if debug_mode:
-                            helpers.write_log('the city is:', cur_city)
-                            helpers.write_log('hospital is:', cur_hospital)
+                            log_city_hospital()
                 # this is a info line
                 elif cur_type_index == 1:
                     # value is a list, to indicate whether there is a value
@@ -187,10 +201,7 @@ def __parse_all__(content_lines=("",), debug_mode=False, show_error=True):
                         info_dict[cur_city][cur_hospital][key] = value
                     cur_info = key
                     if debug_mode:
-                        helpers.write_log('the current city is:', cur_city)
-                        helpers.write_log('the current hospital is:', cur_hospital)
-                        helpers.write_log('the current info name is:', cur_info)
-                        helpers.write_log('the current info info is:', info_dict[cur_city][cur_hospital][cur_info])
+                        log_city_hospital_info()
                 # this is a info suitem line
                 elif cur_type_index == 2:
                     parsed_line = __parse_info_subitem__(content_line)
@@ -207,10 +218,7 @@ def __parse_all__(content_lines=("",), debug_mode=False, show_error=True):
                     else:
                         info_dict[cur_city][cur_hospital][cur_info].append(parsed_line)
                         if debug_mode:
-                            helpers.write_log('the current city is:', cur_city)
-                            helpers.write_log('the current hospital is:', cur_hospital)
-                            helpers.write_log('the current info name is:', cur_info)
-                            helpers.write_log('the current info info is:', info_dict[cur_city][cur_hospital][cur_info])
+                            log_city_hospital_info()
 
                 else:
                     if show_error:
