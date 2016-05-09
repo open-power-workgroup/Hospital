@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    
+    <title>Add a items</title>
+
+    <!-- include Bootstrap CSS for layout -->
+    <link href="./bootstrap-combined.min.css" rel="stylesheet">
+  </head>
+  
+  <body>
+    <div class="container">
+      <h1>提交医院 （开发中，未完成）</h1>
+      
+      <form method="post" class="form-horizontal">
+        <fieldset>
+          <legend></legend>  
+
+          <div class="control-group">
+            <label class="control-label" for="id">id</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="id" id="id" value="">
+            </div>
+          </div>
+
+          <div class="control-group">
+            <label class="control-label" for="USID">统一社会信用代码</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="usid" id="usid" value="">
+            </div>
+          </div>
+
+          <div class="control-group">
+            <label class="control-label" for="name">名称</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="name" id="name" value="">
+            </div>
+          </div>
+
+          <div class="control-group">
+            <label class="control-label" for="city">城市</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="city" id="city" value="">
+            </div>
+          </div>
+
+          <div class="control-group">
+            <label class="control-label" for="province">省份</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="province" id="province" value="">
+            </div>
+          </div>
+
+          <div class="control-group">
+            <label class="control-label" for="address">地址</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="address" id="address" value="">
+            </div>
+          </div>
+          <div class="control-group">
+            <label class="control-label" for="type">医院类型</label>
+            <div class="controls">
+              <select name="type" id="type">
+                <option value="">Please select</option>
+                <option value="民营医院">民营医院</option>
+                <option value="外包科室">外包科室</option>
+              </select>
+            </div>
+          </div>
+      
+          <div class="control-group">
+            <label class="control-label" for="location">经纬度</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="location" id="location" placeholder="格式: 39.987327,116.334477" value="">
+            </div>
+          </div>
+    
+          <div class="control-group">
+            <label class="control-label" for="principal">负责人</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="principal" id="principal" value="" placeholder="法人代表或董事长，一个人名">
+            </div>
+          </div>
+          <div class="control-group">
+            <label class="control-label" for="shareholder">股东</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="shareholder" id="shareholder" value="" placeholder="格式: 股东1,股东2,股东3">
+            </div>
+          </div>
+          <div class="control-group">
+            <label class="control-label" for="url">URL</label>
+            <div class="controls">
+              <textarea class="input-xlarge" name="url" id="url" placeholder="多个网址每个单独一行"></textarea>
+            </div>
+          </div>
+          <div class="control-group">
+            <label class="control-label" for="phone">电话</label>
+            <div class="controls">
+              <textarea class="input-xlarge" name="phone" id="phone" placeholder="多个电话每个单独一行"></textarea>
+            </div>
+          </div>
+        
+          <legend>百度广告情况</legend>  
+          <div class="control-group">
+            <label class="control-label" for="baiduad_confirm">是否投放百度广告</label>
+            <div class="controls">
+              <select name="baiduad_confirm" id="baiduad_confirm">
+                <option value="null">不确定</option>
+                <option value="Yes">是</option>
+                <option value="No">否</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="control-group baidu_evidence">
+            <label class="control-label" for="baidu_evidence_url">证据URL</label>
+            <div class="controls">
+              <input class="input-xlarge " type="text" name="baidu_evidence_url" id="baidu_evidence_url" value="" >
+            </div>
+            <label class="control-label" for="baidu_evidence_title">证据标题</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="baidu_evidence_title" id="baidu_evidence_title" value="" >
+            </div>
+            <label class="control-label" for="baidu_evidence_snapshot">证据快照</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="baidu_evidence_snapshot" id="baidu_evidence_snapshot" value="" >
+            </div>
+            <label class="control-label" for="baidu_evidence_dateline">dateline</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="baidu_evidence_dateline" id="baidu_evidence_dateline" value="" >
+            </div>
+          </div>
+
+
+          <legend>莆田系关联</legend>  
+          <div class="control-group">
+            <label class="control-label" for="type">是否和莆田系有关联</label>
+            <div class="controls">
+              <select name="putian_confirm" id="putian_confirm">
+                <option value="null">不确定</option>
+                <option value="Yes">是</option>
+                <option value="No">否</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="control-group putian_evidence">
+            <label class="control-label" for="putian_evidence_url">证据URL</label>
+            <div class="controls">
+              <input class="input-xlarge " type="text" name="putian_evidence_url" id="putian_evidence_url" value="" >
+            </div>
+            <label class="control-label" for="putian_evidence_title">证据标题</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="putian_evidence_title" id="putian_evidence_title" value="" >
+            </div>
+            <label class="control-label" for="putian_evidence_snapshot">证据快照</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="putian_evidence_snapshot" id="putian_evidence_snapshot" value="" >
+            </div>
+            <label class="control-label" for="putian_evidence_dateline">dateline</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="putian_evidence_dateline" id="putian_evidence_dateline" value="" >
+            </div>
+          </div>
+
+          <legend>媒体报道情况</legend>  
+          <div class="control-group news_evidence">
+            <label class="control-label" for="news_evidence_url">证据URL</label>
+            <div class="controls">
+              <input class="input-xlarge " type="text" name="news_evidence_url" id="news_evidence_url" value="" >
+            </div>
+            <label class="control-label" for="news_evidence_title">证据标题</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="news_evidence_title" id="news_evidence_title" value="" >
+            </div>
+            <label class="control-label" for="news_evidence_snapshot">证据快照</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="news_evidence_snapshot" id="news_evidence_snapshot" value="" >
+            </div>
+            <label class="control-label" for="news_evidence_dateline">dateline</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="news_evidence_dateline" id="news_evidence_dateline" value="" >
+            </div>
+          </div>
+
+          <legend>用户评论</legend>  
+          <div class="control-group comment_evidence">
+            <label class="control-label" for="comment_evidence_url">证据URL</label>
+            <div class="controls">
+              <input class="input-xlarge " type="text" name="comment_evidence_url" id="comment_evidence_url" value="" >
+            </div>
+            <label class="control-label" for="comment_evidence_title">证据标题</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="comment_evidence_title" id="comment_evidence_title" value="" >
+            </div>
+            <label class="control-label" for="comment_evidence_snapshot">证据快照</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="comment_evidence_snapshot" id="comment_evidence_snapshot" value="" >
+            </div>
+            <label class="control-label" for="comment_evidence_dateline">dateline</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="comment_evidence_dateline" id="comment_evidence_dateline" value="" >
+            </div>
+          </div>
+
+          
+        </fieldset>                        
+        
+        <div class="form-actions">
+          <input type="submit" name="submit" id="submit" value="Send" class="btn btn-primary">
+        </div>
+      </form>  
+    </div>
+    
+    <!-- include jQuery library -->
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/uuid4/lib/browser/index.js"></script>
+    <script>
+    var newitem = function(){
+      var uuid=UUID4.generate();
+      $("#id").val(uuid);
+    }
+
+    var submitdata=function(){
+    }
+
+    $(document).ready(function () {
+      newitem();
+        
+        $("form")
+          .submit(function(){
+            submitdata();
+          });
+    });
+    </script>
+  </body>
+</html>

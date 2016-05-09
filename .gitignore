@@ -106,3 +106,4 @@ xcshareddata/
 
 # for npm
 node_modules/
+bower_components/
