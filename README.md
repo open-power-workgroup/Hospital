@@ -219,12 +219,12 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
  - 电话 021-51876888
  - 网址 http://www.tcmmh.com
  - 地址 上海市闵行区合川路3071号
-- 上海华美医疗美容医院
+- 上海华美医疗美容医院 done
  - 电话 021-58856655
  - 电话 400-8806580
  - 网址 http://www.shhuamei.cn
  - 地址 上海市市辖区浦东新区源深路155号
-- 上海万众医院
+- 上海万众医院 done
  - 电话 400-8892218
  - 网址 http://www.wz120.cc
  - 地址 上海市徐汇区吴中路2号
@@ -232,7 +232,7 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
  - 用户反馈 [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716_397644.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716_397644.html&aqs=chrome..69i57j69i58.4789j0j4&sourceid=chrome&ie=UTF-8)
  - 用户反馈 [天涯网友](http://bbs.tianya.cn/post-41-943030-1.shtml)
  - 用户反馈 [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&aqs=chrome..69i57j69i58.2551j0j4&sourceid=chrome&ie=UTF-8)
-- 上海安真医院
+- 上海安真医院 done
  - 电话 021-57711006
  - 地址 上海市松江区人民南路39号
  - 用户反馈 [天涯广告](http://bbs.tianya.cn/post-41-751455-1.shtml)
