@@ -12,7 +12,7 @@
   
   <body>
     <div class="container">
-      <h1>提交医院 （开发中，未完成）</h1>
+      <h1>提交医院 （还不完善，但可以凑合用了）</h1>
       
       <form method="post" class="form-horizontal">
         <fieldset>
@@ -312,7 +312,7 @@
           result.type=$("#type").val();
           var location = $("#location").val().split(",");
           if(location && location.length==2){
-            result.location={lat:location[0],lng:location[1]};
+            result.location={lat:location[0].trim(),lng:location[1].trim()};
           }
           result.principal=$("#principal").val();
           result.shareholder=$("#shareholder").val().split(",");
