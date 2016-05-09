@@ -233,6 +233,12 @@
             <input type="button" name="add_comment_evidence" id="add_comment_evidence" value="Add" class="btn btn-primary">
           </div>
 
+          <div class="control-group">
+            <label class="control-label" for="note">备注</label>
+            <div class="controls">
+              <textarea class="input-xlarge" name="note" id="note" placeholder="备注"></textarea>
+            </div>
+          </div>
           
         </fieldset>                        
         
@@ -339,6 +345,7 @@
 
           result.comments={};
           result.comments.evidence=generate_evidenceList("comment");
+          result.note=$("#note").val();
           return result;
     }
     var generateDateline=function (){
