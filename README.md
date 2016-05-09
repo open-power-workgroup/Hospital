@@ -410,7 +410,7 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
 - 北京德胜门中医院
 - 北京军都医院
 - 北京慈康医院
-- 爱丽丝妇科医院
+- 北京艾丽斯妇科医院
  - 网址 http://www.fuke120.cn/
  - 用户反馈 亲测：医院收费不透明，治疗过程中各种乱开检查的单子，手术价格为普通医院价格10倍左右，最后医院连检查的结果都不会给你。有类似的受害者：[http://money.163.com/16/0329/09/BJAIJCRK00253B0H.html](http://money.163.com/16/0329/09/BJAIJCRK00253B0H.html) , [http://ask.yaolan.com/question/15112409310913796432.html](http://ask.yaolan.com/question/15112409310913796432.html)
 
