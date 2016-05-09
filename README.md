@@ -54,7 +54,6 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
 1. 其他四个浏览器插件[@erichuang199](https://github.com/erichuang1994/PTXNotification)和[@zhangjh](https://github.com/zhangjh/chromeExt)和[@hustcc](https://github.com/hustcc/PTHospital.chrome)和[@Pearyman](https://github.com/open-power-workgroup/Hospital/issues/195)
 
 
-
 # 版本1.2beta
 
 # 目录
