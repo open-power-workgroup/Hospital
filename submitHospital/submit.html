@@ -17,6 +17,22 @@
       <form method="post" class="form-horizontal">
         <fieldset>
           <legend></legend>  
+          <div class="control-group">
+            <label class="control-label" for="myid">提交人ID（用于生成dateline等）</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="myid" id="myid" value="">
+            </div>
+          </div>
+          <div class="control-group">
+            <label class="control-label" for="myorg">提交人所属组织（用于生成dateline等）</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="myorg" id="myorg" value="">
+            </div>
+          </div>
+          <div class="form-actions">
+            <input type="button" name="saveuserid" id="saveuserid" value="Save My Info" class="btn btn-primary">
+          </div>
+          <legend>基本信息</legend>  
 
           <div class="control-group">
             <label class="control-label" for="id">id</label>
@@ -129,7 +145,7 @@
             </div>
             <label class="control-label" for="baidu_evidence_dateline">dateline</label>
             <div class="controls">
-              <input class="input-xlarge" type="text" name="baidu_evidence_dateline" id="baidu_evidence_dateline" value="" >
+              <input class="input-xlarge dateline" type="text" name="baidu_evidence_dateline" id="baidu_evidence_dateline" value="" >
             </div>
           </div>
           <div class="form-actions">
@@ -164,7 +180,7 @@
             </div>
             <label class="control-label" for="putian_evidence_dateline">dateline</label>
             <div class="controls">
-              <input class="input-xlarge" type="text" name="putian_evidence_dateline" id="putian_evidence_dateline" value="" >
+              <input class="input-xlarge dateline" type="text" name="putian_evidence_dateline" id="putian_evidence_dateline" value="" >
             </div>
           </div>
           <div class="form-actions">
@@ -187,7 +203,7 @@
             </div>
             <label class="control-label" for="news_evidence_dateline">dateline</label>
             <div class="controls">
-              <input class="input-xlarge" type="text" name="news_evidence_dateline" id="news_evidence_dateline" value="" >
+              <input class="input-xlarge dateline" type="text" name="news_evidence_dateline" id="news_evidence_dateline" value="" >
             </div>
           </div>
           <div class="form-actions">
@@ -210,7 +226,7 @@
             </div>
             <label class="control-label" for="comment_evidence_dateline">dateline</label>
             <div class="controls">
-              <input class="input-xlarge" type="text" name="comment_evidence_dateline" id="comment_evidence_dateline" value="" >
+              <input class="input-xlarge dateline" type="text" name="comment_evidence_dateline" id="comment_evidence_dateline" value="" >
             </div>
           </div>
           <div class="form-actions">
@@ -227,7 +243,7 @@
           <textarea class="input-xlarge" name="yaml_dump" id="yaml_dump" style="margin: 0px; height: 500px; width: 600px;"></textarea>
         </div>
         <div class="form-actions">
-          <input type="button" name="submit" id="download" value="Download" class="btn btn-primary">
+          <input type="button" name="download" id="download" value="Download" class="btn btn-primary">
         </div>
       </form>  
     </div>
@@ -266,7 +282,6 @@
           $(new_evidence.find("#"+item_name+"_evidence_title")[0]).val("")
           $(new_evidence.find("#"+item_name+"_evidence_snapshot")[0]).val("")
           $(new_evidence.find("#"+item_name+"_evidence_dateline")[0]).val("")
-
           new_evidence.clone().insertAfter($("."+item_name+"_evidence")[$("."+item_name+"_evidence").length-1]);
     }
     var generate_evidenceList=function(evidence_name){
@@ -326,7 +341,23 @@
           result.comments.evidence=generate_evidenceList("comment");
           return result;
     }
+    var generateDateline=function (){
+      var myid=$("#myid").val();
+      var myorg=$("#myorg").val();
+      var now = new Date(); 
+      var dateline=myid+", "+myorg+", "+now.toISOString()+" - ";
+      return dateline;
+      //san577478, OpenPower, 05/08/2016 @ 12:27am (UTC) - submit #dateline是新闻媒体常用的格式，一般是一小段文本，写明贡献者、组织、时间、描述。参考： https://en.wikipedia.org/wiki/Dateline
+    }
+    var init=function(){
+      if(localStorage && localStorage.OpenPower_SubmitID)
+         $("#myid").val(localStorage.OpenPower_SubmitID);
+
+      if(localStorage && localStorage.OpenPower_SubmitORG)
+         $("#myorg").val(localStorage.OpenPower_SubmitORG);
+    }
     $(document).ready(function () {
+        init();
         newitem();
         $( "#add_comment_evidence" ).click(function() {
           add_evidence("comment");
@@ -343,6 +374,19 @@
         $( "#download" ).click(function() {
           download($("#id").val()+'.yml', $("#yaml_dump").val());
         });
+        $( "#saveuserid" ).click(function() {
+          var myid=$("#myid").val()
+          localStorage.OpenPower_SubmitID = myid;
+          var myorg=$("#myorg").val()
+          localStorage.OpenPower_SubmitORG = myorg;
+        });
+        $("input.dateline").focus(function() {
+          var urlinput=$($(this).parent().siblings().find("input[name$='_url']")[0]);
+          if(urlinput && urlinput.val()!=""){
+            $(this).val(generateDateline());
+          }
+        });
+
         $( "#yaml" ).click(function(event) {
           event.preventDefault()
           var result = generateResult(); 
