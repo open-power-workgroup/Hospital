@@ -21,7 +21,7 @@
           <div class="control-group">
             <label class="control-label" for="id">id</label>
             <div class="controls">
-              <input class="input-xlarge" type="text" name="id" id="id" value="">
+              <input class="input-xlarge" type="text" name="id" id="id" value="" disabled>
             </div>
           </div>
 
@@ -221,21 +221,43 @@
         </fieldset>                        
         
         <div class="form-actions">
-          <input type="submit" name="submit" id="submit" value="Send" class="btn btn-primary">
+          <input type="button" name="yaml" id="yaml" value="generate YAML" class="btn btn-primary">
+        </div>
+        <div class="controls">
+          <textarea class="input-xlarge" name="yaml_dump" id="yaml_dump" style="margin: 0px; height: 500px; width: 600px;"></textarea>
+        </div>
+        <div class="form-actions">
+          <input type="button" name="submit" id="download" value="Download" class="btn btn-primary">
         </div>
       </form>  
     </div>
     
     <!-- include jQuery library -->
     <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/js-yaml/dist/js-yaml.min.js"></script>
     <script src="bower_components/uuid4/lib/browser/index.js"></script>
     <script>
+    var dataversion='draft1';
     var newitem = function(){
       var uuid=UUID4.generate();
       $("#id").val(uuid);
     }
 
-    var submitdata=function(){
+    //var submitdata=function(){
+    //}
+    var download = function (filename, text) {
+        var pom = document.createElement('a');
+        pom.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+        pom.setAttribute('download', filename);
+    
+        if (document.createEvent) {
+            var event = document.createEvent('MouseEvents');
+            event.initEvent('click', true, true);
+            pom.dispatchEvent(event);
+        }
+        else {
+            pom.click();
+        }
     }
     var add_evidence=function(item_name){
 
@@ -246,6 +268,63 @@
           $(new_evidence.find("#"+item_name+"_evidence_dateline")[0]).val("")
 
           new_evidence.clone().insertAfter($("."+item_name+"_evidence")[$("."+item_name+"_evidence").length-1]);
+    }
+    var generate_evidenceList=function(evidence_name){
+            var evidence_items=[];
+            $("."+evidence_name+"_evidence").each(function( index ) { 
+              var evidence_item={};
+              var evidence = $($("."+evidence_name+"_evidence")[index]); 
+              evidence_item.url=$(evidence.find("#"+evidence_name+"_evidence_url")).val();
+              evidence_item.title=$(evidence.find("#"+evidence_name+"_evidence_title")).val();
+              evidence_item.snapshot=$(evidence.find("#"+evidence_name+"_evidence_snapshot")).val();
+              evidence_item.dateline=$(evidence.find("#"+evidence_name+"_evidence_dateline")).val();
+              evidence_items.push(evidence_item);
+            }); 
+            return evidence_items;
+    }
+    var generateResult = function(){
+          var result={};
+          result.dataversion=dataversion;
+          if(!result.created)
+            result.created=Math.floor(Date.now() / 1000);
+          result.updated=Math.floor(Date.now() / 1000);
+          result.id=$("#id").val();
+          result.USID=$("#usid").val();
+          result.name=$("#name").val();
+          result.city=$("#city").val();
+          result.province=$("#province").val();
+          result.address=$("#address").val();
+          result.type=$("#type").val();
+          var location = $("#location").val().split(",");
+          if(location && location.length==2){
+            result.location={lat:location[0],lng:location[1]};
+          }
+          result.principal=$("#principal").val();
+          result.shareholder=$("#shareholder").val().split(",");
+          result.url=$("#url").val().split(/\n|\r/);
+          result.phone=$("#phone").val().split(/\n|\r/);
+          result.baiduad={};
+          if($("#baiduad_confirm").val()!="null")
+            result.baiduad.confirm=$("#baiduad_confirm").val();
+          if($("#baiduad_confirm").val()=="Yes"){
+            var items=generate_evidenceList("baidu");
+            result.baiduad.evidence=items;
+          }
+
+          result.news={};
+          result.news.evidence=generate_evidenceList("news");
+
+          result.putian={};
+          if($("#putian_confirm").val()!="null")
+            result.putian.confirm=$("#putian_confirm").val();
+          if($("#putian_confirm").val()=="Yes"){
+            var items=generate_evidenceList("putian");
+            result.putian.evidence=items;
+          }
+
+          result.comments={};
+          result.comments.evidence=generate_evidenceList("comment");
+          return result;
     }
     $(document).ready(function () {
         newitem();
@@ -261,11 +340,16 @@
         $( "#add_news_evidence" ).click(function() {
           add_evidence("news");
         });
-        
-        $("form")
-          .submit(function(){
-            submitdata();
-          });
+        $( "#download" ).click(function() {
+          download($("#id").val()+'.yml', $("#yaml_dump").val());
+        });
+        $( "#yaml" ).click(function(event) {
+          event.preventDefault()
+          var result = generateResult(); 
+          var yaml = jsyaml.safeDump (result);
+          console.log(yaml);
+          $("#yaml_dump").val(yaml);
+        });
     });
     </script>
   </body>
