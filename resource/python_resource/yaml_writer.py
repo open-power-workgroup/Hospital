@@ -18,7 +18,7 @@ except ImportError:
 
 
 def write(info_dict):
-    filename = os.path.join(os.getcwd(), 'resource', 'API_resource', 'hospital_list.json')
+    filename = os.path.join(os.getcwd(), 'resource', 'API_resource', 'hospital_list.yml')
     helpers.write_file(filename, yaml.safe_dump(info_dict, allow_unicode=True))
 
 

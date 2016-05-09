@@ -55,14 +55,18 @@ def __parse_hospital__(hospital_line=""):
 def __parse_hospital_info__(info_line=""):
     info_list = re.findall(helpers.CHINESE_REGEX_WITH_NUM_LETTER, info_line)
     key = info_list[0]
-    try:
-        value = "".join(info_list[1:])
-        return key, value
-    except IndexError:
+    if len(info_list) > 1:
+        value = ''.join(info_list[1:])
+        return key, [value, ]
+    else:
         return key, []
 
 
-def __get_leading_space_num__(line=""):
+def __parse_info_subitem__(subitem_line=""):
+    return "".join(re.findall(helpers.CHINESE_REGEX_WITH_NUM_LETTER, subitem_line))
+
+
+def __get_indent__(line=""):
     return len(line) - len(line.lstrip(' '))
 
 
@@ -80,13 +84,14 @@ def __get_info_line_num__(content_lines=('',)):
     return forward_index, backward_index
 
 
-def __parse_all__(content_lines=("",), debug_mode=False):
+def __parse_all__(content_lines=("",), debug_mode=False, show_error=True):
     # init variable
-    prev_leading_space_num = 0  # this is the number of leading white space in the previous line
     prev_type_index = 0  # this is the type index of the previous line(see helpers.TYPE_MAP for more)
     cur_city = ""  # this is the current city at the point we are parsing
     cur_hospital = ""  # this is the current hospital that we are parsing
+    cur_info = ""  # this is the current info that we are parsing (used in info_subitem)
     info_dict = {}  # the return variable that contain all the
+    indentation_list = []  # this is the list that tracks the parent item indentation
 
     # calculation
     for content_line in content_lines:
@@ -95,7 +100,7 @@ def __parse_all__(content_lines=("",), debug_mode=False):
             content_line = content_line.replace('\t', '    ')  # replace tab with four spaces
 
             if debug_mode:
-                helpers.write_log('')
+                helpers.write_log()
                 helpers.write_log('this is the current line we are processing:')
                 helpers.write_log(content_line)
 
@@ -105,87 +110,136 @@ def __parse_all__(content_lines=("",), debug_mode=False):
                 if debug_mode:
                     helpers.write_log('this is a city line')
                 if parsed_line == '':
-                    print('we encounter a warning while parsing readme: ')
-                    print('this line will be parsed as empty:')
-                    print(content_line[:-1])
-                    print('we will not add this line to the result')
-                    if debug_mode:
-                        helpers.write_log('WARNING: this line contains illegal string, that will parse as empty')
-                    else:
-                        print('you can run program in debug mode for further information')
+                    if show_error:
+                        print('we encounter a warning while parsing readme: ')
+                        print('this line will be parsed as empty:')
+                        print(content_line[:-1])
+                        print('we will not add this line to the result')
+                        if debug_mode:
+                            helpers.write_log('WARNING: this line contains illegal string, that will parse as empty')
+                        else:
+                            print('you can run program in debug mode for further information')
                 else:
                     info_dict.update({parsed_line: {}})
                     cur_city = parsed_line
+                    indentation_list = []
             else:
                 # determine the type of information of this line
-                cur_leading_space_num = __get_leading_space_num__(content_line)
-                if cur_leading_space_num == prev_leading_space_num:
-                    cur_type_index = prev_type_index
-                elif cur_leading_space_num < prev_leading_space_num:
-                    cur_type_index = prev_type_index - 1
-                else:
-                    cur_type_index = prev_type_index + 1
+                cur_indentation = __get_indent__(content_line)
+                # see if the current indentation in the indent list
+                # (smaller or equal to at least on number in the indentation_list)
+                in_indent_list = False
+                for type_index, indent in enumerate(indentation_list):
+                    if cur_indentation < indent:
+                        cur_type_index = type_index + 1
+                        indentation_list = indentation_list[:type_index - 1]
+                        in_indent_list = True
+                        break
+                    elif cur_indentation == indent:
+                        cur_type_index = type_index
+                        indentation_list = indentation_list[:type_index]
+                        in_indent_list = True
+                        break
+                # larger than all the type index in the list
+                if not in_indent_list:
+                    cur_type_index = len(indentation_list)
 
                 # parse the current line into the info_dict
                 # this line is a hospital
                 if cur_type_index == 0:
                     parsed_line = __parse_hospital__(content_line)
                     if parsed_line == '':
-                        print('we encounter a warning while parsing readme: ')
-                        print('this line will be parsed as empty:')
-                        print('"' + content_line[:-1] + '"')
-                        print('we will not add this line to the result')
-                        if debug_mode:
-                            helpers.write_log('WARNING: this line contains illegal string, that will parse as empty')
-                        else:
-                            print('you can run program in debug mode for further information')
+                        if show_error:
+                            print('we encounter a warning while parsing readme: ')
+                            print('this line will be parsed as empty:')
+                            print('"' + content_line[:-1] + '"')
+                            print('we will not add this line to the result')
+                            if debug_mode:
+                                helpers.write_log('WARNING: this line contains illegal string, that will parse as empty')
+                            else:
+                                print('you can run program in debug mode for further information')
                     else:
                         info_dict[cur_city].update({parsed_line: {}})
                         cur_hospital = parsed_line
+                        if debug_mode:
+                            helpers.write_log('the city is:', cur_city)
+                            helpers.write_log('hospital is:', cur_hospital)
                 # this is a info line
                 elif cur_type_index == 1:
+                    # value is a list, to indicate whether there is a value
                     key, value = __parse_hospital_info__(content_line)
                     try:
                         if value in info_dict[cur_city][cur_hospital][key]:  # key in info dict and value duplicated
-                            print('we encounter a warning will parsing readme:')
-                            print('this line is a duplicate info of previous info')
+                            if show_error:
+                                print('we encounter a warning will parsing readme:')
+                                print('this line is a duplicate info of previous info')
+                                print('"' + content_line[:-1] + '"')
+                                print('the hospital is', cur_hospital)
+                                print('the city is', cur_city)
+                                if debug_mode:
+                                    helpers.write_log(
+                                        'WARNING: this line is a duplicate of info')
+                                else:
+                                    print('you can run program in debug mode for further information')
+                        else:  # key in info dict and value not duplicated
+                            info_dict[cur_city][cur_hospital][key].append(value[0])
+                    except KeyError:  # key not in info dict
+                        info_dict[cur_city][cur_hospital][key] = value
+                    cur_info = key
+                    if debug_mode:
+                        helpers.write_log('the current city is:', cur_city)
+                        helpers.write_log('the current hospital is:', cur_hospital)
+                        helpers.write_log('the current info name is:', cur_info)
+                        helpers.write_log('the current info info is:', info_dict[cur_city][cur_hospital][cur_info])
+                # this is a info suitem line
+                elif cur_type_index == 2:
+                    parsed_line = __parse_info_subitem__(content_line)
+                    if parsed_line == '':
+                        if show_error:
+                            print('we encounter a warning while parsing readme: ')
+                            print('this line will be parsed as empty:')
                             print('"' + content_line[:-1] + '"')
-                            print('the hospital is', cur_hospital)
-                            print('the city is', cur_city)
+                            print('we will not add this line to the result')
                             if debug_mode:
-                                helpers.write_log(
-                                    'WARNING: this line is a duplicate of info')
+                                helpers.write_log('WARNING: this line contains illegal string, that will parse as empty')
                             else:
                                 print('you can run program in debug mode for further information')
-                        else:  # key in info dict and value not duplicated
-                            info_dict[cur_city][cur_hospital][key].append(value)
-                    except KeyError:  # key not in info dict
-                        info_dict[cur_city][cur_hospital][key] = [value, ]
+                    else:
+                        info_dict[cur_city][cur_hospital][cur_info].append(parsed_line)
+                        if debug_mode:
+                            helpers.write_log('the current city is:', cur_city)
+                            helpers.write_log('the current hospital is:', cur_hospital)
+                            helpers.write_log('the current info name is:', cur_info)
+                            helpers.write_log('the current info info is:', info_dict[cur_city][cur_hospital][cur_info])
+
                 else:
-                    print('we cannot recognize the type of the line')
-                    print('here is some information you can send to the issue:')
-                    print('    this is the line')
-                    print('   ', "'" + content_line[:-1] + "'")
-                    print('    previous line has', prev_leading_space_num, 'leading white spaces')
-                    print('    current line has', cur_leading_space_num, 'leading white spaces')
-                    input('press <enter> to continue')
+                    if show_error:
+                        print('we cannot recognize the type of the line')
+                        print('here is some information you can send to the issue:')
+                        print('    this is the line')
+                        print('   ', "'" + content_line[:-1] + "'")
+                        print('    previous line has type index:', prev_type_index)
+                        print('    here is the indentation list:', indentation_list)
+                        print('    current line has', cur_indentation, 'leading white spaces')
+                        input('press <enter> to continue')
                     # just pass the previous info to this line to disregard this line
                     cur_type_index = prev_type_index
-                    cur_leading_space_num = prev_leading_space_num
+                    indentation_list.append(cur_indentation)
                     if debug_mode:
                         helpers.write_log('we cannot recognize the type of the line')
                         helpers.write_log('here is some information you can send to the issue:')
                         helpers.write_log('    this is the line')
                         helpers.write_log('   ', "'" + content_line[:-1] + "'")
-                        helpers.write_log('    previous line has', prev_leading_space_num, 'leading white spaces')
-                        helpers.write_log('    current line has', cur_leading_space_num, 'leading white spaces')
+                        helpers.write_log('    here is the indentation list:', indentation_list)
+                        helpers.write_log('    current line has', cur_indentation, 'leading white spaces')
 
                 # update all the previous variable for the next round
                 prev_type_index = cur_type_index
-                prev_leading_space_num = cur_leading_space_num
+                indentation_list.append(cur_indentation)
                 if debug_mode:
-                    helpers.write_log('the current line has', cur_leading_space_num, 'leading white space')
+                    helpers.write_log('the current line has', cur_indentation, 'leading white space')
                     helpers.write_log('the current line has type index of', cur_type_index)
+                    helpers.write_log('the current indentation list is:', indentation_list)
 
     print('parse all finished')
     if debug_mode:
@@ -195,10 +249,10 @@ def __parse_all__(content_lines=("",), debug_mode=False):
     return info_dict
 
 
-def read():
+def read(show_error=True):
     lines = helpers.read_file('README.md')
     start, end = __get_info_line_num__(lines)
-    info_dict = __parse_all__(lines[start:end])
+    info_dict = __parse_all__(lines[start:end], show_error=show_error)
     return info_dict
 
 
