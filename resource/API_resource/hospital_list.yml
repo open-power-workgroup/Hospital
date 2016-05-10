@@ -9,7 +9,7 @@
   空军457(骨科肝病妇科男科整形): {}
   解放军161(骨科妇科男科整形): {}
 上海:
-  上海万众医院:
+  上海万众医院done:
     地址: [上海市徐汇区吴中路2号]
     用户反馈: ['患者家属(http://health.dahe.cn/yypj/yhb/201207/t20120716397644.html)', 'Google缓存(http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716397644.htmlrlz=1C5CHFAenUS659US659oq=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716397644.htmlaqs=chrome..69i57j69i58.4789j0j4sourceid=chromeie=UTF8)',
       '天涯网友(http://bbs.tianya.cn/post419430301.shtml)', 'Google缓存(http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost419430301.shtmlrlz=1C5CHFAenUS659US659oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost419430301.shtmlaqs=chrome..69i57j69i58.2551j0j4sourceid=chromeie=UTF8)']
@@ -31,7 +31,7 @@
   上海健桥医院:
     电话: [02156659999]
     网址: ['http://www.jqbyby.com']
-  上海华美医疗美容医院:
+  上海华美医疗美容医院done:
     地址: [上海市市辖区浦东新区源深路155号]
     电话: [02158856655, '4008806580']
     网址: ['http://www.shhuamei.cn']
@@ -72,7 +72,7 @@
     电话: [02164080808]
     网址: ['http://www.tida.sh.cn', 'http://www.tida120.com']
   上海安平医院: {}
-  上海安真医院:
+  上海安真医院done:
     地址: [上海市松江区人民南路39号]
     用户反馈: ['天涯广告(http://bbs.tianya.cn/post417514551.shtml)', 'Google缓存(http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost417514551.shtmlrlz=1C5CHFAenUS659US659oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost417514551.shtmlaqs=chrome..69i57j69i58.2326j0j4sourceid=chromeie=UTF8)']
     电话: ['02157711006']
@@ -783,6 +783,11 @@
   广西中医药大学第一附属医院仁爱分院明秀东路: {}
   都市丽人整形美容竹溪立交附近: {}
 柳州:
+  柳州丽人医院:
+    地址: [柳州市南站路26号]
+    法人代表: [吴国营]
+    电话: ['867722022266']
+    网址: ['http://www.lzlrzx.com']
   柳州福康医院: {}
 桂林:
   广西阳光医院: {}
