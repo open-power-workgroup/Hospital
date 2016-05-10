@@ -16,4 +16,9 @@ for filename in os.listdir('data'):
                 hospitals[city] = {}
             hospitals[city][name] = hospital
 
+try:
+    os.mkdir('output')
+except FileExistsError:
+    pass
+
 json.dump(hospitals, open('output/hospitals.json', 'w'), ensure_ascii=False, indent=2)
