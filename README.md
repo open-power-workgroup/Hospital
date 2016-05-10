@@ -353,7 +353,7 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
 - 上海九州泌尿医院
 - 上海青城医院
 - 上海博大医院
-- 上海中亚医院 <font color=blue>[done]</font>
+- 上海中亚医院 <font color="blue">done</font>
 - 上海时光整形外科医院 <font color=blue>[done]</font>
 - 上海市黄浦区中西医结合医院 <font color=blue>[done]</font>
 - 上海曙康口腔医院 <font color=blue>[done]</font>
