@@ -2,7 +2,9 @@ import yaml
 import json
 import os
 
+from jinja2 import Template
 from pypinyin import lazy_pinyin
+
 
 hospitals = {}
 
@@ -12,21 +14,38 @@ for filename in os.listdir('data'):
         print('Loading - ' + file)
         with open(file, 'r', encoding='utf-8') as stream:
             hospital = yaml.load(stream)
-            city = hospital['city']
+            province = hospital['province']
             name = hospital['name']
-            if city not in hospitals:
-                hospitals[city] = {}
-            hospitals[city][name] = hospital
+            if province not in hospitals:
+                hospitals[province] = {}
+            hospitals[province][name] = hospital
 
-try:
-    os.mkdir('output')
-except FileExistsError:
-    pass
+# dump to json files
+dist = 'output/json'
+os.makedirs(dist, exist_ok=True)
 
-cities = {}
-for city in hospitals:
-    city_filename = "".join(lazy_pinyin(city)) + '.json'
-    cities[city] = city_filename
-    json.dump(hospitals, open('output/'+ city_filename, 'w'), ensure_ascii=False, indent=2)
+provinces = {}
+for province in hospitals:
+    province_pinyin = "".join(lazy_pinyin(province))
+    province_filename = province_pinyin + '.json'
+    provinces[province] = {'json_filename': province_filename, 'pinyin': province_pinyin}
+    json.dump(hospitals[province], open(dist + '/'+ province_filename, 'w'), ensure_ascii=False, indent=2)
 
-json.dump(cities, open('output/hospitals.json', 'w'), ensure_ascii=False, indent=2)
+json.dump(provinces, open(dist + '/hospitals.json', 'w'), ensure_ascii=False, indent=2)
+
+# dump to HTML file
+template_dir = 'resource/templates'
+dist_dir = 'output/html'
+os.makedirs(dist, exist_ok=True)
+
+def render_html(template_file, dist_file, **kwargs):
+    with open(template_file, 'r') as f:
+        template = Template(f.read())
+        html = template.render(kwargs)
+        with open(dist_file, 'w') as f:
+            f.write(html)
+
+render_html(template_dir + '/hospitals.phtml', dist_dir + '/hospitals.html', provinces=provinces)
+
+for province in hospitals:
+    render_html(template_dir + '/province.phtml', dist_dir + '/' + provinces[province]['pinyin'] + '.html', hospitals=hospitals[province])

@@ -1,0 +1,13 @@
+<html>
+<head>
+
+</head>
+
+<body>
+<ul class="provinces">
+    {% for province in provinces %}
+    <li><a href="{{ provinces[province]['pinyin'] }}.html">{{ province }}</a></li>
+    {% endfor %}
+</ul>
+</body>
+</html>

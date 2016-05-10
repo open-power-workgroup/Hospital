@@ -1,0 +1,16 @@
+<html>
+<head>
+
+</head>
+
+<body>
+<ul class="hospitals">
+    {% for hospital in hospitals %}
+    <li class="hospital">
+        <div class="name">{{ hospitals[hospital]['name'] }}</div>
+        <div class="id">{{ hospitals[hospital]['id'] }}</div>
+    </li>
+    {% endfor %}
+</ul>
+</body>
+</html>
