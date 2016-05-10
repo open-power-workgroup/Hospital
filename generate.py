@@ -10,7 +10,7 @@ for filename in os.listdir('data'):
     if filename.endswith('.yml') and (not filename.startswith('example')):
         file = 'data/' + filename
         print('Loading - ' + file)
-        with open(file, 'r') as stream:
+        with open(file, 'r', encoding='utf-8') as stream:
             hospital = yaml.load(stream)
             city = hospital['city']
             name = hospital['name']
