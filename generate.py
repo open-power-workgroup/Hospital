@@ -2,6 +2,8 @@ import yaml
 import json
 import os
 
+from pypinyin import lazy_pinyin
+
 hospitals = {}
 
 for filename in os.listdir('data'):
@@ -21,4 +23,10 @@ try:
 except FileExistsError:
     pass
 
-json.dump(hospitals, open('output/hospitals.json', 'w'), ensure_ascii=False, indent=2)
+cities = {}
+for city in hospitals:
+    city_filename = "".join(lazy_pinyin(city)) + '.json'
+    cities[city] = city_filename
+    json.dump(hospitals, open('output/'+ city_filename, 'w'), ensure_ascii=False, indent=2)
+
+json.dump(cities, open('output/hospitals.json', 'w'), ensure_ascii=False, indent=2)
