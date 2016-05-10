@@ -1,0 +1,208 @@
+{
+  "上海": {
+    "上海华美医疗美容医院": {
+      "principal": "雷启龙",
+      "url": [
+        "http://www.shhuamei.cn/"
+      ],
+      "address": "上海市市辖区浦东新区源深路155号",
+      "id": "4b0f586b-d0b5-4c3c-9c3d-8d41c81207f0",
+      "baiduad": [
+        {
+          "confirm": true
+        },
+        {
+          "evidence": [
+            {
+              "snapshot": "http://i.imgur.com/K2jBQnw.jpg",
+              "url": "http://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=229797933&idx=1&sn=d7b4d6917c2941efb2eee7494201c93e&scene=1&key=1936e2bc22c2ceb5b6cec9957668679bdee0eccba1c2ad490fb58174dccade1ad09d2a74f232433cdfc40c6553844685&ascene=1&uin=MjAwMzY4MTg0MA%3D%3D&devicetype=webwx&version=70000001&pass_ticket=cA2YNqi6SeOqPHDGMkFn4V8VhPmwdC72TQSVf6rqoWn45p3PCw1vhwI%2F0MWvr57L",
+              "dateline": "san577478, OpenPower, 05/08/2016 @ 8:43am (UTC) - 上海华美医院在使用百度推广时，仍然在百度推广中设置了“九院”、“九院官网”、“九院地址”等关键词",
+              "title": "百度竞价排名:山寨医院冒充知名医院"
+            }
+          ]
+        }
+      ],
+      "updated": 1462696233,
+      "created": 1462696233,
+      "type": "民营医院",
+      "province": "上海",
+      "city": "上海",
+      "name": "上海华美医疗美容医院",
+      "phone": [
+        "021-58856655",
+        "400-8806580"
+      ],
+      "location": [
+        {
+          "lng": 121.530622,
+          "lat": 31.239803
+        }
+      ],
+      "dataversion": "draft1",
+      "putian": [
+        {
+          "confirm": true
+        },
+        {
+          "evidence": [
+            {
+              "snapshot": "http://i.imgur.com/Wez5qVP.jpg",
+              "url": "http://finance.sina.com.cn/chanjing/cyxw/20140717/110219729613.shtml",
+              "dateline": "san577478, OpenPower,05/08/2016 @ 8:46am (UTC) - 圈内人士知道的陈氏产业，还有华美整形系医院",
+              "title": "俞敏洪炮轰莆田系民营医院"
+            }
+          ]
+        }
+      ],
+      "shareholder": [
+        "黄志佳",
+        "洪玲燕"
+      ],
+      "USID": 310115000904981,
+      "comments": [
+        {
+          "evidence": [
+            {
+              "snapshot": "",
+              "url": "",
+              "dateline": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "news": [
+        {
+          "evidence": [
+            {
+              "snapshot": "http://i.imgur.com/K2jBQnw.jpg",
+              "url": "http://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=229797933&idx=1&sn=d7b4d6917c2941efb2eee7494201c93e&scene=1&key=1936e2bc22c2ceb5b6cec9957668679bdee0eccba1c2ad490fb58174dccade1ad09d2a74f232433cdfc40c6553844685&ascene=1&uin=MjAwMzY4MTg0MA%3D%3D&devicetype=webwx&version=70000001&pass_ticket=cA2YNqi6SeOqPHDGMkFn4V8VhPmwdC72TQSVf6rqoWn45p3PCw1vhwI%2F0MWvr57L",
+              "dateline": "san577478, OpenPower, 05/08/2016 @ 8:43am (UTC) - 上海华美医院在使用百度推广时，仍然在百度推广中设置了“九院”、“九院官网”、“九院地址”等关键词",
+              "title": "百度竞价排名:山寨医院冒充知名医院"
+            },
+            {
+              "snapshot": "http://i.imgur.com/y5RMFoJ.png",
+              "url": "http://newspaper.jfdaily.com/xwcb/html/2016-01/06/content_163209.htm",
+              "dateline": "san577478, OpenPower,05/08/2016 @ 8:46am (UTC) - 日前，“上海华美医疗美容医院”因冒用他人名义进行虚假宣传，被工商部门依法处罚款20万元。",
+              "title": "民营医院傍名院 虚假宣传被罚款"
+            }
+          ]
+        }
+      ]
+    },
+    "上海万众医院": {
+      "principal": "占阳珊",
+      "url": [
+        "http://www.wz120.cc/"
+      ],
+      "address": "上海市徐汇区吴中路2、4、6号",
+      "id": "71f4149b-73b4-4b2c-b299-711603c9d3b1",
+      "baiduad": {},
+      "updated": 1462833606,
+      "created": 1462833606,
+      "type": "民营医院",
+      "province": "上海",
+      "city": "上海",
+      "name": "上海万众医院",
+      "phone": [
+        "400-8892218"
+      ],
+      "location": {
+        "lng": "121.420752",
+        "lat": "31.189372"
+      },
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "http://i.imgur.com/JH0EdYA.jpg",
+            "url": "http://www.shptsh.com/index.php?m=cms&q=view&id=94",
+            "dateline": "san577478, OpenPower, 2016-05-09T22:38:03.613Z - ",
+            "title": "上海市莆田商会常务副会长占阳珊"
+          },
+          {
+            "snapshot": "http://i.imgur.com/GNukm0K.jpg",
+            "url": "http://tech.qq.com/a/20160501/023381.htm",
+            "dateline": "san577478, OpenPower, 2016-05-09T22:38:03.613Z - 詹阳斌同时也是其集团旗下上海万众医疗投资股份有限公司的董事长",
+            "title": "百度与莆田系为何难解难分"
+          }
+        ]
+      },
+      "shareholder": [
+        "上海万众医疗投资股份有限公司"
+      ],
+      "USID": "91310104688719055G",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "",
+            "url": "",
+            "dateline": "",
+            "title": ""
+          }
+        ]
+      },
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://i.imgur.com/FXTAkQK.jpg",
+            "url": "http://news.sohu.com/20160504/n447504621.shtml",
+            "dateline": "san577478, OpenPower, 2016-05-09T22:39:59.364Z - 上文提到的上海万众医院，裁判文显示，近几年来，柳岩、林心如、董璇等一些比较知名的影视明星均以医院侵犯了肖像权提起过诉讼",
+            "title": "莆田系医院屡因肖像权遭名人告 陷入多起医疗纠纷"
+          }
+        ]
+      }
+    },
+    "上海安真医院 口腔科 / 上海旭邦医院投资管理有限公司": {
+      "principal": "李劲松",
+      "url": [
+        "http://xubang.fnkq.com/"
+      ],
+      "address": "上海市松江区人民南路39号",
+      "id": "9f188d46-f9e3-4681-bf1f-3592c58e3435",
+      "baiduad": {},
+      "updated": 1462834738,
+      "created": 1462834738,
+      "type": "外包科室",
+      "province": "上海",
+      "city": "上海",
+      "name": "上海安真医院 口腔科 / 上海旭邦医院投资管理有限公司",
+      "phone": [
+        ""
+      ],
+      "location": {
+        "lng": "121.229016",
+        "lat": "31.003154"
+      },
+      "dataversion": "draft1",
+      "putian": {},
+      "shareholder": [
+        "吕刚",
+        "李劲松"
+      ],
+      "note": "工商局信息显示上海旭邦医院投资管理有限公司状态为 吊销，未注销状态。安真医院无网站，旭邦医院网站数年未更新。和莆田系关系不明。",
+      "USID": "3102262054792",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "",
+            "url": "",
+            "dateline": "",
+            "title": ""
+          }
+        ]
+      },
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "",
+            "url": "",
+            "dateline": "",
+            "title": ""
+          }
+        ]
+      }
+    }
+  }
+}
