@@ -34,8 +34,10 @@ def do_generate(version):
                     hospitals[province] = {}
                 hospitals[province][name] = hospital
 
+    output_dir = 'output/' + version
+
     # dump to json files
-    dist = 'output/json'
+    dist = output_dir + '/json'
     os.makedirs(dist, exist_ok=True)
 
     provinces = {}
@@ -48,12 +50,12 @@ def do_generate(version):
     json.dump(provinces, open(dist + '/hospitals.json', 'w'), ensure_ascii=False, indent=2)
 
     # dump to HTML file
+    dist_dir = output_dir + '/html'
+    os.makedirs(dist_dir, exist_ok=True)
+    print(dist_dir)
+
     template_dir = 'resource/templates'
-    dist_dir = 'output/html'
-    os.makedirs(dist, exist_ok=True)
-
     render_html(template_dir + '/hospitals.phtml', dist_dir + '/hospitals.html', provinces=provinces)
-
     for province in hospitals:
         render_html(template_dir + '/province.phtml', dist_dir + '/' + provinces[province]['pinyin'] + '.html', hospitals=hospitals[province])
 
