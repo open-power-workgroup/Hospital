@@ -48,14 +48,14 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
 # 关联项目
 | 名称                                       | 描述                                | Stars | Forks |
 | ---------------------------------------- | --------------------------------- | ----- | ----- |
-| https://github.com/wandergis/hospital-viz | 基于凤凰网数据的医院地图                      | 390   | 100   |
-| https://github.com/hustcc/PTHospital.chrome | Chrome浏览器插件                       | 372   | 53    |
-| https://github.com/fushenghua/GetHosp/   | 一个有情怀的医院查询插件                      | 51    | 13    |
-| https://github.com/FirefoxBar/userscript/tree/master/Putian_Warning | Putian Warning基于GreaseMonkey的扩展脚本 | 37    | 12    |
-| https://github.com/huntbao/piggyreader   | 饥猪阅读（Piggy Reader），在用户浏览时加以提示     | 14    | 4     |
-| https://github.com/zhangjh/chromeExt     | 一个Chrome插件                        | 12    | 3     |
-| https://github.com/neuyu/BlackHospital   | Android原生应用，可以定位到用户所在城市           | 10    | 3     |
-| https://github.com/erichuang1994/PTXNotification | 一个Chrome插件                        | 2     | 1     |
+| [hospital-viz](https://github.com/wandergis/hospital-viz) | 基于凤凰网数据的医院地图                      | 390   | 100   |
+| [PTHospital.chrome](https://github.com/hustcc/PTHospital.chrome) | Chrome浏览器插件                       | 372   | 53    |
+| [GetHosp](https://github.com/fushenghua/GetHosp)   | 一个有情怀的医院查询插件                      | 51    | 13    |
+| [Putian_Warning](https://github.com/FirefoxBar/userscript/tree/master/Putian_Warning) | Putian Warning基于GreaseMonkey的扩展脚本 | 37    | 12    |
+| [piggyreader](https://github.com/huntbao/piggyreader)   | 饥猪阅读（Piggy Reader），在用户浏览时加以提示     | 14    | 4     |
+| [chromeExt](https://github.com/zhangjh/chromeExt)     | 一个Chrome插件                        | 12    | 3     |
+| [BlackHospital](https://github.com/neuyu/BlackHospital)   | Android原生应用，可以定位到用户所在城市           | 10    | 3     |
+| [PTXNotification](https://github.com/erichuang1994/PTXNotification) | 一个Chrome插件                        | 2     | 1     |
 | [莆田系黑心医院名单插件](https://chrome.google.com/webstore/detail/%E8%8E%86%E7%94%B0%E7%B3%BB%E9%BB%91%E5%BF%83%E5%8C%BB%E9%99%A2%E5%90%8D%E5%8D%95%E6%8F%92%E4%BB%B6/ieogbmijfpmdlkdifblkcgomfmonmfbc?hl=zh-CN) | 一个Chrome插件，位于谷歌应用商店               |       |       |
 
 # 版本1.2beta
