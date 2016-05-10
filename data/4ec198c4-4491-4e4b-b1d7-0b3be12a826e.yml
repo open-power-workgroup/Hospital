@@ -1,0 +1,46 @@
+dataversion: draft1
+created: 1462890540
+updated: 1462890540
+id: 4ec198c4-4491-4e4b-b1d7-0b3be12a826e
+USID: ''
+name: 上海市浦东新区传染病医院
+city: 上海
+province: 上海
+address: 上海市浦东新区张衡路528号
+type: ''
+location:
+  lat: '31.186433'
+  lng: '121.591843'
+principal: ''
+shareholder:
+  - ''
+url:
+  - 'http://www.sgyy.cn/cn/index/'
+phone:
+  - 021-20256638
+  - 021-20256639
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:17:40.786Z - '
+comments:
+  evidence:
+    - url: 'http://www.dianping.com/shop/2392477/review_more_grade'
+      title: 大众点评
+      snapshot: 'http://imgur.com/a/Yzf5W'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:28:27.710Z - '
+    - url: 'http://www.dianping.com/shop/2392477/review_more_grade'
+      title: 大众点评
+      snapshot: 'http://imgur.com/a/Yzf5W'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:28:20.296Z - '
+note: ''
