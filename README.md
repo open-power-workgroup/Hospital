@@ -353,18 +353,18 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
 - 上海九州泌尿医院
 - 上海青城医院
 - 上海博大医院
-- 上海中亚医院
-- 上海时光整形外科医院
-- 上海市黄浦区中西医结合医院
-- 上海曙康口腔医院
-- 上海市浦东新区传染病医院
-- 上海中医药大学附属曙光医院(这个医院的整形科是莆田系的。时光整形被承包。本体不是莆田系的)
-- 浦东肝病专科医院
-- 众仁曙光医疗保健中心
-- 上海市松江区方塔中医医院
-- 上海嘉华医院
-- 上海中骏医学科学研究所
-- 上海天伦医院(注:隶属上海明爱医疗集团)
+- 上海中亚医院 <font color=blue>[done]</font>
+- 上海时光整形外科医院 <font color=blue>[done]</font>
+- 上海市黄浦区中西医结合医院 <font color=blue>[done]</font>
+- 上海曙康口腔医院 <font color=blue>[done]</font>
+- 上海市浦东新区传染病医院 <font color=blue>[done]</font>
+- 上海中医药大学附属曙光医院(这个医院的整形科是莆田系的。时光整形被承包。本体不是莆田系的) <font color=blue>[done]</font>
+- 浦东肝病专科医院 <font color=blue>[done]</font>
+- 众仁曙光医疗保健中心 <font color=blue>[done]</font>
+- 上海市松江区方塔中医医院 <font color=blue>[done]</font>
+- 上海嘉华医院 <font color=blue>[done]</font>
+- 上海中骏医学科学研究所 <font color=blue>[done]</font>
+- 上海天伦医院(注:隶属上海明爱医疗集团) <font color=blue>[done]</font>
  - 电话 021-65667633
  - 电话 021-65259999
  - 电话 +9864006660102
@@ -375,7 +375,7 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
  - 网址 http://www.shtianlun.org/
  - 网址 http://www.tianlun100.com/
  - 地址 上海市虹口区凉城路545号
-- 上海国正医院(注:隶属上海明爱医疗集团)
+- 上海国正医院(注:隶属上海明爱医疗集团) <font color=red>[没有找到]</font>
  - 电话 021-58009999
  - 电话 18801856118
  - 网址 http://23759.zhaopin.job120.com/
