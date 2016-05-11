@@ -220,10 +220,11 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
 [](hospital list begin //PLEASE DO NOT DELETE THIS LINE)
 ## 上海
 
-- 上海市闵行区中医医院（上海莱茵医院）
+- 上海市闵行区中医医院（原上海莱茵医院）
  - 电话 021-51876888
  - 网址 http://www.tcmmh.com
  - 地址 上海市闵行区合川路3071号
+ - 证据 (http://www.tcmmh.com/entry/149)
 - 上海华美医疗美容医院
  - 电话 021-58856655
  - 电话 400-8806580
