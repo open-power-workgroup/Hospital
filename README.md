@@ -55,6 +55,7 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
 | [莆田系黑心医院名单插件](https://chrome.google.com/webstore/detail/%E8%8E%86%E7%94%B0%E7%B3%BB%E9%BB%91%E5%BF%83%E5%8C%BB%E9%99%A2%E5%90%8D%E5%8D%95%E6%8F%92%E4%BB%B6/ieogbmijfpmdlkdifblkcgomfmonmfbc?hl=zh-CN) | 一个Chrome插件，位于谷歌应用商店               | [![GitHub stars](https://img.shields.io/github/stars/Pearyman/fu-kBlackHeartedHospital.svg?style=social&label=Star&maxAge=10800)](https://github.com/Pearyman/fu-kBlackHeartedHospital)| [![GitHub forks](https://img.shields.io/github/forks/Pearyman/fu-kBlackHeartedHospital.svg?style=social&label=Fork&maxAge=10800)](https://github.com/Pearyman/fu-kBlackHeartedHospital)|
 | [piggyreader](https://github.com/huntbao/piggyreader)   | 饥猪阅读（Piggy Reader），在用户浏览时加以提示     | [![GitHub stars](https://img.shields.io/github/stars/huntbao/piggyreader.svg?style=social&label=Star&maxAge=10800)](https://github.com/huntbao/piggyreader)| [![GitHub forks](https://img.shields.io/github/forks/huntbao/piggyreader.svg?style=social&label=Fork&maxAge=10800)](https://github.com/huntbao/piggyreader)|
 | [chromeExt](https://github.com/zhangjh/chromeExt)     | 一个Chrome插件                        | [![GitHub stars](https://img.shields.io/github/stars/zhangjh/chromeExt.svg?style=social&label=Star&maxAge=10800)](https://github.com/zhangjh/chromeExt)| [![GitHub forks](https://img.shields.io/github/forks/zhangjh/chromeExt.svg?style=social&label=Fork&maxAge=10800)](https://github.com/zhangjh/chromeExt)|
+| [野鸡医院](https://github.com/chai2010/ptyy)   | iOS原生应用（Go语言+Ruby语言实现），大陆常见野鸡医院查询           | [![GitHub stars](https://img.shields.io/github/stars/chai2010/ptyy.svg?style=social&label=Star&maxAge=10800)](https://github.com/chai2010/ptyy)| [![GitHub forks](https://img.shields.io/github/forks/chai2010/ptyy.svg?style=social&label=Fork&maxAge=10800)](https://github.com/chai2010/ptyy)|
 | [BlackHospital](https://github.com/neuyu/BlackHospital)   | Android原生应用，可以定位到用户所在城市           | [![GitHub stars](https://img.shields.io/github/stars/neuyu/BlackHospital.svg?style=social&label=Star&maxAge=10800)](https://github.com/neuyu/BlackHospital)| [![GitHub forks](https://img.shields.io/github/forks/neuyu/BlackHospital.svg?style=social&label=Fork&maxAge=10800)](https://github.com/neuyu/BlackHospital)|
 | [PTXNotification](https://github.com/erichuang1994/PTXNotification) | 一个Chrome插件                        | [![GitHub stars](https://img.shields.io/github/stars/erichuang1994/PTXNotification.svg?style=social&label=Star&maxAge=10800)](https://github.com/erichuang1994/PTXNotification)| [![GitHub forks](https://img.shields.io/github/forks/erichuang1994/PTXNotification.svg?style=social&label=Fork&maxAge=10800)](https://github.com/erichuang1994/PTXNotification)|
 
@@ -286,7 +287,7 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
 - 上海新虹桥医院(号称上海男科医院)
  - 电话 021-62092255
  - 网址 http://www.xinhongqiao.cn/
- - 地址 上海长宁区虹古路85号(虹桥开发区西侧) 
+ - 地址 上海长宁区虹古路85号(虹桥开发区西侧)
 - 上海虹桥医院（所属[上海闵行虹桥医院有限公司](http://weibo.com/shhqyy02164659999)）
  - 电话 021-64659999
  - 网址 http://www.shhqyy.com
@@ -303,7 +304,7 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
  - 地址 上海市普陀区曹安路1352号
 - 上海西郊骨科医院
  - 电话 021-52208866
- - 电话 136-5172-4016 
+ - 电话 136-5172-4016
  - 网址 http://www.sdaj.net/
  - 网址 http://www.gb5u.com/
  - 网址 http://www.gkyy120.com/
@@ -329,9 +330,9 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
  - 地址 上海市浦东新区浦东南路2250号（南浦大桥下）
  - 相关资料:
      - 这是百度和谷歌发现网址最多的医院
-     - 最后一个网址http://yyk.qqyy.com/h14964/ 所属全球医院网http://www.qqyy.com/ 工信部备案信息为闽ICP备09014062号, 2014-11-06, 福州网健天下网络科技有限公司, 
+     - 最后一个网址http://yyk.qqyy.com/h14964/ 所属全球医院网http://www.qqyy.com/ 工信部备案信息为闽ICP备09014062号, 2014-11-06, 福州网健天下网络科技有限公司,
      - 谷歌搜索关键词： 医院 site:*.qqyy.com 可以发现很多在这个名单上出现的医院，可以为进一步搜索参考。
-     - 天涯帖子 [上海南浦妇科医院的受害者 该怎么维权？](http://bbs.tianya.cn/post-828-784859-1.shtml) 
+     - 天涯帖子 [上海南浦妇科医院的受害者 该怎么维权？](http://bbs.tianya.cn/post-828-784859-1.shtml)
      - 网址http://www.pmref.com/ 将自己称为上海松江区妇科医院，而电话仍然是021-58891199，并且在这个网页http://www.pmref.com/yyjs/51.html 显示为南浦妇科医院
 - 上海健桥医院
  - 电话 021-56659999
