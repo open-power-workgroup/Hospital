@@ -5,13 +5,35 @@
 </head>
 
 <body>
-<ul class="hospitals">
-    {% for hospital in hospitals %}
-    <li class="hospital">
-        <div class="name">{{ hospitals[hospital]['name'] }}</div>
-        <div class="id">{{ hospitals[hospital]['id'] }}</div>
-    </li>
-    {% endfor %}
-</ul>
+<nav class="navbar navbar-inverse" style="border-radius: 0">
+    <div class="navbar-header">
+        <span class="navbar-brand">Hospital - Hospitals List</span>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Hospital Name</th>
+                    <th>ID</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for hospital in hospitals %}
+                <tr>
+                    <th>{{ hospitals[hospital]['name'] }}</th>
+                    <th>{{ hospitals[hospital]['id'] }}</th>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <hr>
+    <footer>
+        <p>Hospital</p>
+    </footer>
+</div>
 </body>
 </html>
