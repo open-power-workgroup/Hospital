@@ -224,7 +224,10 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
  - 电话 021-51876888
  - 网址 http://www.tcmmh.com
  - 地址 上海市闵行区合川路3071号
- - 证据 (http://www.tcmmh.com/entry/149)
+ - 证据:
+     - 该院[页面](http://www.tcmmh.com/entry/149)信息显示：上海市闵行区卫生局、上海中医药大学附属龙华医院、西红柿投资控股有限公司合作共建闵行区中医医院，其中上海西红柿投资控股集团董事、执行总裁为林一平
+     - [ 全国企业信用信息系统](https://m.imgur.com/ADiokDn)显示： 上海西红柿投资控股有限公司的法定代表人是陈金秀，自然人股东包括：李爱兰和陈金秀。
+     -  [谷歌缓存页面](https://webcache.googleusercontent.com/search?q=cache:D5otmZNe-wMJ:www.ptshsh.com/index.php%3Fm%3Dcms%26q%3Dview%26id%3D33+&cd=1&hl=en&ct=clnk&lr=lang_en%7Clang_zh-CN%7Clang_zh-TW)显示（这是谷歌对[上海市莆田商会](http://www.ptshsh.com/)网页的缓存），陈金秀是上海市莆田商会名誉会长，籍贯：秀屿区东庄镇
 - 上海华美医疗美容医院
  - 电话 021-58856655
  - 电话 400-8806580
@@ -331,7 +334,7 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
  - 地址 上海市浦东新区浦东南路2250号（南浦大桥下）
  - 相关资料:
      - 这是百度和谷歌发现网址最多的医院
-     - 最后一个网址http://yyk.qqyy.com/h14964/ 所属全球医院网http://www.qqyy.com/ 工信部备案信息为闽ICP备09014062号, 2014-11-06, 福州网健天下网络科技有限公司,
+     - 最后一个网址http://yyk.qqyy.com/h14964/ 所属全球医院网http://www.qqyy.com/ [工信部备案信息](https://m.imgur.com/VqVuGnj)为闽ICP备09014062号, 2014-11-06, 福州网健天下网络科技有限公司,
      - 谷歌搜索关键词： 医院 site:*.qqyy.com 可以发现很多在这个名单上出现的医院，可以为进一步搜索参考。
      - 天涯帖子 [上海南浦妇科医院的受害者 该怎么维权？](http://bbs.tianya.cn/post-828-784859-1.shtml)
      - 网址http://www.pmref.com/ 将自己称为上海松江区妇科医院，而电话仍然是021-58891199，并且在这个网页http://www.pmref.com/yyjs/51.html 显示为南浦妇科医院
