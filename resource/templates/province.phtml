@@ -13,18 +13,30 @@
 
 <div class="container">
     <div class="row">
-        <table class="table">
+        <table class="table table-bordered">
             <thead>
                 <tr>
                     <th>Hospital Name</th>
-                    <th>ID</th>
+                    <th>Type</th>
+                    <th>Principal</th>
+<!--                    <th>ShareHolder</th>-->
+                    <th>Address</th>
+                    <th>More</th>
                 </tr>
             </thead>
             <tbody>
                 {% for hospital in hospitals %}
                 <tr>
-                    <th>{{ hospitals[hospital]['name'] }}</th>
-                    <th>{{ hospitals[hospital]['id'] }}</th>
+                    <td>{{ hospitals[hospital]['name'] }}</td>
+                    <td>{{ hospitals[hospital]['type'] }}</td>
+                    <td>{{ hospitals[hospital]['principal'] }}</td>
+<!--                    <td>-->
+<!--                        {% for shareholder in hospitals[hospital]['shareholder'] %}-->
+<!--                            <p>{{ shareholder }}</p>-->
+<!--                        {% endfor %}-->
+<!--                    </td>-->
+                    <td>{{ hospitals[hospital]['address'] }}</td>
+                    <td>...</td>
                 </tr>
                 {% endfor %}
             </tbody>
