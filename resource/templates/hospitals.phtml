@@ -1,13 +1,35 @@
 <html>
 <head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
 
+    <style>
+        a { color: inherit; }
+    </style>
 </head>
 
 <body>
-<ul class="provinces">
-    {% for province in provinces %}
-    <li><a href="{{ provinces[province]['pinyin'] }}.html">{{ province }}</a></li>
-    {% endfor %}
-</ul>
+<nav class="navbar navbar-inverse" style="border-radius: 0">
+    <div class="navbar-header">
+        <span class="navbar-brand">Hospital - Provinces List</span>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        {% for province in provinces %}
+        <div class="col-md-3 text-center">
+            <h2 onclick="">
+                <a href="{{ provinces[province]['pinyin'] }}.html">{{ province }}</a>
+            </h2>
+        </div>
+        {% endfor %}
+    </div>
+    <hr>
+    <footer>
+        <p>Hospital</p>
+    </footer>
+</div>
+
 </body>
 </html>

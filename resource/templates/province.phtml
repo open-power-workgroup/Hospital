@@ -1,16 +1,51 @@
 <html>
 <head>
-
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
 </head>
 
 <body>
-<ul class="hospitals">
-    {% for hospital in hospitals %}
-    <li class="hospital">
-        <div class="name">{{ hospitals[hospital]['name'] }}</div>
-        <div class="id">{{ hospitals[hospital]['id'] }}</div>
-    </li>
-    {% endfor %}
-</ul>
+<nav class="navbar navbar-inverse" style="border-radius: 0">
+    <div class="navbar-header">
+        <span class="navbar-brand">Hospital - Hospitals List</span>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Hospital Name</th>
+                    <th>Type</th>
+                    <th>Principal</th>
+<!--                    <th>ShareHolder</th>-->
+                    <th>Address</th>
+                    <th>More</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for hospital in hospitals %}
+                <tr>
+                    <td>{{ hospitals[hospital]['name'] }}</td>
+                    <td>{{ hospitals[hospital]['type'] }}</td>
+                    <td>{{ hospitals[hospital]['principal'] }}</td>
+<!--                    <td>-->
+<!--                        {% for shareholder in hospitals[hospital]['shareholder'] %}-->
+<!--                            <p>{{ shareholder }}</p>-->
+<!--                        {% endfor %}-->
+<!--                    </td>-->
+                    <td>{{ hospitals[hospital]['address'] }}</td>
+                    <td>...</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <hr>
+    <footer>
+        <p>Hospital</p>
+    </footer>
+</div>
 </body>
 </html>
