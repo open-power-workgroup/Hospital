@@ -1,7 +1,7 @@
 import os
 import sys
 
-import yaml
+import ruamel.yaml as yaml
 import json
 
 from jinja2 import Template
