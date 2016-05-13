@@ -935,7 +935,8 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
 
 ## 丽水
 - 丽水九龙男科医院
- - 地址 浙江省丽水市解放街88号（国际大酒店对面）
+ - 工商注册名称 丽水九龙医院有限公司 
+ - 地址 浙江省丽水市莲都区解放街88号
  - 电话 0578-2119011
  - QQ:3082311948
  - 网址 http://www.lsjlyy.com
@@ -943,6 +944,7 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
  - 网址 http://www1.2119011.com
  - 网址 www.lsjlnkyy.com
  - 网址 m.lsjlnkyy.com 
+ - 相关信息 [全国企业信用信息公示系统（浙江）](http://gsxt.zjaic.gov.cn/appbasicinfo/doViewAppBasicInfo.do?corpid=780CFC6E907B4DB490707687D41A927EA2D082CB21CFD8173A93D6CF9ADA5299)显示，法定代表人为陈元华。
 
 
 ## 嘉兴
