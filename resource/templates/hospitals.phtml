@@ -11,6 +11,7 @@
         .navbar {
             background-color: #f5f5f5;
             font-weight: bold;
+            border-bottom: 1px solid #e5e5e5;
         }
         .province-text {
             border-radius: 5px;
@@ -40,7 +41,7 @@
     </div>
     <div class="row">
         {% for province in provinces %}
-        <div class="col-md-3 text-center province-text">
+        <div class="col-md-2 text-center province-text">
             <span>
                 <a href="{{ provinces[province]['pinyin'] }}.html">{{ province }}</a>
             </span>
