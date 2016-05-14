@@ -6,11 +6,27 @@
 
     <style>
         a { color: inherit; }
+        a:hover { text-decoration: none; color: inherit; }
+
+        .navbar {
+            background-color: #f5f5f5;
+            font-weight: bold;
+            border-bottom: 1px solid #e5e5e5;
+        }
+        .province-text {
+            border-radius: 5px;
+            font-size: 35px;
+            padding: 10px 0 10px 0;
+        }
+        .province-text:hover {
+            background-color: #e5e5e5;
+            cursor: pointer;
+        }
     </style>
 </head>
 
 <body>
-<nav class="navbar navbar-inverse" style="border-radius: 0">
+<nav class="navbar" style="border-radius: 0">
     <div class="navbar-header">
         <span class="navbar-brand">Hospital - Provinces List</span>
     </div>
@@ -18,11 +34,17 @@
 
 <div class="container">
     <div class="row">
+        <div class="jumbotron">
+            <h2>说明</h2>
+            <p>点击省份名称查看医院列表</p>
+        </div>
+    </div>
+    <div class="row">
         {% for province in provinces %}
-        <div class="col-md-3 text-center">
-            <h2 onclick="">
+        <div class="col-md-2 text-center province-text">
+            <span>
                 <a href="{{ provinces[province]['pinyin'] }}.html">{{ province }}</a>
-            </h2>
+            </span>
         </div>
         {% endfor %}
     </div>
