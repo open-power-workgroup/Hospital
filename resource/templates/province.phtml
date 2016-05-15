@@ -3,14 +3,20 @@
     <meta charset="utf-8" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
+    <script src="http://lib.sinaapp.com/js/jquery/1.9.1/jquery-1.9.1.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <style>
+        .navbar-header .navbar-brand a {
+            color: #eeeeee;
+        }
+    </style>
 </head>
 
 <body>
 <nav class="navbar navbar-inverse" style="border-radius: 0">
     <div class="navbar-header">
-        <span class="navbar-brand">Hospital - Hospitals List</span>
+        <span class="navbar-brand">医院列表 - {{ province }}</span>
+        <span class="navbar-brand"><a href="hospitals.html">返回城市列表</a></span>
     </div>
 </nav>
 
@@ -19,12 +25,11 @@
         <table class="table table-bordered">
             <thead>
                 <tr>
-                    <th>Hospital Name</th>
-                    <th>Type</th>
-                    <th>Principal</th>
-<!--                    <th>ShareHolder</th>-->
-                    <th>Address</th>
-                    <th>More</th>
+                    <th>医院名称</th>
+                    <th>医院类型</th>
+                    <th>负责人</th>
+                    <th>地址</th>
+                    <th>更多</th>
                 </tr>
             </thead>
             <tbody>
@@ -33,13 +38,8 @@
                     <td>{{ hospitals[hospital]['name'] }}</td>
                     <td>{{ hospitals[hospital]['type'] }}</td>
                     <td>{{ hospitals[hospital]['principal'] }}</td>
-<!--                    <td>-->
-<!--                        {% for shareholder in hospitals[hospital]['shareholder'] %}-->
-<!--                            <p>{{ shareholder }}</p>-->
-<!--                        {% endfor %}-->
-<!--                    </td>-->
                     <td>{{ hospitals[hospital]['address'] }}</td>
-                    <td><a data-toggle="collapse" href="#collapse{{ loop.index }}">...</a></td>
+                    <td><a data-toggle="collapse" href="#collapse{{ loop.index }}">点击查看...</a></td>
                 </tr>
                 <tr id="collapse{{ loop.index }}" class="collapse"><td colspan="5">
                     <div>名称: {{ hospital }}</div>
@@ -60,9 +60,7 @@
         </table>
     </div>
     <hr>
-    <footer>
-        <p>Hospital</p>
-    </footer>
+    {% include 'footer.phtml' %}
 </div>
 </body>
 </html>
