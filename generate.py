@@ -57,7 +57,7 @@ def do_generate(version):
     template_dir = 'resource/templates'
     render_html(template_dir + '/hospitals.phtml', dist_dir + '/hospitals.html', provinces=provinces)
     for province in hospitals:
-        render_html(template_dir + '/province.phtml', dist_dir + '/' + provinces[province]['pinyin'] + '.html', hospitals=hospitals[province])
+        render_html(template_dir + '/province.phtml', dist_dir + '/' + provinces[province]['pinyin'] + '.html', hospitals=hospitals[province], province=province)
 
 
 
