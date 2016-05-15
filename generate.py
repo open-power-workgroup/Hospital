@@ -1,22 +1,30 @@
 import os
 import sys
+import datetime
 
 import ruamel.yaml as yaml
 import json
 
 from jinja2 import Template
+from jinja2 import Environment, FileSystemLoader
 from pypinyin import lazy_pinyin
 
 
-def render_html(template_file, dist_file, **kwargs):
-    with open(template_file, 'r') as f:
-        template = Template(f.read())
-        html = template.render(kwargs)
-        with open(dist_file, 'w') as f:
-            f.write(html)
+def render_html(template_name, dist_file, **kwargs):
+    template_dir = os.path.dirname(os.path.abspath(__file__)) + '/resource/templates'
+    j2_env = Environment(loader=FileSystemLoader(template_dir), trim_blocks=True)
+    template = j2_env.get_template(template_name)
+    html = template.render(kwargs)
+    with open(dist_file, 'w') as f:
+        f.write(html)
 
 
 def do_generate(version):
+    info = {
+        'version': version,
+        'date': datetime.datetime.now().strftime('%Y年%m月%d日')
+    }
+
     hospitals = {}
 
     for filename in os.listdir('data'):
@@ -54,10 +62,9 @@ def do_generate(version):
     os.makedirs(dist_dir, exist_ok=True)
     print(dist_dir)
 
-    template_dir = 'resource/templates'
-    render_html(template_dir + '/hospitals.phtml', dist_dir + '/hospitals.html', provinces=provinces)
+    render_html('hospitals.phtml', dist_dir + '/hospitals.html', provinces=provinces, info=info)
     for province in hospitals:
-        render_html(template_dir + '/province.phtml', dist_dir + '/' + provinces[province]['pinyin'] + '.html', hospitals=hospitals[province], province=province)
+        render_html('province.phtml', dist_dir + '/' + provinces[province]['pinyin'] + '.html', hospitals=hospitals[province], province=province, info=info)
 
 
 
