@@ -5,12 +5,18 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
     <script src="http://lib.sinaapp.com/js/jquery/1.9.1/jquery-1.9.1.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <style>
+        .navbar-header .navbar-brand a {
+            color: #eeeeee;
+        }
+    </style>
 </head>
 
 <body>
 <nav class="navbar navbar-inverse" style="border-radius: 0">
     <div class="navbar-header">
         <span class="navbar-brand">医院列表 - {{ province }}</span>
+        <span class="navbar-brand"><a href="hospitals.html">返回城市列表</a></span>
     </div>
 </nav>
 
@@ -55,7 +61,7 @@
     </div>
     <hr>
     <footer>
-        <p>Hospital</p>
+        <p>本页面信息遵循<a href="https://github.com/open-power-workgroup/Hospital/blob/incoming/open_data_usage_license.md" target="_blank" rel="noopener noreferrer">OPW开放数据使用授权协议</a>发布</p>
     </footer>
 </div>
 </body>
