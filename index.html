@@ -2,89 +2,14 @@
 <html lang="zh-cn-Hans">
 <head>
   <meta charset="UTF-8">
-  <title>IS 莆田</title>
+  <title>Open Power医院信息开放数据</title>
   <link href="//cdn.bootcss.com/normalize/3.0.3/normalize.css" rel="stylesheet">
-  <style>
-    html * {
-      box-sizing: border-box;
-    }
-    body {
-      font: 100%/1.5 "Helvetica Neue", "Microsoft Yahei", sans-serif;
-      background-color: #f7f7f7;
-      padding: 25% 10%;
-    }
-    form {
-      text-align: center;
-    }
-    input {
-      border-top-left-radius: 4px;
-      border-bottom-left-radius: 4px;
-      border: 1px solid #ddd;
-      border-right: none;
-      font-size: 1.5em;
-      padding: 20px 15px;
-      outline: none;
-      height: 70px;
-      vertical-align: middle;
-      width: 80%;
-    }
-    button {
-      background-color: #2cc36b;
-      border-top-right-radius: 4px;
-      border-bottom-right-radius: 4px;
-      border: 1px solid #2cc36b;
-      color: #fff;
-      height: 70px;
-      outline: none;
-      padding: 20px 50px;
-      vertical-align: middle;
-    }
-  </style>
   <script>
-    function search(value) {
-      var xhr = new XMLHttpRequest(); 
-      var list = document.querySelector('ul');
-      xhr.open('get', 'http://klam.cc:16421/query');
-      xhr.send();
-      xhr.onload = function() { 
-        var res = [];
-        var re = new RegExp(value);
-        var result = JSON.parse(xhr.responseText);
-        for (var i = 0, ii = result.length; i < ii; i++) {
-          if (re.test(result[i])) res.push(result[i]);
-        }
-        if (!res.length) {
-          list.innerHTML = '搜索结果为空';
-        } else {
-          list.innerHTML = '';
-          res.forEach(function(lajiHospital) {
-            var item = document.createElement('li');
-            item.appendChild(document.createTextNode(lajiHospital));
-            list.appendChild(item);
-          });
-        }
-      };
-    }
-    document.addEventListener('DOMContentLoaded', function() {
-      var input = document.querySelector('input');
-      document.querySelector('button').onclick = function() {
-        if (!input.value) {
-          alert('请输入搜索关键词');
-          return;
-        }
-        search(input.value);
-      };
-    });
+    window.location.href = 'data/draft1/html/hospitals.html';
   </script>
 </head>
 
 <body>
-  <form novalidate>
-    <input type="text" autofocus placeholder="请输入医院名称"><!-- 
-     --><button type="button">搜索</button>
-  </form>
-
-  <ul>
-  </ul>
+  <p>正在重定向……</p>
 </body>
 </html>
