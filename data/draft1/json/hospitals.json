@@ -1,13 +1,13 @@
 {
-  "info": {
-    "date": "2016年05月16日",
-    "version": "draft1",
-    "license": "https://github.com/open-power-workgroup/Hospital/blob/incoming/open_data_usage_license.md"
-  },
   "data": {
     "上海": {
-      "pinyin": "shanghai",
-      "json_filename": "shanghai.json"
+      "json_filename": "shanghai.json",
+      "pinyin": "shanghai"
     }
+  },
+  "info": {
+    "version": "draft1",
+    "date": "2016年05月16日",
+    "license": "https://github.com/open-power-workgroup/Hospital/blob/master/open_data_usage_license.md"
   }
 }
