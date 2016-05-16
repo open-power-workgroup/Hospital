@@ -44,6 +44,27 @@ http://i.imgur.com/fUJaGy4.png
 
 [工信部 ICP 备案查询链接](http://www.miibeian.gov.cn/publish/query/indexFirst.action)
 
+## 职业医师查询
+
+[医师职业注册信息查询](http://zgcx.nhfpc.gov.cn/doctorsearch.aspx)
+[上海市医师执业注册查询](http://www.hs.sh.cn/newwjs/category/yszyzc.shtml)
+
+## 医疗机构设置查询
+
+[上海市卫生监督信息网](http://www.hs.sh.cn/newwjs/category/yljgsz.shtml)
+
+## 医疗机构执业登记查询
+
+[上海市卫生监督信息网](http://www.hs.sh.cn/newwjs/category/yljgzydj.shtml)
+
+## 法律判决文书搜索
+
+[OpenLaw](http://openlaw.cn)
+
+## 医学论文检索
+
+[万方医学网](http://med.wanfangdata.com.cn/)
+
 ## 使用工商局企业信用信息公示系统调查取证方法
 
 全国企业信用信息公示系统: http://gsxt.saic.gov.cn 这个页面上有各省系统的入口链接

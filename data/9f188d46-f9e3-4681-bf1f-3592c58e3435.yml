@@ -1,0 +1,36 @@
+dataversion: draft1
+created: 1462834738
+updated: 1462834738
+id: 9f188d46-f9e3-4681-bf1f-3592c58e3435
+USID: '3102262054792'
+name: 上海安真医院 口腔科 / 上海旭邦医院投资管理有限公司
+city: 上海
+province: 上海
+address: 上海市松江区人民南路39号
+type: 外包科室
+location:
+  lat: '31.003154'
+  lng: '121.229016'
+principal: 李劲松
+shareholder:
+  - 吕刚
+  - 李劲松
+url:
+  - 'http://xubang.fnkq.com/'
+phone:
+  - ''
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian: {}
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: 工商局信息显示上海旭邦医院投资管理有限公司状态为 吊销，未注销状态。安真医院无网站，旭邦医院网站数年未更新。和莆田系关系不明。

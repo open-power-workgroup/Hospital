@@ -1,0 +1,44 @@
+dataversion: draft1
+created: 1462892847
+updated: 1462892847
+id: 8d8e6377-b7d5-4432-878c-414540298b5c
+USID: '913101147465072896'
+name: 上海中亚医院
+city: 上海
+province: 上海
+address: 上海市嘉定区嘉定镇嘉丰路35号
+type: 民营医院
+location:
+  lat: '31.373032'
+  lng: '121.2351832'
+principal: 李金同
+shareholder:
+  - 李金山
+  - 李金同
+  - 上海美中安和医疗控股（集团）有限公司
+url:
+  - 'http://www.bhjchouse.com/'
+phone:
+  - 400-8251-666
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60.6766j0j7&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-10T15:03:43.562Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 基维百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-10T15:03:11.946Z - '
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''

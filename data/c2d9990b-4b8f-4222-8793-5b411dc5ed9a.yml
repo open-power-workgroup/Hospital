@@ -1,0 +1,45 @@
+dataversion: draft1
+created: 1462861240
+updated: 1462861240
+id: c2d9990b-4b8f-4222-8793-5b411dc5ed9a
+USID: '913101147836498929'
+name: 上海嘉华医院
+city: 上海
+province: 上海
+address: 中国上海市嘉定区清河路450号
+type: 民营医院
+location:
+  lat: '31.3769217'
+  lng: '121.2317892'
+principal: 王友松
+shareholder:
+  - 上海华中实业（集团）有限公司
+  - 王友松
+  - 王志金
+  - 王友志
+  - 叶彩霞
+url:
+  - 'http://www.69916666.com/'
+phone:
+  - 400-885-0806
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian: {}
+comments:
+  evidence:
+    - url: >-
+        http://wsxf.sh.gov.cn/swldxxnew/feedback_show.aspx?State=C4AD4221A364E620&LetterID=1A3B43FF6400FAA9
+      title: 前程无忧网站涉嫌虚假信息导致很多人资金损失
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwsxf.sh.gov.cn%2Fswldxxnew%2Ffeedback_show.aspx%3FState%3DC4AD4221A364E620%26LetterID%3D1A3B43FF6400FAA9&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwsxf.sh.gov.cn%2Fswldxxnew%2Ffeedback_show.aspx%3FState%3DC4AD4221A364E620%26LetterID%3D1A3B43FF6400FAA9&aqs=chrome..69i57j69i58.8112j0j7&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-10T06:17:22.796Z - '
+    - url: 'http://imgur.com/VNaEzRW'
+      title: 前程无忧网站涉嫌虚假信息导致很多人资金损失
+      snapshot: 'http://imgur.com/VNaEzRW'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-10T06:17:22.796Z - '
+note: ''

@@ -1,0 +1,48 @@
+dataversion: draft1
+created: 1462833606
+updated: 1462833606
+id: 71f4149b-73b4-4b2c-b299-711603c9d3b1
+USID: 91310104688719055G
+name: 上海万众医院
+city: 上海
+province: 上海
+address: 上海市徐汇区吴中路2、4、6号
+type: 民营医院
+location:
+  lat: '31.189372'
+  lng: '121.420752'
+principal: 占阳珊
+shareholder:
+  - 上海万众医疗投资股份有限公司
+url:
+  - 'http://www.wz120.cc/'
+phone:
+  - 400-8892218
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://news.sohu.com/20160504/n447504621.shtml'
+      title: 莆田系医院屡因肖像权遭名人告 陷入多起医疗纠纷
+      snapshot: 'http://i.imgur.com/FXTAkQK.jpg'
+      dateline: >-
+        san577478, OpenPower, 2016-05-09T22:39:59.364Z -
+        上文提到的上海万众医院，裁判文显示，近几年来，柳岩、林心如、董璇等一些比较知名的影视明星均以医院侵犯了肖像权提起过诉讼
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'http://www.shptsh.com/index.php?m=cms&q=view&id=94'
+      title: 上海市莆田商会常务副会长占阳珊
+      snapshot: 'http://i.imgur.com/JH0EdYA.jpg'
+      dateline: 'san577478, OpenPower, 2016-05-09T22:38:03.613Z - '
+    - url: 'http://tech.qq.com/a/20160501/023381.htm'
+      title: 百度与莆田系为何难解难分
+      snapshot: 'http://i.imgur.com/GNukm0K.jpg'
+      dateline: >-
+        san577478, OpenPower, 2016-05-09T22:38:03.613Z -
+        詹阳斌同时也是其集团旗下上海万众医疗投资股份有限公司的董事长
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
