@@ -13,7 +13,7 @@
 ---
 
 
-# 第一批医院名单
+# 医院入围标准
 
 本项目的第一批医院名单来源于[凤凰网医院名单](http://news.ifeng.com/mainland/special/ptxyy/)，后根据社区热心人的贡献汇总而成。进入这份名单的医院符合以下三个条件中的至少一个：
 
@@ -23,27 +23,15 @@
 
 Open Power小组会以这三个入选条件作为指导原则，明确更详细的审核标准和流程。由于信息确认工作十分复杂，工作量很大，希望所有热心人积极提供信息或线索。
 
-本项目也需要更多的热心人、尤其是有技术背景的热心人加入贡献核心架构。如果有兴趣加入，请在Issues里面申请。
-
 # 贡献者指南
+
+本项目需要更多的热心人、尤其是有技术背景的热心人加入贡献核心架构。如果有兴趣加入，请在Issues里面申请。
 
 提交贡献之前，请先阅读[贡献者指南](guide.md)。
 
-# 开发者指南
-
-1. 开发者如果需要使用本 repo 的数据，可以通过 [`resource/API_resource/`](resource/API_resource) 中的 yaml 和 json 文件来获取数据
-  * 如果发现数据不同步，可以 fork 之后用 `python update.py` 来更新 yaml 和 json 文件，并提交 pull request
-  * 如果发现 `update.py` 运行过程中有 Warning，或者 json 和 yaml 中有错误，可以通过 `python update.py debug` 来 debug 所有的输出结果。
-    程序运行的 log 会写在根目录中的 `debug.log` 中。`debug.log` 不会被 commit。
-2. 本项目所有代码遵守 [GPL V3.0 协议](https://opensource.org/licenses/GPL-3.0)
-3. 所有基于本项目的其他项目，包括使用源码，和使用 api 的项目必须开源。[原因请看此处](https://github.com/open-power-workgroup/Hospital/issues/224)
-
 # 特别申明
-1. 本项目不会有任何商业目的。如果出现不当的情况，请大家及时指出，并随时监督。
-1. 本项目收录的信息均来自互联网，仅为资源共享、学习参考之目的。作者对信息的可用性、准确性或可靠性不作任何承诺与保证。
-1. 如果您对本项目提供的信息有任何异议，请第一时间在Issues里面提出。如情况属实的，我们会第一时间予以删除，并同时向您表示歉意。
-1. 本项目收录的“用户反馈”，同样来自于互联网，也可能存在不实的问题。如果您对这些用户反馈有疑问或异议，也请及时直接通过Issues提交。
-1. 本项目最初的维护者@langhua9527，由于个人原因已经退出本项目的维护。目前本项目由Open Power团队负责管理，管理员是@fakeforreg和@xokctah
+
+本项目最初的维护者@langhua9527，由于个人原因已经退出本项目的维护。目前本项目由Open Power团队负责管理，管理员是@fakeforreg和@xokctah
 
 # 关联项目
 1. 基于凤凰网数据的[医院地图](https://github.com/wandergis/hospital-viz) 
