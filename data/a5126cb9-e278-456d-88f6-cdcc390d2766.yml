@@ -1,0 +1,45 @@
+dataversion: draft1
+created: 1463391945
+updated: 1463391945
+id: a5126cb9-e278-456d-88f6-cdcc390d2766
+USID: 91310115759046813C
+name: 上海圣爱医院
+city: 上海
+province: 上海
+address: 上海市浦东新区龙东大道6111号1栋
+type: 民营医院
+location:
+  lat: '31.3720062'
+  lng: '121.2517713'
+principal: 詹加龙
+shareholder:
+  - 上海爱丽姿医疗美容医院有限公司
+  - 陈东海
+  - 洪鹭青
+  - 詹嘉豪
+url:
+  - 'http://www.shsayy.com/'
+phone:
+  - 021-69521000
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.7735j0j7&bav=on.2,or.r_cp.&bvm=bv.122129774,d.cGc&biw=1438&bih=711&dpr=2&ech=1&psi=qpE5V-LoKczgjwPzjbCoDw.1463390635458.3&ei=qpE5V-LoKczgjwPzjbCoDw&emsg=NCSR&noj=1
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-16T09:38:38.336Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-16T09:37:56.478Z - '
+comments:
+  evidence:
+    - url: 'http://www.dianping.com/review/205918738'
+      title: 大众点评
+      snapshot: 'http://www.dianping.com/review/205918738'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-16T09:39:08.493Z - '
+note: 这个医院可能改名了
