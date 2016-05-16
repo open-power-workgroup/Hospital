@@ -6,5 +6,5 @@ rm -rf data/* && \
 mv output/* data/ && \
 git commit -am "update published website and json api" && \
 git push && \
-git checkout incoming
+git checkout master
 

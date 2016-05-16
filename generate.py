@@ -5,7 +5,6 @@ import datetime
 import ruamel.yaml as yaml
 import json
 
-from jinja2 import Template
 from jinja2 import Environment, FileSystemLoader
 from pypinyin import lazy_pinyin
 
@@ -28,7 +27,7 @@ def do_generate(version):
     info = {
         'version': version,
         'date': datetime.datetime.now().strftime('%Y年%m月%d日'),
-        'license': 'https://github.com/open-power-workgroup/Hospital/blob/incoming/open_data_usage_license.md'
+        'license': 'https://github.com/open-power-workgroup/Hospital/blob/master/open_data_usage_license.md'
     }
 
     hospitals = {}
