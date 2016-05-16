@@ -1,0 +1,32 @@
+dataversion: draft1
+created: 1463404504
+updated: 1463404504
+id: ae86694a-65b4-485c-a165-f1ca9cc4c8b1
+USID: ''
+name: 成都丽人女子医院
+city: 成都
+province: 四川
+address: 成都市人民中路二段43号
+type: 民营医院
+principal: ''
+shareholder:
+  - ''
+url:
+  - ''
+phone:
+  - 028-86611111
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian: {}
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''
