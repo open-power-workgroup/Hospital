@@ -230,12 +230,15 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
      -  黄志佳相关信息：[莆田青年发展促进会（珠海）第三次交流会顺利召开](http://zonghui.hxyjw.com/show-146921)，（[中国）健康产业总会上海分会筹备大会在沪胜利召开 - 上海市莆田商会](https://www.google.com/search?hl=en&q=%E9%BB%84%E5%BF%97%E4%BD%B3+site%3Awww.ptshsh.com#newwindow=1&hl=en&q=%E9%BB%84%E5%BF%97%E4%BD%B3+site:ptshsh.com)。 （请进一步求证。）
 - 上海万众医院
  - 电话 400-8892218
- - 网址 http://www.wz120.cc
+ - 网址 http://www.wz120.cc/
  - 地址 上海市徐汇区吴中路2号
- - 用户反馈 [患者家属](http://health.dahe.cn/yypj/yhb/201207/t20120716_397644.html)
- - 用户反馈 [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716_397644.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716_397644.html&aqs=chrome..69i57j69i58.4789j0j4&sourceid=chrome&ie=UTF-8)
- - 用户反馈 [天涯网友](http://bbs.tianya.cn/post-41-943030-1.shtml)
- - 用户反馈 [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&aqs=chrome..69i57j69i58.2551j0j4&sourceid=chrome&ie=UTF-8)
+ - 证据：
+     - 全国企业信用信息公示系统显示[上海万众医院有限公司法定代表人](http://gsxt.sh.gov.cn/notice/notice/view?uuid=PS0hIGEWVK63gZt7AqIcxkQZ5Db8QeQZ&tab=01)：占阳珊
+     - 占阳珊为莆田健康产业总商会常务副会长，上海市福建商会理事。确认参考：[新华网微博](http://weibo.com/ttarticle/p/show?id=2309351000123970977124987204)，[上海市莆田商会网页谷歌缓存](https://webcache.googleusercontent.com/search?q=cache:aEauriVoQOEJ:www.shptsh.com/index.php%3Fm%3Dcms%26q%3Dview%26id%3D94+&cd=2&hl=en&ct=clnk&lr=lang_en%7Clang_zh-CN%7Clang_zh-TW), 新闻“[同济大学与莆系医疗合作共建附属医院](http://t1.cn-healthcare.com/article/20150401/content-472036.html)”。
+     - 用户反馈 [患者家属](http://health.dahe.cn/yypj/yhb/201207/t20120716_397644.html)
+     - 用户反馈 [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716_397644.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716_397644.html&aqs=chrome..69i57j69i58.4789j0j4&sourceid=chrome&ie=UTF-8)
+     - 用户反馈 [天涯网友](http://bbs.tianya.cn/post-41-943030-1.shtml)
+     - 用户反馈 [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&aqs=chrome..69i57j69i58.2551j0j4&sourceid=chrome&ie=UTF-8)
 - 上海安真医院
  - 电话 021-57711006
  - 地址 上海市松江区人民南路39号
