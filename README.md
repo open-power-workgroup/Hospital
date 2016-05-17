@@ -11,6 +11,8 @@
 请进入[数据发布网站](http://open-power-workgroup.github.io/Hospital)获取医院信息开放数据。
 
 ---
+
+
 # 医院入围标准
 
 本项目的第一批医院名单来源于[凤凰网医院名单](http://news.ifeng.com/mainland/special/ptxyy/)，后根据社区热心人的贡献汇总而成。进入这份名单的医院符合以下三个条件中的至少一个：
