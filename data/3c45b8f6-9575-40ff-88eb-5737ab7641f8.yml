@@ -1,0 +1,39 @@
+dataversion: draft1
+created: 1463402154
+updated: 1463402154
+id: 3c45b8f6-9575-40ff-88eb-5737ab7641f8
+USID: '510107000172400'
+name: 成都长征医院
+city: 成都
+province: 四川
+address: 四川省成都市一环路南三段57号
+type: 民营医院
+principal: 林志平
+shareholder:
+  - 林寿庸
+  - 林志平
+url:
+  - ''
+phone:
+  - 028-85583777
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://mt.sohu.com/20160505/n447883098.shtml'
+      title: 四川莆田系医院最全名单大曝光，仅成都就有38家！你还敢去吗？
+      snapshot: 'http://i.imgur.com/bYr5Yzn.png'
+      dateline: ''
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'http://mt.sohu.com/20160505/n447883098.shtml'
+      title: 四川莆田系医院最全名单大曝光，仅成都就有38家！你还敢去吗？
+      snapshot: 'http://i.imgur.com/bYr5Yzn.png'
+      dateline: ''
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''

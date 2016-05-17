@@ -1,0 +1,33 @@
+dataversion: draft1
+created: 1463404608
+updated: 1463404608
+id: b4b8c944-4173-47fe-a1bc-835fc58c7f88
+USID: '510100000156488'
+name: 成都博爱医院
+city: 成都
+province: 四川
+address: 成都市大慈寺路1号
+type: 民营医院
+principal: 游金棋
+shareholder:
+  - 游金豹
+  - 游金棋
+url:
+  - ''
+phone:
+  - ''
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian: {}
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''

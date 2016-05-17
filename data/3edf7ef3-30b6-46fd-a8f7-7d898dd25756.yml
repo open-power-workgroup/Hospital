@@ -1,0 +1,32 @@
+dataversion: draft1
+created: 1463405724
+updated: 1463405724
+id: 3edf7ef3-30b6-46fd-a8f7-7d898dd25756
+USID: ''
+name: 成都糖尿病专科医院
+city: 成都
+province: 四川
+address: ''
+type: ''
+principal: ''
+shareholder:
+  - ''
+url:
+  - ''
+phone:
+  - ''
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian: {}
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''

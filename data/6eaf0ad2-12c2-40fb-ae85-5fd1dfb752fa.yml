@@ -1,0 +1,36 @@
+dataversion: draft1
+created: 1463406029
+updated: 1463406029
+id: 6eaf0ad2-12c2-40fb-ae85-5fd1dfb752fa
+USID: 91510105577363092L
+name: 成都瑞恩糖尿病医院
+city: 成都
+province: 四川
+address: 成都市青羊区锣锅巷街122号
+type: 民营医院
+principal: 黄玉华
+shareholder:
+  - 黄玉华
+  - 雷会勇
+  - 王爱东
+  - 卓国金
+  - 邹双仁
+url:
+  - ''
+phone:
+  - ''
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian: {}
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''

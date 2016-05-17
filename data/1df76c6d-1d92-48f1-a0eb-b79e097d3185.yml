@@ -1,0 +1,35 @@
+dataversion: draft1
+created: 1463404260
+updated: 1463404260
+id: 1df76c6d-1d92-48f1-a0eb-b79e097d3185
+USID: '915101057464333048'
+name: 成都永康医院
+city: 成都
+province: 四川
+address: 成都市青羊区玉沙路142号
+type: 民营医院
+principal: 李华
+shareholder:
+  - 四川军大医学研究所
+  - 张莹
+  - 蒋天轩
+  - 李斌
+url:
+  - ''
+phone:
+  - ''
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian: {}
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''

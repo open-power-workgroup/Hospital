@@ -20,7 +20,7 @@
 <nav class="navbar navbar-inverse" style="border-radius: 0">
     <div class="navbar-header">
         <span class="navbar-brand">医院列表 - {{ province }}</span>
-        <span class="navbar-brand"><a href="hospitals.html">返回城市列表</a></span>
+        <span class="navbar-brand"><a href="hospitals.html">返回首页</a></span>
     </div>
 </nav>
 
@@ -49,7 +49,9 @@
             </tr>
             <tr id="collapse{{ loop.index }}" class="collapse">
                 <td colspan="6">
+                    <div>数据ID: {{ hospitals[hospital]["id"] }}</div>
                     <div>名称: {{ hospital }}</div>
+                    <div>统一社会信用代码: {{ hospitals[hospital]["USID"] }}</div>
                     <div>负责人: {{ hospitals[hospital]["principal"] }}</div>
                     <div>股东:
                         {% for shareholder in hospitals[hospital]["shareholder"] %}
