@@ -49,7 +49,6 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
 | [BlackHospital](https://github.com/neuyu/BlackHospital)   | Android原生应用，可以定位到用户所在城市           | [![GitHub stars](https://img.shields.io/github/stars/neuyu/BlackHospital.svg?style=social)](https://github.com/neuyu/BlackHospital)| [![GitHub forks](https://img.shields.io/github/forks/neuyu/BlackHospital.svg?style=social)](https://github.com/neuyu/BlackHospital)|
 | [PTXNotification](https://github.com/erichuang1994/PTXNotification) | 一个Chrome插件                        | [![GitHub stars](https://img.shields.io/github/stars/erichuang1994/PTXNotification.svg?style=social)](https://github.com/erichuang1994/PTXNotification)| [![GitHub forks](https://img.shields.io/github/forks/erichuang1994/PTXNotification.svg?style=social)](https://github.com/erichuang1994/PTXNotification)|
 
-
 # 版本1.2beta
 
 # 目录
