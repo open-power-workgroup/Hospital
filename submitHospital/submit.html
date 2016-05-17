@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    
+    <title>Add a items</title>
+
+    <!-- include Bootstrap CSS for layout -->
+    <link href="./bootstrap-combined.min.css" rel="stylesheet">
+  </head>
+  
+  <body>
+    <div class="container">
+      <h1>提交医院 （还不完善，但可以凑合用了）</h1>
+      
+      <form method="post" class="form-horizontal">
+        <fieldset>
+          <legend></legend>  
+          <div class="control-group">
+            <label class="control-label" for="myid">提交人ID（用于生成dateline等）</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="myid" id="myid" value="">
+            </div>
+          </div>
+          <div class="control-group">
+            <label class="control-label" for="myorg">提交人所属组织（用于生成dateline等）</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="myorg" id="myorg" value="">
+            </div>
+          </div>
+          <div class="form-actions">
+            <input type="button" name="saveuserid" id="saveuserid" value="Save My Info" class="btn btn-primary">
+          </div>
+          <legend>基本信息</legend>  
+
+          <div class="control-group">
+            <label class="control-label" for="id">id</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="id" id="id" value="" disabled>
+            </div>
+          </div>
+
+          <div class="control-group">
+            <label class="control-label" for="USID">统一社会信用代码</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="usid" id="usid" value="">
+            </div>
+          </div>
+
+          <div class="control-group">
+            <label class="control-label" for="name">名称</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="name" id="name" value="">
+            </div>
+          </div>
+
+          <div class="control-group">
+            <label class="control-label" for="city">城市</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="city" id="city" value="">
+            </div>
+          </div>
+
+          <div class="control-group">
+            <label class="control-label" for="province">省份</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="province" id="province" value="">
+            </div>
+          </div>
+
+          <div class="control-group">
+            <label class="control-label" for="address">地址</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="address" id="address" value="">
+            </div>
+          </div>
+          <div class="control-group">
+            <label class="control-label" for="type">医院类型</label>
+            <div class="controls">
+              <select name="type" id="type">
+                <option value="">Please select</option>
+                <option value="民营医院">民营医院</option>
+                <option value="外包科室">外包科室</option>
+              </select>
+            </div>
+          </div>
+      
+          <div class="control-group">
+            <label class="control-label" for="location">经纬度</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="location" id="location" placeholder="格式: 39.987327,116.334477" value="">
+            </div>
+          </div>
+    
+          <div class="control-group">
+            <label class="control-label" for="principal">负责人</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="principal" id="principal" value="" placeholder="法人代表或董事长，一个人名">
+            </div>
+          </div>
+          <div class="control-group">
+            <label class="control-label" for="shareholder">股东</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="shareholder" id="shareholder" value="" placeholder="格式: 股东1,股东2,股东3">
+            </div>
+          </div>
+          <div class="control-group">
+            <label class="control-label" for="url">URL</label>
+            <div class="controls">
+              <textarea class="input-xlarge" name="url" id="url" placeholder="多个网址每个单独一行"></textarea>
+            </div>
+          </div>
+          <div class="control-group">
+            <label class="control-label" for="phone">电话</label>
+            <div class="controls">
+              <textarea class="input-xlarge" name="phone" id="phone" placeholder="多个电话每个单独一行"></textarea>
+            </div>
+          </div>
+        
+          <legend>百度广告情况</legend>  
+          <div class="control-group">
+            <label class="control-label" for="baiduad_confirm">是否投放百度广告</label>
+            <div class="controls">
+              <select name="baiduad_confirm" id="baiduad_confirm">
+                <option value="null">不确定</option>
+                <option value="Yes">是</option>
+                <option value="No">否</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="control-group baidu_evidence">
+            <label class="control-label" for="baidu_evidence_url">证据URL</label>
+            <div class="controls">
+              <input class="input-xlarge " type="text" name="baidu_evidence_url" id="baidu_evidence_url" value="" >
+            </div>
+            <label class="control-label" for="baidu_evidence_title">证据标题</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="baidu_evidence_title" id="baidu_evidence_title" value="" >
+            </div>
+            <label class="control-label" for="baidu_evidence_snapshot">证据快照</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="baidu_evidence_snapshot" id="baidu_evidence_snapshot" value="" >
+            </div>
+            <label class="control-label" for="baidu_evidence_dateline">dateline</label>
+            <div class="controls">
+              <input class="input-xlarge dateline" type="text" name="baidu_evidence_dateline" id="baidu_evidence_dateline" value="" >
+            </div>
+          </div>
+          <div class="form-actions">
+            <input type="button" name="baidu_news_evidence" id="add_baidu_evidence" value="Add" class="btn btn-primary">
+          </div>
+
+
+          <legend>莆田系关联</legend>  
+          <div class="control-group">
+            <label class="control-label" for="type">是否和莆田系有关联</label>
+            <div class="controls">
+              <select name="putian_confirm" id="putian_confirm">
+                <option value="null">不确定</option>
+                <option value="Yes">是</option>
+                <option value="No">否</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="control-group putian_evidence">
+            <label class="control-label" for="putian_evidence_url">证据URL</label>
+            <div class="controls">
+              <input class="input-xlarge " type="text" name="putian_evidence_url" id="putian_evidence_url" value="" >
+            </div>
+            <label class="control-label" for="putian_evidence_title">证据标题</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="putian_evidence_title" id="putian_evidence_title" value="" >
+            </div>
+            <label class="control-label" for="putian_evidence_snapshot">证据快照</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="putian_evidence_snapshot" id="putian_evidence_snapshot" value="" >
+            </div>
+            <label class="control-label" for="putian_evidence_dateline">dateline</label>
+            <div class="controls">
+              <input class="input-xlarge dateline" type="text" name="putian_evidence_dateline" id="putian_evidence_dateline" value="" >
+            </div>
+          </div>
+          <div class="form-actions">
+            <input type="button" name="putian_news_evidence" id="add_putian_evidence" value="Add" class="btn btn-primary">
+          </div>
+
+          <legend>媒体报道情况</legend>  
+          <div class="control-group news_evidence">
+            <label class="control-label" for="news_evidence_url">证据URL</label>
+            <div class="controls">
+              <input class="input-xlarge " type="text" name="news_evidence_url" id="news_evidence_url" value="" >
+            </div>
+            <label class="control-label" for="news_evidence_title">证据标题</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="news_evidence_title" id="news_evidence_title" value="" >
+            </div>
+            <label class="control-label" for="news_evidence_snapshot">证据快照</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="news_evidence_snapshot" id="news_evidence_snapshot" value="" >
+            </div>
+            <label class="control-label" for="news_evidence_dateline">dateline</label>
+            <div class="controls">
+              <input class="input-xlarge dateline" type="text" name="news_evidence_dateline" id="news_evidence_dateline" value="" >
+            </div>
+          </div>
+          <div class="form-actions">
+            <input type="button" name="add_news_evidence" id="add_news_evidence" value="Add" class="btn btn-primary">
+          </div>
+
+          <legend>用户评论</legend>  
+          <div class="control-group comment_evidence">
+            <label class="control-label" for="comment_evidence_url">证据URL</label>
+            <div class="controls">
+              <input class="input-xlarge " type="text" name="comment_evidence_url" id="comment_evidence_url" value="" >
+            </div>
+            <label class="control-label" for="comment_evidence_title">证据标题</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="comment_evidence_title" id="comment_evidence_title" value="" >
+            </div>
+            <label class="control-label" for="comment_evidence_snapshot">证据快照</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="comment_evidence_snapshot" id="comment_evidence_snapshot" value="" >
+            </div>
+            <label class="control-label" for="comment_evidence_dateline">dateline</label>
+            <div class="controls">
+              <input class="input-xlarge dateline" type="text" name="comment_evidence_dateline" id="comment_evidence_dateline" value="" >
+            </div>
+          </div>
+          <div class="form-actions">
+            <input type="button" name="add_comment_evidence" id="add_comment_evidence" value="Add" class="btn btn-primary">
+          </div>
+
+          <div class="control-group">
+            <label class="control-label" for="note">备注</label>
+            <div class="controls">
+              <textarea class="input-xlarge" name="note" id="note" placeholder="备注"></textarea>
+            </div>
+          </div>
+          
+        </fieldset>                        
+        
+        <div class="form-actions">
+          <input type="button" name="yaml" id="yaml" value="generate YAML" class="btn btn-primary">
+        </div>
+        <div class="controls">
+          <textarea class="input-xlarge" name="yaml_dump" id="yaml_dump" style="margin: 0px; height: 500px; width: 600px;"></textarea>
+        </div>
+        <div class="form-actions">
+          <input type="button" name="download" id="download" value="Download" class="btn btn-primary">
+        </div>
+      </form>  
+    </div>
+    
+    <!-- include jQuery library -->
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/js-yaml/dist/js-yaml.min.js"></script>
+    <script src="bower_components/uuid4/lib/browser/index.js"></script>
+    <script>
+    var dataversion='draft1';
+    var newitem = function(){
+      var uuid=UUID4.generate();
+      $("#id").val(uuid);
+    }
+
+    //var submitdata=function(){
+    //}
+    var download = function (filename, text) {
+        var pom = document.createElement('a');
+        pom.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+        pom.setAttribute('download', filename);
+    
+        if (document.createEvent) {
+            var event = document.createEvent('MouseEvents');
+            event.initEvent('click', true, true);
+            pom.dispatchEvent(event);
+        }
+        else {
+            pom.click();
+        }
+    }
+    var add_evidence=function(item_name){
+
+          var new_evidence=$($("."+item_name+"_evidence")[0]).clone();
+          $(new_evidence.find("#"+item_name+"_evidence_url")[0]).val("")
+          $(new_evidence.find("#"+item_name+"_evidence_title")[0]).val("")
+          $(new_evidence.find("#"+item_name+"_evidence_snapshot")[0]).val("")
+          $(new_evidence.find("#"+item_name+"_evidence_dateline")[0]).val("")
+          new_evidence.clone().insertAfter($("."+item_name+"_evidence")[$("."+item_name+"_evidence").length-1]);
+    }
+    var generate_evidenceList=function(evidence_name){
+            var evidence_items=[];
+            $("."+evidence_name+"_evidence").each(function( index ) { 
+              var evidence_item={};
+              var evidence = $($("."+evidence_name+"_evidence")[index]); 
+              evidence_item.url=$(evidence.find("#"+evidence_name+"_evidence_url")).val();
+              evidence_item.title=$(evidence.find("#"+evidence_name+"_evidence_title")).val();
+              evidence_item.snapshot=$(evidence.find("#"+evidence_name+"_evidence_snapshot")).val();
+              evidence_item.dateline=$(evidence.find("#"+evidence_name+"_evidence_dateline")).val();
+              evidence_items.push(evidence_item);
+            }); 
+            return evidence_items;
+    }
+    var generateResult = function(){
+          var result={};
+          result.dataversion=dataversion;
+          if(!result.created)
+            result.created=Math.floor(Date.now() / 1000);
+          result.updated=Math.floor(Date.now() / 1000);
+          result.id=$("#id").val();
+          result.USID=$("#usid").val();
+          result.name=$("#name").val();
+          result.city=$("#city").val();
+          result.province=$("#province").val();
+          result.address=$("#address").val();
+          result.type=$("#type").val();
+          var location = $("#location").val().split(",");
+          if(location && location.length==2){
+            result.location={lat:location[0].trim(),lng:location[1].trim()};
+          }
+          result.principal=$("#principal").val();
+          result.shareholder=$("#shareholder").val().split(",");
+          result.url=$("#url").val().split(/\n|\r/);
+          result.phone=$("#phone").val().split(/\n|\r/);
+          result.baiduad={};
+          if($("#baiduad_confirm").val()!="null")
+            result.baiduad.confirm=$("#baiduad_confirm").val();
+          if($("#baiduad_confirm").val()=="Yes"){
+            var items=generate_evidenceList("baidu");
+            result.baiduad.evidence=items;
+          }
+
+          result.news={};
+          result.news.evidence=generate_evidenceList("news");
+
+          result.putian={};
+          if($("#putian_confirm").val()!="null")
+            result.putian.confirm=$("#putian_confirm").val();
+          if($("#putian_confirm").val()=="Yes"){
+            var items=generate_evidenceList("putian");
+            result.putian.evidence=items;
+          }
+
+          result.comments={};
+          result.comments.evidence=generate_evidenceList("comment");
+          result.note=$("#note").val();
+          return result;
+    }
+    var generateDateline=function (){
+      var myid=$("#myid").val();
+      var myorg=$("#myorg").val();
+      var now = new Date(); 
+      var dateline=myid+", "+myorg+", "+now.toISOString()+" - ";
+      return dateline;
+      //san577478, OpenPower, 05/08/2016 @ 12:27am (UTC) - submit #dateline是新闻媒体常用的格式，一般是一小段文本，写明贡献者、组织、时间、描述。参考： https://en.wikipedia.org/wiki/Dateline
+    }
+    var init=function(){
+      if(localStorage && localStorage.OpenPower_SubmitID)
+         $("#myid").val(localStorage.OpenPower_SubmitID);
+
+      if(localStorage && localStorage.OpenPower_SubmitORG)
+         $("#myorg").val(localStorage.OpenPower_SubmitORG);
+    }
+    $(document).ready(function () {
+        init();
+        newitem();
+        $( "#add_comment_evidence" ).click(function() {
+          add_evidence("comment");
+        });
+        $( "#add_putian_evidence" ).click(function() {
+          add_evidence("putian");
+        });
+        $( "#add_baidu_evidence" ).click(function() {
+          add_evidence("baidu");
+        });
+        $( "#add_news_evidence" ).click(function() {
+          add_evidence("news");
+        });
+        $( "#download" ).click(function() {
+          download($("#id").val()+'.yml', $("#yaml_dump").val());
+        });
+        $( "#saveuserid" ).click(function() {
+          var myid=$("#myid").val()
+          localStorage.OpenPower_SubmitID = myid;
+          var myorg=$("#myorg").val()
+          localStorage.OpenPower_SubmitORG = myorg;
+        });
+        $("input.dateline").focus(function() {
+          var urlinput=$($(this).parent().siblings().find("input[name$='_url']")[0]);
+          if(urlinput && urlinput.val()!=""){
+            $(this).val(generateDateline());
+          }
+        });
+
+        $( "#yaml" ).click(function(event) {
+          event.preventDefault()
+          var result = generateResult(); 
+          var yaml = jsyaml.safeDump (result);
+          console.log(yaml);
+          $("#yaml_dump").val(yaml);
+        });
+    });
+    </script>
+  </body>
+</html>

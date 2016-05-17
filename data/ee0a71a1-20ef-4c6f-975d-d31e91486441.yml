@@ -1,0 +1,43 @@
+dataversion: draft1
+created: 1462872494
+updated: 1462872494
+id: ee0a71a1-20ef-4c6f-975d-d31e91486441
+USID: ''
+name: 众仁曙光医疗保健中心
+city: 上海
+province: 上海
+address: ''
+type: 民营医院
+principal: ''
+shareholder:
+  - ''
+url:
+  - ''
+phone:
+  - ''
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'http://www.mnw.cn/news/pt/1172228.html'
+      title: 莆田系林氏家族背景资料发家史 林志忠林志程博爱医疗名单
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.mnw.cn%2Fnews%2Fpt%2F1172228.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.mnw.cn%2Fnews%2Fpt%2F1172228.html&aqs=chrome..69i57j69i58.2869j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-10T09:23:09.567Z - '
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-10T09:23:09.567Z - '
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''

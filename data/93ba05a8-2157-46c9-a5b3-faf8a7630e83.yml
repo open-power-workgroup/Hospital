@@ -1,0 +1,42 @@
+dataversion: draft1
+created: 1462891002
+updated: 1462891002
+id: 93ba05a8-2157-46c9-a5b3-faf8a7630e83
+USID: ''
+name: 上海曙康口腔医院
+city: 上海
+province: 上海
+address: 上海市卢湾区普安路185号
+type: ''
+location:
+  lat: '31.222935'
+  lng: '121.4764833'
+principal: ''
+shareholder:
+  - ''
+url:
+  - ''
+phone:
+  - ''
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.8786j0j4
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:36:21.760Z - '
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''

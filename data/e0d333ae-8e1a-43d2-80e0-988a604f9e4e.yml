@@ -1,0 +1,41 @@
+dataversion: draft1
+created: 1462873236
+updated: 1462873236
+id: e0d333ae-8e1a-43d2-80e0-988a604f9e4e
+USID: ''
+name: 上海中医药大学附属曙光医院浦东肝病专科分院
+city: 上海
+province: 上海
+address: 中国上海市浦东新区华夏东路3018弄46号
+type: 民营医院
+location:
+  lat: '31.201784'
+  lng: '121.712658'
+principal: ''
+shareholder:
+  - ''
+url:
+  - ''
+phone:
+  - ''
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-10T09:39:24.827Z - '
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''

@@ -1,0 +1,47 @@
+dataversion: draft1
+created: 1462948297
+updated: 1462948297
+id: a8208e04-9d6c-4c87-866f-b3d470de12c0
+USID: ''
+name: 上海博大医院
+city: 上海
+province: 上海
+address: 上海市松江区人民南路（阔街）55号
+type: 民营医院
+location:
+  lat: '31.005725'
+  lng: '121.229828'
+principal: ''
+shareholder:
+  - ''
+url:
+  - ''
+phone:
+  - ''
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60l2.2653j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-11T06:18:20.131Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-11T06:18:38.193Z - '
+comments:
+  evidence:
+    - url: 'http://bbs.tianya.cn/post-41-1233784-1.shtml'
+      title: 天涯论坛
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-1233784-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-1233784-1.shtml&aqs=chrome..69i57j69i58.2774j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-11T06:21:50.525Z - '
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''

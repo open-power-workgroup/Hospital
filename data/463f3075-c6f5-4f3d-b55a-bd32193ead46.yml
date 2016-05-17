@@ -1,0 +1,58 @@
+dataversion: draft1
+created: 1462892254
+updated: 1462892254
+id: 463f3075-c6f5-4f3d-b55a-bd32193ead46
+USID: '310103000124326'
+name: 上海时光整形外科医院
+city: 上海
+province: 上海
+address: 上海市黄浦区普安路189号
+type: 民营医院
+location:
+  lat: '31.2225013'
+  lng: '121.4786946'
+principal: 陈兰兰
+shareholder:
+  - 林国雄
+  - 上海曙光科技发展中心
+  - 林国瑞
+  - 苏元族
+url:
+  - 'http://www.sh-shuguang.com/'
+phone:
+  - 400-820-5579
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60.6766j0j7&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:51:12.925Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:52:55.731Z - '
+comments:
+  evidence:
+    - url: 'http://51jk.c029.com/infoShow_1167_18511.html'
+      title: 上海时光整形外科医院是骗子医院
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2F51jk.c029.com%2FinfoShow_1167_18511.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2F51jk.c029.com%2FinfoShow_1167_18511.html&aqs=chrome..69i57j69i58.5262j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:54:10.899Z - '
+    - url: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2F112812.com%2F44260.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2F112812.com%2F44260.html&aqs=chrome..69i57j69i58.3631j0j4&sourceid=chrome&ie=UTF-8
+      title: 举报上海海时光整形外科医院—骗子太黑了黑医院 - 理财方法
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2F112812.com%2F44260.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2F112812.com%2F44260.html&aqs=chrome..69i57j69i58.3631j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:54:10.899Z - '
+    - url: >-
+        http://webcache.googleusercontent.com/search?q=cache://www.dfasme.com/qiyenews/news/2016042793993.html&num=1&rlz=1C5CHFA_enUS659US659&strip=1&vwsrc=0
+      title: 用户评论
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache://www.dfasme.com/qiyenews/news/2016042793993.html&num=1&rlz=1C5CHFA_enUS659US659&strip=1&vwsrc=0
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:54:10.899Z - '
+note: ''

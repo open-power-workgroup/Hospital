@@ -1,0 +1,23 @@
+{
+  "name": "submitHospital",
+  "authors": [
+    "san577478  <san577478@gmail.com>"
+  ],
+  "description": "Submit a hospital",
+  "main": "submit.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "uuid4": "2.0.0",
+    "jquery": "^2.2.3",
+    "js-yaml": "^3.6.0"
+  }
+}
