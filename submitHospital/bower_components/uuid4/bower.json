@@ -1,0 +1,21 @@
+{
+  "name": "uuid4",
+  "version": "2.0.0",
+  "homepage": "https://github.com/fczbkk/uuid4",
+  "author": "Riki Fridrich <riki@fczbkk.com> (https://github.com/fczbkk)",
+  "description": "Generator and validator for Universally Unique Identifier v4 (random).",
+  "main": "lib/browser/index.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "src",
+    "doc",
+    "Gruntfile.coffee",
+    ".DS_Store",
+    "bower.json",
+    "package.json"
+  ]
+}
