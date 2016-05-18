@@ -1,0 +1,62 @@
+dataversion: draft1
+created: 1463543544
+updated: 1463543544
+id: bbe7d48e-a404-4194-88ef-1fdaf684b605
+USID: 91310106751877073M
+name: 上海健桥医院
+city: 上海
+province: 上海
+address: 上海闸北区中兴路1122号
+type: 民营医院
+location:
+  lat: '31.2521575'
+  lng: '121.4629991'
+principal: 陈国雄
+shareholder:
+  - 陈国兴
+  - 陈金章
+url:
+  - 'http://www.jianqiaohospital.com/'
+phone:
+  - 021-56659999
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.6201j0j7&bav=on.2,or.r_cp.&bvm=bv.122448493,d.cGc&biw=1438&bih=715&dpr=2&ech=1&psi=1OQ7V-vcN47YjwPHgpSACA.1463542998782.3&ei=1OQ7V-vcN47YjwPHgpSACA&emsg=NCSR&noj=1
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:43:38.128Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:42:47.475Z - '
+comments:
+  evidence:
+    - url: 'http://51jk.c029.com/infoShow_1167_23663.html'
+      title: 51健康之路
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2F51jk.c029.com%2FinfoShow_1167_23663.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2F51jk.c029.com%2FinfoShow_1167_23663.html&aqs=chrome..69i57j69i58.2664j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:49:40.770Z - '
+    - url: 'http://www.315rx.com/CompTs_Html/251532R20110720X44.html'
+      title: 315热线
+      snapshot: 'http://www.315rx.com/CompTs_Html/251532R20110720X44.html'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:49:40.770Z - '
+    - url: 'http://m.qiangjunshi.com/29/17921.html'
+      title: 社会视野
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fm.qiangjunshi.com%2F29%2F17921.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fm.qiangjunshi.com%2F29%2F17921.html&aqs=chrome..69i57j69i58.2830j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:49:40.770Z - '
+    - url: 'http://www.shupingnet.com/jr/201605/9105.html'
+      title: 评述网
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.shupingnet.com%2Fjr%2F201605%2F9105.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.shupingnet.com%2Fjr%2F201605%2F9105.html&aqs=chrome..69i57j69i58.2407j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:49:40.770Z - '
+    - url: 'http://ctk-ktkv.com/wenzhang/4784'
+      title: 投诉上海健桥医院欺骗患者收取高额医疗费
+      snapshot: 'http://ctk-ktkv.com/wenzhang/4784'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:49:40.770Z - '
+note: ''
