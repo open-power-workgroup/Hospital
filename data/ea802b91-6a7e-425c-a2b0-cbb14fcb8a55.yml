@@ -1,0 +1,75 @@
+dataversion: draft1
+created: 1463550497
+updated: 1463550497
+id: ea802b91-6a7e-425c-a2b0-cbb14fcb8a55
+USID: 91310109737485639H
+name: 上海长江医院
+city: 上海
+province: 上海
+address: 上海市虹口区周家嘴路515-535号
+type: 民营医院
+location:
+  lat: '31.2560845'
+  lng: '121.4981643'
+principal: 林梅兰
+shareholder:
+  - 上海虹口长江医疗产业投资管理（集团）有限公司
+  - 林梅兰
+  - 林瑞兴
+  - 陈娟
+url:
+  - 'http://www.cjhospital.com/yiyuanjianjie/'
+phone:
+  - 021-65022556
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.6201j0j7&bav=on.2,or.r_cp.&bvm=bv.122448493,d.cGc&biw=1438&bih=715&dpr=2&ech=1&psi=1OQ7V-vcN47YjwPHgpSACA.1463542998782.3&ei=1OQ7V-vcN47YjwPHgpSACA&emsg=NCSR&noj=1
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:42:51.582Z - '
+    - url: >-
+        http://www.southcn.com/news/community/shzt/consumer/medical/200603020437.htm
+      title: 南方周未 “送子神话”的背后——上海长江医院被全面调查
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.southcn.com%2Fnews%2Fcommunity%2Fshzt%2Fconsumer%2Fmedical%2F200603020437.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.southcn.com%2Fnews%2Fcommunity%2Fshzt%2Fconsumer%2Fmedical%2F200603020437.htm&aqs=chrome..69i57j69i58.2912j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:42:51.582Z - '
+    - url: 'http://www.bullettou.com/news/shehui/2015-07-28/8827.html'
+      title: 北都网
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.bullettou.com%2Fnews%2Fshehui%2F2015-07-28%2F8827.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.bullettou.com%2Fnews%2Fshehui%2F2015-07-28%2F8827.html&aqs=chrome..69i57j69i58.3470j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:42:51.582Z - '
+    - url: 'http://news.sina.com.cn/c/2006-05-29/09119056507s.shtml'
+      title: '"骗子医院"乔迁继续营业 长江医院还能走多远'
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fnews.sina.com.cn%2Fc%2F2006-05-29%2F09119056507s.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fnews.sina.com.cn%2Fc%2F2006-05-29%2F09119056507s.shtml&aqs=chrome..69i57j69i58.2182j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:42:51.582Z - '
+    - url: 'http://forum.xitek.net/thread-331045-1-1-1.html'
+      title: 令人发指也不为过，上海长江医院坑人事件！看28日CCTV-2感言
+      snapshot: 'http://forum.xitek.net/thread-331045-1-1-1.html'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:42:51.582Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:41:39.361Z - '
+comments:
+  evidence:
+    - url: 'http://www.yiliao8.com/a/400.html'
+      title: 上海长江医院发布假新闻以及收费不明乱收费问题
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.yiliao8.com%2Fa%2F400.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.yiliao8.com%2Fa%2F400.html&aqs=chrome..69i57j69i58.2062j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:46:31.474Z - '
+    - url: 'http://www.19lou.com/forum-289-thread-1161375781535263-1-1.html'
+      title: 上海长江医院就是骗子医院
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.19lou.com%2Fforum-289-thread-1161375781535263-1-1.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.19lou.com%2Fforum-289-thread-1161375781535263-1-1.html&aqs=chrome..69i57j69i58.2135j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:46:31.474Z - '
+    - url: 'http://www.djlhc111.com/xinwen/shishi/29093.html'
+      title: 上海天伦医院黑心骗子医院，虹口区卫生局腐败透顶，黄启明黑心骗
+      snapshot: 'http://www.djlhc111.com/xinwen/shishi/29093.html'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:46:31.474Z - '
+note: 全名 上海虹口长江医院有限公司

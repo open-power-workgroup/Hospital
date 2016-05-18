@@ -1,0 +1,66 @@
+dataversion: draft1
+created: 1463560610
+updated: 1463560610
+id: c85232ed-c240-4662-835f-6dcea43c2737
+USID: 91310104734576527U
+name: 上海博爱医院
+city: 上海
+province: 上海
+address: 上海市徐汇区淮海中路1590号
+type: 民营医院
+location:
+  lat: '31.208523'
+  lng: '121.444463'
+principal: 陈帆
+shareholder:
+  - 范萍
+  - 上海博爱健康投资有限公司
+url:
+  - 'http://boaihospital.com/'
+phone:
+  - 021-64312600
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.6201j0j7&bav=on.2,or.r_cp.&bvm=bv.122448493,d.cGc&biw=1438&bih=715&dpr=2&ech=1&psi=1OQ7V-vcN47YjwPHgpSACA.1463542998782.3&ei=1OQ7V-vcN47YjwPHgpSACA&emsg=NCSR&noj=1
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:35:24.824Z - '
+    - url: 'http://www.gotoread.com/s/e/?vo=3803&p=43'
+      title: 《瞭望东方周刊》2007年第4期(电子杂志)的报道《“莆田系”败走上海博爱医院》
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Fwww.gotoread.com%2Fs%2Fe%2F%3Fvo%3D3803%26p%3D43&oq=cache%3A%2F%2Fwww.gotoread.com%2Fs%2Fe%2F%3Fvo%3D3803%26p%3D43&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58.6072j0j4&bav=on.2,or.r_cp.&bvm=bv.122448493,d.cGc&biw=1438&bih=668&dpr=2&ech=1&psi=QSk8V9G0Jo7kjwPCyp-wBw.1463560515485.3&ei=QSk8V9G0Jo7kjwPCyp-wBw&emsg=NCSR&noj=1
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:35:24.824Z - '
+    - url: 'http://www.pkulaw.cn/case/pfnl_1970324843195518.html?match=Exact'
+      title: 徐美宝等诉上海博爱医院有限公司等健康权纠纷案
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.pkulaw.cn%2Fcase%2Fpfnl_1970324843195518.html%3Fmatch%3DExact&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.pkulaw.cn%2Fcase%2Fpfnl_1970324843195518.html%3Fmatch%3DExact&aqs=chrome..69i57j69i58.2149j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:35:24.824Z - '
+    - url: 'https://imgur.com/88cf0QJ'
+      title: 工信部信息备案查询参考
+      snapshot: 'https://imgur.com/88cf0QJ'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:35:24.824Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:26:03.324Z - '
+comments:
+  evidence:
+    - url: 'http://club.eladies.sina.com.cn/thread-4145079-1-1.html'
+      title: 看看上海博爱医院的黑幕！
+      snapshot: 'http://club.eladies.sina.com.cn/thread-4145079-1-1.html'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:19:10.995Z - '
+    - url: 'http://tieba.baidu.com/p/1052554255'
+      title: 上海博爱医院瑞士羊胚胎素注射受骗内幕
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftieba.baidu.com%2Fp%2F1052554255&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftieba.baidu.com%2Fp%2F1052554255&aqs=chrome..69i57j69i58.6492j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:19:10.995Z - '
+    - url: 'http://bbs.voc.com.cn/topic-3222095-1-1.html'
+      title: '看看上海博爱医院的黑幕！ '
+      snapshot: 'http://bbs.voc.com.cn/topic-3222095-1-1.html'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:19:10.995Z - '
+note: ''

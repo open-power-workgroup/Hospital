@@ -1,0 +1,55 @@
+dataversion: draft1
+created: 1463449559
+updated: 1463449559
+id: 869afb67-9ae5-42e3-ad71-d9768c9d072a
+USID: 9131010178475570XN
+name: 上海阿波罗男子医院
+city: 上海
+province: 上海
+address: 上海黄浦区陆家浜路1283号
+type: ''
+location:
+  lat: '31.2117873'
+  lng: '121.4845453'
+principal: 栗豪
+shareholder:
+  - 吴剑煌
+  - 陈志强
+  - 林国彪
+url:
+  - 'http://www.mens120.com/'
+phone:
+  - 021-63731722
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.7055j0j7&bav=on.2,or.r_cp.&bvm=bv.122129774,d.cGc&biw=1438&bih=711&dpr=2&ech=1&psi=-m86V5rwBI2ujwPSgYS4Bg.1463447549083.3&ei=-m86V5rwBI2ujwPSgYS4Bg&emsg=NCSR&noj=1
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:41:41.217Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:41:02.844Z - '
+comments:
+  evidence:
+    - url: 'http://qiye.zhujiangw.cn/weiquanshikong/jizhediaocha/1326700732.html'
+      title: 上海阿波罗男子医院黑医院
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fqiye.zhujiangw.cn%2Fweiquanshikong%2Fjizhediaocha%2F1326700732.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fqiye.zhujiangw.cn%2Fweiquanshikong%2Fjizhediaocha%2F1326700732.html&aqs=chrome..69i57j69i58.6426j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:44:46.813Z - '
+    - url: 'http://www.gzeveningpaperi.com/2/4/107462.html'
+      title: 上海阿波罗男子医院是黑医院3天6000黑医院 骗子医院
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.gzeveningpaperi.com%2F2%2F4%2F107462.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.gzeveningpaperi.com%2F2%2F4%2F107462.html&aqs=chrome..69i57j69i58.7663j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:44:46.813Z - '
+    - url: 'http://www.heblife.com/thread-12656-1-1.html'
+      title: 上海阿波罗医院怎么样?网友多起投诉小病大治
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.heblife.com%2Fthread-12656-1-1.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.heblife.com%2Fthread-12656-1-1.html&aqs=chrome..69i57j69i58.2190j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:44:46.813Z - '
+note: ''

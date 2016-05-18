@@ -1,0 +1,43 @@
+dataversion: draft1
+created: 1463576331
+updated: 1463576331
+id: d42612a8-b84d-42a2-b214-b81d8135bf42
+USID: '911101133553141136'
+name: 北京京顺医院
+city: 北京
+province: 北京
+address: 北京顺义区府前西街15号
+type: 民营医院
+principal: 唐细忠
+shareholder:
+  - 北京中康时代医院投资集团有限公司
+url:
+  - 'http://www.bjjsyy.com/'
+phone:
+  - 010-69423999
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: >-
+        http://qyxy.baic.gov.cn/gjjbj/gjjQueryCreditAction!openEntInfo.dhtml?entId=20e38b8c33c9804a0133fd9ada304631&credit_ticket=CA4CC7008A6BEB9AD162B6FF7A003FEB&entNo=110106014465381&timeStamp=1463575984217
+      title: 北京中康时代医院投资集团有限公司
+      snapshot: 'http://i.imgur.com/xtXq6Qi.png'
+      dateline: ''
+    - url: 'http://zonghui.hxyjw.com/show-171671'
+      title: 北京分会 “新形势下的院长智慧” 第二期院长沙龙在北京卫人中医院举行
+      snapshot: 'http://i.imgur.com/kOtpEQo.png'
+      dateline: ''
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''
