@@ -1,0 +1,60 @@
+dataversion: draft1
+created: 1463553605
+updated: 1463553605
+id: 7c9b4fd8-ab90-46e4-9bdd-bd98515c4564
+USID: '913101057714963903'
+name: 上海西郊骨科医院
+city: 上海
+province: 上海
+address: 上海市长宁区剑河路595号
+type: 民营医院
+location:
+  lat: '31.207684'
+  lng: '121.368684'
+principal: 詹开林
+shareholder:
+  - 黄清冰
+  - 上海国济投资有限公司
+  - 黄开添
+  - 詹开林
+url:
+  - 'http://www.sdaj.net/'
+  - 'http://www.gb5u.com/'
+  - 'http://www.gkyy120.com/'
+  - 'http://www.cqgkzj.com/'
+phone:
+  - 021-52208866
+  - 136-5172-4016
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.6201j0j7&bav=on.2,or.r_cp.&bvm=bv.122448493,d.cGc&biw=1438&bih=715&dpr=2&ech=1&psi=1OQ7V-vcN47YjwPHgpSACA.1463542998782.3&ei=1OQ7V-vcN47YjwPHgpSACA&emsg=NCSR&noj=1
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:36:43.290Z - '
+    - url: 'http://bbs.tianya.cn/post-837-119447-1.shtml'
+      title: 天涯论坛
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-837-119447-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-837-119447-1.shtml&aqs=chrome..69i57j69i58.2661j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:36:43.290Z - '
+    - url: 'http://bbs.tianya.cn/post-news-330560-1.shtml'
+      title: 天涯论坛
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-news-330560-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-news-330560-1.shtml&aqs=chrome..69i57j69i58.1935j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:36:43.290Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:35:46.046Z - '
+comments:
+  evidence:
+    - url: 'http://www.315djw.com/tousujubao/7939.html'
+      title: 全国打假网
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.315djw.com%2Ftousujubao%2F7939.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.315djw.com%2Ftousujubao%2F7939.html&aqs=chrome..69i57j69i58.2406j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:38:22.920Z - '
+note: ''
