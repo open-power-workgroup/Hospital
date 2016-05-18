@@ -5,10 +5,14 @@
 
 <body>
 <div class="container">
-    <h3>Copy属于同一个省的多个城市的数据过来转换</h3>
     <form method="post" class="form-horizontal">
         <fieldset>
             <div class="control-group">
+                <div class="controls">
+                    <p>从hospital_list.json文件复制属于同一个省的多个城市的数据过来转换</p>
+
+                    <p>注意:可能需要在数据最外层加上大括号,使其成为合法的JSON格式</p>
+                </div>
                 <label class="control-label" for="province">省份</label>
 
                 <div class="controls">
@@ -43,26 +47,30 @@
     }
 
     function generateHospital(city, hospital) {
+        var hospitalData = {};
+        hospitalData.dataversion = dataversion;
+        hospitalData.created = Math.floor(Date.now() / 1000);
+        hospitalData.id = newId();
+        hospitalData.USID = '';
+        hospitalData.name = hospital;
+        hospitalData.city = city;
+        hospitalData.province = $("#province").val();
+        hospitalData.address = '';
+        hospitalData.type = '';
+        hospitalData.location = '';
+        hospitalData.principal = '';
+        hospitalData.shareholder = [];
+        hospitalData.url = [];
+        hospitalData.phone = [];
+        hospitalData.baiduad = {};
+        hospitalData.news = {};
+        hospitalData.putian = {};
+        hospitalData.comments = {};
+        hospitalData.note = '';
+
+        var fileName = hospitalData.id + '.yml';
         var result = {};
-        result.dataversion = dataversion;
-        result.created = Math.floor(Date.now() / 1000);
-        result.id = newId();
-        result.USID = '';
-        result.name = hospital;
-        result.city = city;
-        result.province = $("#province").val();
-        result.address = '';
-        result.type = '';
-        result.location = '';
-        result.principal = '';
-        result.shareholder = [];
-        result.url = [];
-        result.phone = [];
-        result.baiduad = {};
-        result.news = {};
-        result.putian = {};
-        result.comments = {};
-        result.note = '';
+        result[fileName] = hospitalData;
         return result;
     }
 
