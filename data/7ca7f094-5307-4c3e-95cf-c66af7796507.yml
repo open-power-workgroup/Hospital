@@ -1,0 +1,56 @@
+dataversion: draft1
+created: 1463561429
+updated: 1463561429
+id: 7ca7f094-5307-4c3e-95cf-c66af7796507
+USID: 91310105777139108U
+name: 上海天大医疗美容医院
+city: 上海
+province: 上海
+address: 上海市长宁区中山西路339号
+type: 民营医院
+location:
+  lat: '31.216141'
+  lng: '121.411481'
+principal: 林志忠
+shareholder:
+  - 上海仁爱投资管理有限公司
+  - 上海沪申五官科医院有限公司
+url:
+  - 'http://www.tida.sh.cn/'
+  - 'http://www.tida120.com/'
+  - 'http://www.tdzxyy.com/'
+phone:
+  - 021-64080808
+  - 400-0139-399
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.6201j0j7&bav=on.2,or.r_cp.&bvm=bv.122448493,d.cGc&biw=1438&bih=715&dpr=2&ech=1&psi=1OQ7V-vcN47YjwPHgpSACA.1463542998782.3&ei=1OQ7V-vcN47YjwPHgpSACA&emsg=NCSR&noj=1
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:44:28.010Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:43:44.405Z - '
+comments:
+  evidence:
+    - url: 'http://bbs.tianya.cn/post-free-2885207-1.shtml'
+      title: 上海天大医疗美容医院，黑医院，请好心媒体记者和热心网友帮忙
+      snapshot: 'http://bbs.tianya.cn/post-free-2885207-1.shtml'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:45:55.556Z - '
+    - url: 'http://www.ca315.com/ts/yaopin/20121129/553712.shtml'
+      title: 上海天大医疗美容医院，背后靠山强大，百姓维权真难
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.ca315.com%2Fts%2Fyaopin%2F20121129%2F553712.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.ca315.com%2Fts%2Fyaopin%2F20121129%2F553712.shtml&aqs=chrome..69i57j69i58.1975j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:45:55.556Z - '
+    - url: 'http://www.fchinaw.com/dianying/19981.html'
+      title: 上海天大医疗美容医院被曝收费高没疗效
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.fchinaw.com%2Fdianying%2F19981.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.fchinaw.com%2Fdianying%2F19981.html&aqs=chrome..69i57j69i58.2374j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:45:55.556Z - '
+note: ''
