@@ -1,564 +1,999 @@
 {
+  "info": {
+    "license": "https://github.com/open-power-workgroup/Hospital/blob/master/open_data_usage_license.md",
+    "date": "2016年05月18日",
+    "version": "draft1"
+  },
   "data": {
-    "上海九州泌尿医院": {
-      "name": "上海九州泌尿医院",
-      "putian": {
-        "evidence": [
-          {
-            "url": "https://zh.wikipedia.org/zh/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "snapshot": "https://zh.wikipedia.org/zh/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "title": "维基百科",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T07:57:03.146Z - "
-          }
-        ],
-        "confirm": "Yes"
-      },
-      "baiduad": {},
+    "上海阳光中医医院": {
+      "city": "上海",
+      "note": "",
       "phone": [
         ""
       ],
-      "id": "b000beeb-2df3-4cde-aafb-2131fe2356ab",
-      "news": {
-        "evidence": [
-          {
-            "url": "http://www.5h.com/yl/11070.html",
-            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.5h.com%2Fyl%2F11070.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.5h.com%2Fyl%2F11070.html&aqs=chrome..69i57j69i58.6635j0j7&sourceid=chrome&ie=UTF-8",
-            "title": "5号网",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T07:59:22.798Z - "
-          },
-          {
-            "url": "http://tech.qq.com/a/20160501/017681.htm",
-            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60l3.2910j0j4&sourceid=chrome&ie=UTF-8",
-            "title": "腾讯科技",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T07:59:22.798Z - "
-          }
-        ]
-      },
-      "updated": 1463040235,
-      "address": "中国上海市普陀区真南路685号",
-      "created": 1463040235,
-      "principal": "",
-      "province": "上海",
-      "url": [
-        ""
-      ],
-      "type": "民营医院",
-      "note": "",
-      "city": "上海",
-      "location": {
-        "lat": "31.2693807",
-        "lng": "121.3868697"
-      },
-      "shareholder": [
-        ""
-      ],
       "dataversion": "draft1",
-      "comments": {
-        "evidence": [
-          {
-            "url": "http://www.zhinews.com/tousu/20130630_191333.html",
-            "snapshot": "http://www.zhinews.com/tousu/20130630_191333.html",
-            "title": "云南九州医院的评论",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:03:20.408Z - "
-          }
-        ]
-      },
-      "USID": ""
-    },
-    "上海安平医院": {
-      "name": "上海安平医院",
       "putian": {
+        "confirm": "Yes",
         "evidence": [
           {
-            "url": "https://zh.wikipedia.org/zh/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "snapshot": "https://zh.wikipedia.org/zh/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "title": "维基百科",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:32:32.851Z - "
-          }
-        ],
-        "confirm": "Yes"
-      },
-      "baiduad": {},
-      "phone": [
-        "021-58981111",
-        "021-58982222"
-      ],
-      "id": "4c32dc61-a832-40b7-94ef-01099bb8a998",
-      "news": {
-        "evidence": [
-          {
-            "url": "http://tech.qq.com/a/20160501/017681.htm",
-            "snapshot": "http://tech.qq.com/a/20160501/017681.htm",
-            "title": "腾讯科技",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:34:00.235Z - "
-          }
-        ]
-      },
-      "updated": 1463042282,
-      "address": "中国上海市浦东新区川沙路4425号",
-      "created": 1463042282,
-      "principal": "",
-      "province": "上海",
-      "url": [
-        "http://www.apyy120.com/"
-      ],
-      "type": "民营医院",
-      "note": "",
-      "city": "上海",
-      "location": {
-        "lat": "31.2012905",
-        "lng": "121.6962203"
-      },
-      "shareholder": [
-        ""
-      ],
-      "dataversion": "draft1",
-      "comments": {
-        "evidence": [
-          {
-            "url": "http://tieba.baidu.com/p/685180058",
-            "snapshot": "http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Ftieba.baidu.com%2Fp%2F685180058&oq=cache%3A%2F%2Ftieba.baidu.com%2Fp%2F685180058&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.6021j0j4",
-            "title": "百度贴百",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:37:56.184Z - "
-          }
-        ]
-      },
-      "USID": ""
-    },
-    "上海市黄浦区中西医结合医院": {
-      "name": "上海市黄浦区中西医结合医院",
-      "putian": {
-        "evidence": [
-          {
-            "url": "http://tech.qq.com/a/20160501/017681.htm",
-            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60.6766j0j7&sourceid=chrome&ie=UTF-8",
-            "title": "腾讯科技",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:43:04.038Z - "
-          },
-          {
-            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
             "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
             "title": "维基百科",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:39:09.900Z - "
-          }
-        ],
-        "confirm": "Yes"
-      },
-      "baiduad": {},
-      "phone": [
-        ""
-      ],
-      "id": "414bae8f-d590-4d03-9c3f-d2c0b843491f",
-      "news": {
-        "evidence": [
-          {
-            "url": "http://www.mnw.cn/news/pt/1172228.html",
-            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.mnw.cn%2Fnews%2Fpt%2F1172228.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.mnw.cn%2Fnews%2Fpt%2F1172228.html&aqs=chrome..69i57j69i58j69i60.2197j0j4&sourceid=chrome&ie=UTF-8",
-            "title": "闽南网综合",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:43:01.327Z - "
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-17T02:13:31.031Z - "
           }
         ]
       },
-      "updated": 1462891549,
-      "address": "上海市黄浦区黄家路163号",
-      "created": 1462891549,
-      "province": "上海",
-      "url": [
-        "http://www.hpzxy.org/"
-      ],
-      "type": "民营医院",
-      "note": "",
-      "city": "上海",
-      "principal": "",
+      "created": 1463451230,
       "shareholder": [
         ""
       ],
-      "dataversion": "draft1",
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.7055j0j7&bav=on.2,or.r_cp.&bvm=bv.122129774,d.cGc&biw=1438&bih=711&dpr=2&ech=1&psi=-m86V5rwBI2ujwPSgYS4Bg.1463447549083.3&ei=-m86V5rwBI2ujwPSgYS4Bg&emsg=NCSR&noj=1",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-17T02:13:46.158Z - "
+          }
+        ]
+      },
+      "province": "上海",
       "comments": {
         "evidence": [
           {
-            "url": "",
             "snapshot": "",
+            "url": "",
             "title": "",
             "dateline": ""
           }
         ]
       },
-      "USID": ""
+      "id": "407fc918-6672-49a6-b472-12f9e3ff8da7",
+      "updated": 1463451230,
+      "USID": "",
+      "name": "上海阳光中医医院",
+      "baiduad": {},
+      "url": [
+        ""
+      ],
+      "principal": "",
+      "address": "上海市闵行路76-77号"
+    },
+    "上海天伦医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        "021-65667633",
+        "021-65259999",
+        "+9864006660102",
+        "021-55158829"
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fnews.sina.com.cn%2Fc%2Fnd%2F2016-05-03%2Fdoc-ifxrtzte9887908.shtml&oq=cache%3A%2F%2Fnews.sina.com.cn%2Fc%2Fnd%2F2016-05-03%2Fdoc-ifxrtzte9887908.shtml&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.6786j0j4",
+            "url": "http://news.sina.com.cn/c/nd/2016-05-03/doc-ifxrtzte9887908.shtml",
+            "title": "“莆田系”民营医院名单大揭秘",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T03:03:43.927Z - "
+          },
+          {
+            "snapshot": "",
+            "url": "",
+            "title": "",
+            "dateline": ""
+          }
+        ]
+      },
+      "created": 1462849918,
+      "location": {
+        "lng": "121.470761",
+        "lat": "31.290862"
+      },
+      "shareholder": [
+        "上海渝协投资管理有限公司"
+      ],
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "",
+            "url": "",
+            "title": "",
+            "dateline": ""
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-1230858-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-1230858-1.shtml&aqs=chrome..69i57j69i58.3751j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://bbs.tianya.cn/post-41-1230858-1.shtml",
+            "title": "上海天伦医院黑心骗子医院，黄启明黑心骗子医生，虹口区卫生局腐败透顶",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T03:10:34.846Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftieba.baidu.com%2Fp%2F2421760105%3Fpn%3D2&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftieba.baidu.com%2Fp%2F2421760105%3Fpn%3D2&aqs=chrome..69i57j69i58.2816j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://tieba.baidu.com/p/2421760105?pn=2",
+            "title": "回复：上海天伦医院骗子",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T03:10:23.022Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.dianping.com%2Freview%2F47644143&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.dianping.com%2Freview%2F47644143&aqs=chrome..69i57j69i58.5060j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.dianping.com/review/47644143",
+            "title": "大众点评",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T03:10:23.022Z - "
+          }
+        ]
+      },
+      "id": "4d7702d3-fe24-463d-9b02-fb330b990cdd",
+      "updated": 1462849918,
+      "USID": "91310109681013594D",
+      "name": "上海天伦医院",
+      "baiduad": {},
+      "url": [
+        "http://www.shtl120.com/",
+        "http://www.sh-byby.org/",
+        "http://www.shtlyy.com/",
+        "http://www.shtianlun.org/",
+        "http://www.tianlun100.com/"
+      ],
+      "principal": "丁光燕",
+      "address": "上海市虹口区凉城路545号"
+    },
+    "上海西郊骨科医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        "021-52208866",
+        "136-5172-4016"
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:35:46.046Z - "
+          }
+        ]
+      },
+      "created": 1463553605,
+      "location": {
+        "lng": "121.368684",
+        "lat": "31.207684"
+      },
+      "shareholder": [
+        "黄清冰",
+        "上海国济投资有限公司",
+        "黄开添",
+        "詹开林"
+      ],
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.6201j0j7&bav=on.2,or.r_cp.&bvm=bv.122448493,d.cGc&biw=1438&bih=715&dpr=2&ech=1&psi=1OQ7V-vcN47YjwPHgpSACA.1463542998782.3&ei=1OQ7V-vcN47YjwPHgpSACA&emsg=NCSR&noj=1",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:36:43.290Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-837-119447-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-837-119447-1.shtml&aqs=chrome..69i57j69i58.2661j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://bbs.tianya.cn/post-837-119447-1.shtml",
+            "title": "天涯论坛",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:36:43.290Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-news-330560-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-news-330560-1.shtml&aqs=chrome..69i57j69i58.1935j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://bbs.tianya.cn/post-news-330560-1.shtml",
+            "title": "天涯论坛",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:36:43.290Z - "
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.315djw.com%2Ftousujubao%2F7939.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.315djw.com%2Ftousujubao%2F7939.html&aqs=chrome..69i57j69i58.2406j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.315djw.com/tousujubao/7939.html",
+            "title": "全国打假网",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:38:22.920Z - "
+          }
+        ]
+      },
+      "id": "7c9b4fd8-ab90-46e4-9bdd-bd98515c4564",
+      "updated": 1463553605,
+      "USID": "913101057714963903",
+      "name": "上海西郊骨科医院",
+      "baiduad": {},
+      "url": [
+        "http://www.sdaj.net/",
+        "http://www.gb5u.com/",
+        "http://www.gkyy120.com/",
+        "http://www.cqgkzj.com/"
+      ],
+      "principal": "詹开林",
+      "address": "上海市长宁区剑河路595号"
+    },
+    "上海中骏医学科学研究所": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        ""
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%E8%8E%86%E7%94%B0%E7%B3%BB&oq=cache%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%E8%8E%86%E7%94%B0%E7%B3%BB&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.3588j0j9",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科莆田系",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T05:34:09.794Z - "
+          }
+        ]
+      },
+      "created": 1462858904,
+      "location": {
+        "lng": "121.407248",
+        "lat": "31.178641"
+      },
+      "shareholder": [
+        ""
+      ],
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "",
+            "url": "",
+            "title": "",
+            "dateline": ""
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "",
+            "url": "",
+            "title": "",
+            "dateline": ""
+          }
+        ]
+      },
+      "id": "21aa8bdd-fcd4-46c3-9f38-007a1b3bff2c",
+      "updated": 1462858904,
+      "USID": "91310114754344969M",
+      "name": "上海中骏医学科学研究所",
+      "baiduad": {},
+      "url": [
+        ""
+      ],
+      "principal": "郑洪",
+      "address": "上海市徐汇区虹漕路461号"
+    },
+    "上海同德医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        "021-69229050"
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/zh/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/zh/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:47:33.127Z - "
+          }
+        ]
+      },
+      "created": 1463043040,
+      "location": {
+        "lng": "121.1056037",
+        "lat": "31.1612303"
+      },
+      "shareholder": [
+        ""
+      ],
+      "type": "",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60l3.2910j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:48:55.417Z - "
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "http://www.dianping.com/shop/3498982/review_more_flower",
+            "url": "http://www.dianping.com/shop/3498982/review_more_flower",
+            "title": "大众点评",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:50:38.427Z - "
+          }
+        ]
+      },
+      "id": "565eddee-c58b-4671-806b-4927efe7e8aa",
+      "updated": 1463043040,
+      "USID": "",
+      "name": "上海同德医院",
+      "baiduad": {},
+      "url": [
+        "http://www.shtdyy.com/"
+      ],
+      "principal": "",
+      "address": "上海市青浦区盈港路1006号"
+    },
+    "上海万众医院": {
+      "city": "上海",
+      "phone": [
+        "400-8892218"
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "http://i.imgur.com/JH0EdYA.jpg",
+            "url": "http://www.shptsh.com/index.php?m=cms&q=view&id=94",
+            "title": "上海市莆田商会常务副会长占阳珊",
+            "dateline": "san577478, OpenPower, 2016-05-09T22:38:03.613Z - "
+          },
+          {
+            "snapshot": "http://i.imgur.com/GNukm0K.jpg",
+            "url": "http://tech.qq.com/a/20160501/023381.htm",
+            "title": "百度与莆田系为何难解难分",
+            "dateline": "san577478, OpenPower, 2016-05-09T22:38:03.613Z - 詹阳斌同时也是其集团旗下上海万众医疗投资股份有限公司的董事长"
+          }
+        ]
+      },
+      "created": 1462833606,
+      "location": {
+        "lng": "121.420752",
+        "lat": "31.189372"
+      },
+      "shareholder": [
+        "上海万众医疗投资股份有限公司"
+      ],
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://i.imgur.com/FXTAkQK.jpg",
+            "url": "http://news.sohu.com/20160504/n447504621.shtml",
+            "title": "莆田系医院屡因肖像权遭名人告 陷入多起医疗纠纷",
+            "dateline": "san577478, OpenPower, 2016-05-09T22:39:59.364Z - 上文提到的上海万众医院，裁判文显示，近几年来，柳岩、林心如、董璇等一些比较知名的影视明星均以医院侵犯了肖像权提起过诉讼"
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "",
+            "url": "",
+            "title": "",
+            "dateline": ""
+          }
+        ]
+      },
+      "id": "71f4149b-73b4-4b2c-b299-711603c9d3b1",
+      "updated": 1462833606,
+      "USID": "91310104688719055G",
+      "name": "上海万众医院",
+      "baiduad": {},
+      "url": [
+        "http://www.wz120.cc/"
+      ],
+      "principal": "占阳珊",
+      "address": "上海市徐汇区吴中路2、4、6号"
+    },
+    "解放军411医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        "400-0789411"
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:29:51.379Z - "
+          }
+        ]
+      },
+      "created": 1463542567,
+      "location": {
+        "lng": "121.480644",
+        "lat": "31.26528"
+      },
+      "shareholder": [
+        ""
+      ],
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome.0.69i59j69i57j69i59l2j0l2.2368j0j7&bav=on.2,or.r_cp.&biw=1438&bih=715&dpr=2&ech=1&psi=t-E7V5vgI8LUjwPf-7_4CA.1463542201608.3&ei=t-E7V5vgI8LUjwPf-7_4CA&emsg=NCSR&noj=1",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:30:17.318Z - "
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "http://www.dianping.com/shop/2372878",
+            "url": "http://www.dianping.com/shop/2372878",
+            "title": "大众点评",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:30:59.445Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-837-166049-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-837-166049-1.shtml&aqs=chrome..69i57j69i58.2794j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://bbs.tianya.cn/post-837-166049-1.shtml",
+            "title": "天涯社区",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:30:59.445Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fblog.sina.com.cn%2Fs%2Fblog_15579c9230102vv2w.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fblog.sina.com.cn%2Fs%2Fblog_15579c9230102vv2w.html&aqs=chrome..69i57j69i58.2496j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://blog.sina.com.cn/s/blog_15579c9230102vv2w.html",
+            "title": "新浪博客",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:30:59.445Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.yiliao8.com%2Fa%2F700.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.yiliao8.com%2Fa%2F700.html&aqs=chrome..69i57j69i58.2540j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.yiliao8.com/a/700.html",
+            "title": "医疗吧",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:30:59.445Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.scsoho.com%2Fnews%2Fshehui%2F2016-5-9%2F38915.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.scsoho.com%2Fnews%2Fshehui%2F2016-5-9%2F38915.html&aqs=chrome..69i57j69i58.2854j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.scsoho.com/news/shehui/2016-5-9/38915.html",
+            "title": "上海解放军411医院骗子乱收费 收费是人家的几倍",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:30:59.445Z - "
+          }
+        ]
+      },
+      "id": "e71244bd-937f-48e0-a3f2-1865e50442e1",
+      "updated": 1463542567,
+      "USID": "",
+      "name": "解放军411医院",
+      "baiduad": {},
+      "url": [
+        "http://www.sh411wgk.com"
+      ],
+      "principal": "",
+      "address": "中国上海市虹口区东江湾路15号"
+    },
+    "上海南浦妇科医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        "021-58891199",
+        "158-2160-8827"
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:56:58.264Z - "
+          }
+        ]
+      },
+      "created": 1463551836,
+      "location": {
+        "lng": "121.5139433",
+        "lat": "31.2050135"
+      },
+      "shareholder": [
+        "柯元芳",
+        "詹嘉豪",
+        "黄开添"
+      ],
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.6201j0j7&bav=on.2,or.r_cp.&bvm=bv.122448493,d.cGc&biw=1438&bih=715&dpr=2&ech=1&psi=1OQ7V-vcN47YjwPHgpSACA.1463542998782.3&ei=1OQ7V-vcN47YjwPHgpSACA&emsg=NCSR&noj=1",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:58:26.982Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fnews.bandao.cn%2Fnews_uhtml%2F201312%2Funews_20131215_29947.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fnews.bandao.cn%2Fnews_uhtml%2F201312%2Funews_20131215_29947.shtml&aqs=chrome..69i57j69i58.3414j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://news.bandao.cn/news_uhtml/201312/unews_20131215_29947.shtml",
+            "title": "上海南浦妇科医院是大骗子！谋财害命",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:58:26.982Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fxiaofei.china.com.cn%2Fnews%2Finfo-1-9-147571.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fxiaofei.china.com.cn%2Fnews%2Finfo-1-9-147571.html&aqs=chrome..69i57j69i58.2247j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://xiaofei.china.com.cn/news/info-1-9-147571.html",
+            "title": "上海南浦妇科医院患者家属索赔150万，律师怎么看？",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:58:26.982Z - "
+          },
+          {
+            "snapshot": "http://www.redsh.com/ppnews/20110112/171558.shtml",
+            "url": "http://www.redsh.com/ppnews/20110112/171558.shtml",
+            "title": "宏康医院、华美等违法医疗广告上黑榜",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:58:26.982Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.ndidu.com%2Fzixunguanzhu%2Fminshengguanzhu%2Fjiankangyiyao%2F2016-03-30%2F15909.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.ndidu.com%2Fzixunguanzhu%2Fminshengguanzhu%2Fjiankangyiyao%2F2016-03-30%2F15909.html&aqs=chrome..69i57j69i58.2157j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.ndidu.com/zixunguanzhu/minshengguanzhu/jiankangyiyao/2016-03-30/15909.html",
+            "title": "上海南浦妇科医院骗子坑人更黑垃圾医院没一点医德畜牲",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:58:26.982Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fnews.sina.com.cn%2Fs%2Fwh%2F2015-10-16%2Fdoc-ifxivscc0075031.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fnews.sina.com.cn%2Fs%2Fwh%2F2015-10-16%2Fdoc-ifxivscc0075031.shtml&aqs=chrome..69i57j69i58.1982j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://news.sina.com.cn/s/wh/2015-10-16/doc-ifxivscc0075031.shtml",
+            "title": "新浪新闻(女子手术过程中死亡 家属称手术同意书遭冒签)",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:58:26.982Z - "
+          },
+          {
+            "snapshot": "http://www.sh.xinhuanet.com/2006-10/17/content_8279273.htm",
+            "url": "http://www.sh.xinhuanet.com/2006-10/17/content_8279273.htm",
+            "title": "新华网(南浦妇科医院狮子大开口 治贫血:3000元)",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:58:26.982Z - "
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.xinshicy.com%2Fbg%2F436.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.xinshicy.com%2Fbg%2F436.html&aqs=chrome..69i57j69i58.2382j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.xinshicy.com/bg/436.html",
+            "title": "新事网",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:02:40.839Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.yaoxunbao.com%2Fhongren%2F20498.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.yaoxunbao.com%2Fhongren%2F20498.html&aqs=chrome..69i57j69i58.2183j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.yaoxunbao.com/hongren/20498.html",
+            "title": "药讯网",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:02:40.839Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fxo7788.com%2Ftsbg%2F2016%2F0405%2F9780.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fxo7788.com%2Ftsbg%2F2016%2F0405%2F9780.html&aqs=chrome..69i57j69i58.2118j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://xo7788.com/tsbg/2016/0405/9780.html",
+            "title": "上海南浦妇科医院是大骗子！谋财害命",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:58:26.982Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fts.voc.com.cn%2Fquestion%2Fview%2F332650.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fts.voc.com.cn%2Fquestion%2Fview%2F332650.html&aqs=chrome..69i57j69i58j69i60l2.2214j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://ts.voc.com.cn/question/view/332650.html",
+            "title": "投诉主题：上海南浦妇科医院王桂兰无医德 不配当医生",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:58:26.982Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-828-784859-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-828-784859-1.shtml&aqs=chrome..69i57j69i58.2503j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://bbs.tianya.cn/post-828-784859-1.shtml",
+            "title": "天涯论坛",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:58:26.982Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-828-379365-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-828-379365-1.shtml&aqs=chrome..69i57j69i58.6500j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://bbs.tianya.cn/post-828-379365-1.shtml",
+            "title": "天涯论坛(上海妇科医院，骗人的医院啊)",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:58:26.982Z - "
+          }
+        ]
+      },
+      "id": "9ba56ef8-b53e-48e3-9063-084a02414e4d",
+      "updated": 1463551836,
+      "USID": "310115000827762",
+      "name": "上海南浦妇科医院",
+      "baiduad": {},
+      "url": [
+        "http://www.nanpuyy.com/",
+        "http://www.brandv.org/",
+        "http://www.fyjx.org/",
+        "http://www.fdfzxy.org/",
+        "http://www.acgene.org/",
+        "http://www.nanpu120.com/",
+        "http://m.up54.com/",
+        "http://www.rzjfk.com/",
+        "http://yyk.qqyy.com/h14964/"
+      ],
+      "principal": "黄开山",
+      "address": "上海市浦东新区浦东南路2250号（南浦大桥下）"
+    },
+    "上海市松江区方塔中医医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        ""
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T08:41:35.696Z - "
+          }
+        ]
+      },
+      "created": 1462870412,
+      "location": {
+        "lng": "121.2536917",
+        "lat": "31.006457"
+      },
+      "shareholder": [
+        ""
+      ],
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "",
+            "url": "",
+            "title": "",
+            "dateline": ""
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "",
+            "url": "",
+            "title": "",
+            "dateline": ""
+          }
+        ]
+      },
+      "id": "c8ae2579-8875-45ea-af6b-2a96f2639cf3",
+      "updated": 1462870412,
+      "USID": "",
+      "name": "上海市松江区方塔中医医院",
+      "baiduad": {},
+      "url": [
+        "http://www.sjftzyyy.com/"
+      ],
+      "principal": "",
+      "address": "上海市松江区中山东路39号"
+    },
+    "众仁曙光医疗保健中心": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        ""
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.mnw.cn%2Fnews%2Fpt%2F1172228.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.mnw.cn%2Fnews%2Fpt%2F1172228.html&aqs=chrome..69i57j69i58.2869j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.mnw.cn/news/pt/1172228.html",
+            "title": "莆田系林氏家族背景资料发家史 林志忠林志程博爱医疗名单",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T09:23:09.567Z - "
+          },
+          {
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T09:23:09.567Z - "
+          }
+        ]
+      },
+      "created": 1462872494,
+      "shareholder": [
+        ""
+      ],
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "",
+            "url": "",
+            "title": "",
+            "dateline": ""
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "",
+            "url": "",
+            "title": "",
+            "dateline": ""
+          }
+        ]
+      },
+      "id": "ee0a71a1-20ef-4c6f-975d-d31e91486441",
+      "updated": 1462872494,
+      "USID": "",
+      "name": "众仁曙光医疗保健中心",
+      "baiduad": {},
+      "url": [
+        ""
+      ],
+      "principal": "",
+      "address": ""
+    },
+    "上海博爱医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        "021-64312600"
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:26:03.324Z - "
+          }
+        ]
+      },
+      "created": 1463560610,
+      "location": {
+        "lng": "121.444463",
+        "lat": "31.208523"
+      },
+      "shareholder": [
+        "范萍",
+        "上海博爱健康投资有限公司"
+      ],
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.6201j0j7&bav=on.2,or.r_cp.&bvm=bv.122448493,d.cGc&biw=1438&bih=715&dpr=2&ech=1&psi=1OQ7V-vcN47YjwPHgpSACA.1463542998782.3&ei=1OQ7V-vcN47YjwPHgpSACA&emsg=NCSR&noj=1",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:35:24.824Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Fwww.gotoread.com%2Fs%2Fe%2F%3Fvo%3D3803%26p%3D43&oq=cache%3A%2F%2Fwww.gotoread.com%2Fs%2Fe%2F%3Fvo%3D3803%26p%3D43&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58.6072j0j4&bav=on.2,or.r_cp.&bvm=bv.122448493,d.cGc&biw=1438&bih=668&dpr=2&ech=1&psi=QSk8V9G0Jo7kjwPCyp-wBw.1463560515485.3&ei=QSk8V9G0Jo7kjwPCyp-wBw&emsg=NCSR&noj=1",
+            "url": "http://www.gotoread.com/s/e/?vo=3803&p=43",
+            "title": "《瞭望东方周刊》2007年第4期(电子杂志)的报道《“莆田系”败走上海博爱医院》",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:35:24.824Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.pkulaw.cn%2Fcase%2Fpfnl_1970324843195518.html%3Fmatch%3DExact&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.pkulaw.cn%2Fcase%2Fpfnl_1970324843195518.html%3Fmatch%3DExact&aqs=chrome..69i57j69i58.2149j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.pkulaw.cn/case/pfnl_1970324843195518.html?match=Exact",
+            "title": "徐美宝等诉上海博爱医院有限公司等健康权纠纷案",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:35:24.824Z - "
+          },
+          {
+            "snapshot": "https://imgur.com/88cf0QJ",
+            "url": "https://imgur.com/88cf0QJ",
+            "title": "工信部信息备案查询参考",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:35:24.824Z - "
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "http://club.eladies.sina.com.cn/thread-4145079-1-1.html",
+            "url": "http://club.eladies.sina.com.cn/thread-4145079-1-1.html",
+            "title": "看看上海博爱医院的黑幕！",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:19:10.995Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftieba.baidu.com%2Fp%2F1052554255&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftieba.baidu.com%2Fp%2F1052554255&aqs=chrome..69i57j69i58.6492j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://tieba.baidu.com/p/1052554255",
+            "title": "上海博爱医院瑞士羊胚胎素注射受骗内幕",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:19:10.995Z - "
+          },
+          {
+            "snapshot": "http://bbs.voc.com.cn/topic-3222095-1-1.html",
+            "url": "http://bbs.voc.com.cn/topic-3222095-1-1.html",
+            "title": "看看上海博爱医院的黑幕！ ",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:19:10.995Z - "
+          }
+        ]
+      },
+      "id": "c85232ed-c240-4662-835f-6dcea43c2737",
+      "updated": 1463560610,
+      "USID": "91310104734576527U",
+      "name": "上海博爱医院",
+      "baiduad": {},
+      "url": [
+        "http://boaihospital.com/"
+      ],
+      "principal": "陈帆",
+      "address": "上海市徐汇区淮海中路1590号"
+    },
+    "上海中亚医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        "400-8251-666"
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "基维百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T15:03:11.946Z - "
+          }
+        ]
+      },
+      "created": 1462892847,
+      "location": {
+        "lng": "121.2351832",
+        "lat": "31.373032"
+      },
+      "shareholder": [
+        "李金山",
+        "李金同",
+        "上海美中安和医疗控股（集团）有限公司"
+      ],
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60.6766j0j7&sourceid=chrome&ie=UTF-8",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T15:03:43.562Z - "
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "",
+            "url": "",
+            "title": "",
+            "dateline": ""
+          }
+        ]
+      },
+      "id": "8d8e6377-b7d5-4432-878c-414540298b5c",
+      "updated": 1462892847,
+      "USID": "913101147465072896",
+      "name": "上海中亚医院",
+      "baiduad": {},
+      "url": [
+        "http://www.bhjchouse.com/"
+      ],
+      "principal": "李金同",
+      "address": "上海市嘉定区嘉定镇嘉丰路35号"
     },
     "上海华美医疗美容医院": {
-      "name": "上海华美医疗美容医院",
-      "putian": {
-        "evidence": [
-          {
-            "url": "http://finance.sina.com.cn/chanjing/cyxw/20140717/110219729613.shtml",
-            "snapshot": "http://i.imgur.com/Wez5qVP.jpg",
-            "title": "俞敏洪炮轰莆田系民营医院",
-            "dateline": "san577478, OpenPower,05/08/2016 @ 8:46am (UTC) - 圈内人士知道的陈氏产业，还有华美整形系医院"
-          }
-        ],
-        "confirm": "Yes"
-      },
-      "baiduad": {
-        "evidence": [
-          {
-            "url": "http://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=229797933&idx=1&sn=d7b4d6917c2941efb2eee7494201c93e&scene=1&key=1936e2bc22c2ceb5b6cec9957668679bdee0eccba1c2ad490fb58174dccade1ad09d2a74f232433cdfc40c6553844685&ascene=1&uin=MjAwMzY4MTg0MA%3D%3D&devicetype=webwx&version=70000001&pass_ticket=cA2YNqi6SeOqPHDGMkFn4V8VhPmwdC72TQSVf6rqoWn45p3PCw1vhwI%2F0MWvr57L",
-            "snapshot": "http://i.imgur.com/K2jBQnw.jpg",
-            "title": "百度竞价排名:山寨医院冒充知名医院",
-            "dateline": "san577478, OpenPower, 05/08/2016 @ 8:43am (UTC) - 上海华美医院在使用百度推广时，仍然在百度推广中设置了“九院”、“九院官网”、“九院地址”等关键词"
-          }
-        ],
-        "confirm": true
-      },
+      "city": "上海",
       "phone": [
         "021-58856655",
         "400-8806580"
       ],
-      "id": "4b0f586b-d0b5-4c3c-9c3d-8d41c81207f0",
-      "news": {
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
         "evidence": [
           {
-            "url": "http://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=229797933&idx=1&sn=d7b4d6917c2941efb2eee7494201c93e&scene=1&key=1936e2bc22c2ceb5b6cec9957668679bdee0eccba1c2ad490fb58174dccade1ad09d2a74f232433cdfc40c6553844685&ascene=1&uin=MjAwMzY4MTg0MA%3D%3D&devicetype=webwx&version=70000001&pass_ticket=cA2YNqi6SeOqPHDGMkFn4V8VhPmwdC72TQSVf6rqoWn45p3PCw1vhwI%2F0MWvr57L",
-            "snapshot": "http://i.imgur.com/K2jBQnw.jpg",
-            "title": "百度竞价排名:山寨医院冒充知名医院",
-            "dateline": "san577478, OpenPower, 05/08/2016 @ 8:43am (UTC) - 上海华美医院在使用百度推广时，仍然在百度推广中设置了“九院”、“九院官网”、“九院地址”等关键词"
-          },
-          {
-            "url": "http://newspaper.jfdaily.com/xwcb/html/2016-01/06/content_163209.htm",
-            "snapshot": "http://i.imgur.com/y5RMFoJ.png",
-            "title": "民营医院傍名院 虚假宣传被罚款",
-            "dateline": "san577478, OpenPower,05/08/2016 @ 8:46am (UTC) - 日前，“上海华美医疗美容医院”因冒用他人名义进行虚假宣传，被工商部门依法处罚款20万元。"
+            "snapshot": "http://i.imgur.com/Wez5qVP.jpg",
+            "url": "http://finance.sina.com.cn/chanjing/cyxw/20140717/110219729613.shtml",
+            "title": "俞敏洪炮轰莆田系民营医院",
+            "dateline": "san577478, OpenPower,05/08/2016 @ 8:46am (UTC) - 圈内人士知道的陈氏产业，还有华美整形系医院"
           }
         ]
       },
-      "updated": 1462696233,
-      "address": "上海市市辖区浦东新区源深路155号",
       "created": 1462696233,
-      "principal": "雷启龙",
-      "province": "上海",
-      "url": [
-        "http://www.shhuamei.cn/"
-      ],
-      "type": "民营医院",
-      "city": "上海",
       "location": [
         {
-          "lat": 31.239803,
-          "lng": 121.530622
+          "lng": 121.530622,
+          "lat": 31.239803
         }
       ],
       "shareholder": [
         "黄志佳",
         "洪玲燕"
       ],
-      "dataversion": "draft1",
-      "comments": {
-        "evidence": [
-          {
-            "url": "",
-            "snapshot": "",
-            "title": "",
-            "dateline": ""
-          }
-        ]
-      },
-      "USID": 310115000904981
-    },
-    "上海中骏医学科学研究所": {
-      "name": "上海中骏医学科学研究所",
-      "putian": {
-        "evidence": [
-          {
-            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "snapshot": "http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%E8%8E%86%E7%94%B0%E7%B3%BB&oq=cache%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%E8%8E%86%E7%94%B0%E7%B3%BB&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.3588j0j9",
-            "title": "维基百科莆田系",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T05:34:09.794Z - "
-          }
-        ],
-        "confirm": "Yes"
-      },
-      "baiduad": {},
-      "phone": [
-        ""
-      ],
-      "id": "21aa8bdd-fcd4-46c3-9f38-007a1b3bff2c",
+      "type": "民营医院",
       "news": {
         "evidence": [
           {
-            "url": "",
-            "snapshot": "",
-            "title": "",
-            "dateline": ""
-          }
-        ]
-      },
-      "updated": 1462858904,
-      "address": "上海市徐汇区虹漕路461号",
-      "created": 1462858904,
-      "principal": "郑洪",
-      "province": "上海",
-      "url": [
-        ""
-      ],
-      "type": "民营医院",
-      "note": "",
-      "city": "上海",
-      "location": {
-        "lat": "31.178641",
-        "lng": "121.407248"
-      },
-      "shareholder": [
-        ""
-      ],
-      "dataversion": "draft1",
-      "comments": {
-        "evidence": [
-          {
-            "url": "",
-            "snapshot": "",
-            "title": "",
-            "dateline": ""
-          }
-        ]
-      },
-      "USID": "91310114754344969M"
-    },
-    "上海万众医院": {
-      "name": "上海万众医院",
-      "putian": {
-        "evidence": [
-          {
-            "url": "http://www.shptsh.com/index.php?m=cms&q=view&id=94",
-            "snapshot": "http://i.imgur.com/JH0EdYA.jpg",
-            "title": "上海市莆田商会常务副会长占阳珊",
-            "dateline": "san577478, OpenPower, 2016-05-09T22:38:03.613Z - "
+            "snapshot": "http://i.imgur.com/K2jBQnw.jpg",
+            "url": "http://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=229797933&idx=1&sn=d7b4d6917c2941efb2eee7494201c93e&scene=1&key=1936e2bc22c2ceb5b6cec9957668679bdee0eccba1c2ad490fb58174dccade1ad09d2a74f232433cdfc40c6553844685&ascene=1&uin=MjAwMzY4MTg0MA%3D%3D&devicetype=webwx&version=70000001&pass_ticket=cA2YNqi6SeOqPHDGMkFn4V8VhPmwdC72TQSVf6rqoWn45p3PCw1vhwI%2F0MWvr57L",
+            "title": "百度竞价排名:山寨医院冒充知名医院",
+            "dateline": "san577478, OpenPower, 05/08/2016 @ 8:43am (UTC) - 上海华美医院在使用百度推广时，仍然在百度推广中设置了“九院”、“九院官网”、“九院地址”等关键词"
           },
           {
-            "url": "http://tech.qq.com/a/20160501/023381.htm",
-            "snapshot": "http://i.imgur.com/GNukm0K.jpg",
-            "title": "百度与莆田系为何难解难分",
-            "dateline": "san577478, OpenPower, 2016-05-09T22:38:03.613Z - 詹阳斌同时也是其集团旗下上海万众医疗投资股份有限公司的董事长"
-          }
-        ],
-        "confirm": "Yes"
-      },
-      "baiduad": {},
-      "phone": [
-        "400-8892218"
-      ],
-      "id": "71f4149b-73b4-4b2c-b299-711603c9d3b1",
-      "news": {
-        "evidence": [
-          {
-            "url": "http://news.sohu.com/20160504/n447504621.shtml",
-            "snapshot": "http://i.imgur.com/FXTAkQK.jpg",
-            "title": "莆田系医院屡因肖像权遭名人告 陷入多起医疗纠纷",
-            "dateline": "san577478, OpenPower, 2016-05-09T22:39:59.364Z - 上文提到的上海万众医院，裁判文显示，近几年来，柳岩、林心如、董璇等一些比较知名的影视明星均以医院侵犯了肖像权提起过诉讼"
+            "snapshot": "http://i.imgur.com/y5RMFoJ.png",
+            "url": "http://newspaper.jfdaily.com/xwcb/html/2016-01/06/content_163209.htm",
+            "title": "民营医院傍名院 虚假宣传被罚款",
+            "dateline": "san577478, OpenPower,05/08/2016 @ 8:46am (UTC) - 日前，“上海华美医疗美容医院”因冒用他人名义进行虚假宣传，被工商部门依法处罚款20万元。"
           }
         ]
       },
-      "updated": 1462833606,
-      "address": "上海市徐汇区吴中路2、4、6号",
-      "created": 1462833606,
-      "principal": "占阳珊",
       "province": "上海",
-      "url": [
-        "http://www.wz120.cc/"
-      ],
-      "type": "民营医院",
-      "city": "上海",
-      "location": {
-        "lat": "31.189372",
-        "lng": "121.420752"
-      },
-      "shareholder": [
-        "上海万众医疗投资股份有限公司"
-      ],
-      "dataversion": "draft1",
       "comments": {
         "evidence": [
           {
-            "url": "",
             "snapshot": "",
+            "url": "",
             "title": "",
             "dateline": ""
           }
         ]
       },
-      "USID": "91310104688719055G"
-    },
-    "上海市松江区方塔中医医院": {
-      "name": "上海市松江区方塔中医医院",
-      "putian": {
+      "id": "4b0f586b-d0b5-4c3c-9c3d-8d41c81207f0",
+      "updated": 1462696233,
+      "USID": 310115000904981,
+      "name": "上海华美医疗美容医院",
+      "baiduad": {
+        "confirm": true,
         "evidence": [
           {
-            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "title": "维基百科",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T08:41:35.696Z - "
-          }
-        ],
-        "confirm": "Yes"
-      },
-      "baiduad": {},
-      "phone": [
-        ""
-      ],
-      "id": "c8ae2579-8875-45ea-af6b-2a96f2639cf3",
-      "news": {
-        "evidence": [
-          {
-            "url": "",
-            "snapshot": "",
-            "title": "",
-            "dateline": ""
+            "snapshot": "http://i.imgur.com/K2jBQnw.jpg",
+            "url": "http://mp.weixin.qq.com/s?__biz=MTI0MDU3NDYwMQ==&mid=229797933&idx=1&sn=d7b4d6917c2941efb2eee7494201c93e&scene=1&key=1936e2bc22c2ceb5b6cec9957668679bdee0eccba1c2ad490fb58174dccade1ad09d2a74f232433cdfc40c6553844685&ascene=1&uin=MjAwMzY4MTg0MA%3D%3D&devicetype=webwx&version=70000001&pass_ticket=cA2YNqi6SeOqPHDGMkFn4V8VhPmwdC72TQSVf6rqoWn45p3PCw1vhwI%2F0MWvr57L",
+            "title": "百度竞价排名:山寨医院冒充知名医院",
+            "dateline": "san577478, OpenPower, 05/08/2016 @ 8:43am (UTC) - 上海华美医院在使用百度推广时，仍然在百度推广中设置了“九院”、“九院官网”、“九院地址”等关键词"
           }
         ]
       },
-      "updated": 1462870412,
-      "address": "上海市松江区中山东路39号",
-      "created": 1462870412,
-      "principal": "",
-      "province": "上海",
       "url": [
-        "http://www.sjftzyyy.com/"
+        "http://www.shhuamei.cn/"
       ],
-      "type": "民营医院",
-      "note": "",
-      "city": "上海",
-      "location": {
-        "lat": "31.006457",
-        "lng": "121.2536917"
-      },
-      "shareholder": [
-        ""
-      ],
-      "dataversion": "draft1",
-      "comments": {
-        "evidence": [
-          {
-            "url": "",
-            "snapshot": "",
-            "title": "",
-            "dateline": ""
-          }
-        ]
-      },
-      "USID": ""
-    },
-    "上海青城医院": {
-      "name": "上海青城医院",
-      "putian": {
-        "evidence": [
-          {
-            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "title": "维基百科",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-11T06:56:47.757Z - "
-          }
-        ],
-        "confirm": "Yes"
-      },
-      "baiduad": {},
-      "phone": [
-        "400-890-8086"
-      ],
-      "id": "c6babf8d-42fd-49b3-8e18-8b5617a46dea",
-      "news": {
-        "evidence": [
-          {
-            "url": "http://tech.qq.com/a/20160501/017681.htm",
-            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60l2.2653j0j4&sourceid=chrome&ie=UTF-8",
-            "title": "腾讯科技",
-            "dateline": ""
-          }
-        ]
-      },
-      "updated": 1462950261,
-      "address": "上海市青浦区盈港路468号（世纪联华斜对面）",
-      "created": 1462950261,
-      "principal": "",
-      "province": "上海",
-      "url": [
-        "http://www.021qcyy.com/"
-      ],
-      "type": "民营医院",
-      "note": "官网已经打不开",
-      "city": "上海",
-      "location": {
-        "lat": "31.1598077",
-        "lng": "121.1152177"
-      },
-      "shareholder": [
-        ""
-      ],
-      "dataversion": "draft1",
-      "comments": {
-        "evidence": [
-          {
-            "url": "http://blog.tianya.cn/m/post.jsp?postId=113199931",
-            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fblog.tianya.cn%2Fm%2Fpost.jsp%3FpostId%3D113199931&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fblog.tianya.cn%2Fm%2Fpost.jsp%3FpostId%3D113199931&aqs=chrome..69i57j69i58.4232j0j4&sourceid=chrome&ie=UTF-8",
-            "title": "上海青城医院怎么样？骗子医院大家别去",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-11T06:59:44.706Z - "
-          },
-          {
-            "url": "http://www.yfr2a.com/19466.html",
-            "snapshot": "http://www.yfr2a.com/19466.html",
-            "title": "上海青城医院欺骗的勾当",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-11T06:59:44.706Z - "
-          },
-          {
-            "url": "",
-            "snapshot": "",
-            "title": "",
-            "dateline": ""
-          }
-        ]
-      },
-      "USID": ""
+      "principal": "雷启龙",
+      "address": "上海市市辖区浦东新区源深路155号"
     },
     "上海时光整形外科医院": {
-      "name": "上海时光整形外科医院",
-      "putian": {
-        "evidence": [
-          {
-            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "title": "维基百科",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:52:55.731Z - "
-          }
-        ],
-        "confirm": "Yes"
-      },
-      "baiduad": {},
+      "city": "上海",
+      "note": "",
       "phone": [
         "400-820-5579"
       ],
-      "id": "463f3075-c6f5-4f3d-b55a-bd32193ead46",
-      "news": {
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
         "evidence": [
           {
-            "url": "http://tech.qq.com/a/20160501/017681.htm",
-            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60.6766j0j7&sourceid=chrome&ie=UTF-8",
-            "title": "腾讯科技",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:51:12.925Z - "
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:52:55.731Z - "
           }
         ]
       },
-      "updated": 1462892254,
-      "address": "上海市黄浦区普安路189号",
       "created": 1462892254,
-      "principal": "陈兰兰",
-      "province": "上海",
-      "url": [
-        "http://www.sh-shuguang.com/"
-      ],
-      "type": "民营医院",
-      "note": "",
-      "city": "上海",
       "location": {
-        "lat": "31.2225013",
-        "lng": "121.4786946"
+        "lng": "121.4786946",
+        "lat": "31.2225013"
       },
       "shareholder": [
         "林国雄",
@@ -566,63 +1001,947 @@
         "林国瑞",
         "苏元族"
       ],
-      "dataversion": "draft1",
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60.6766j0j7&sourceid=chrome&ie=UTF-8",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:51:12.925Z - "
+          }
+        ]
+      },
+      "province": "上海",
       "comments": {
         "evidence": [
           {
-            "url": "http://51jk.c029.com/infoShow_1167_18511.html",
             "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2F51jk.c029.com%2FinfoShow_1167_18511.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2F51jk.c029.com%2FinfoShow_1167_18511.html&aqs=chrome..69i57j69i58.5262j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://51jk.c029.com/infoShow_1167_18511.html",
             "title": "上海时光整形外科医院是骗子医院",
             "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:54:10.899Z - "
           },
           {
-            "url": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2F112812.com%2F44260.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2F112812.com%2F44260.html&aqs=chrome..69i57j69i58.3631j0j4&sourceid=chrome&ie=UTF-8",
             "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2F112812.com%2F44260.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2F112812.com%2F44260.html&aqs=chrome..69i57j69i58.3631j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2F112812.com%2F44260.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2F112812.com%2F44260.html&aqs=chrome..69i57j69i58.3631j0j4&sourceid=chrome&ie=UTF-8",
             "title": "举报上海海时光整形外科医院—骗子太黑了黑医院 - 理财方法",
             "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:54:10.899Z - "
           },
           {
-            "url": "http://webcache.googleusercontent.com/search?q=cache://www.dfasme.com/qiyenews/news/2016042793993.html&num=1&rlz=1C5CHFA_enUS659US659&strip=1&vwsrc=0",
             "snapshot": "http://webcache.googleusercontent.com/search?q=cache://www.dfasme.com/qiyenews/news/2016042793993.html&num=1&rlz=1C5CHFA_enUS659US659&strip=1&vwsrc=0",
+            "url": "http://webcache.googleusercontent.com/search?q=cache://www.dfasme.com/qiyenews/news/2016042793993.html&num=1&rlz=1C5CHFA_enUS659US659&strip=1&vwsrc=0",
             "title": "用户评论",
             "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:54:10.899Z - "
           }
         ]
       },
-      "USID": "310103000124326"
-    },
-    "上海嘉华医院": {
-      "name": "上海嘉华医院",
-      "putian": {},
+      "id": "463f3075-c6f5-4f3d-b55a-bd32193ead46",
+      "updated": 1462892254,
+      "USID": "310103000124326",
+      "name": "上海时光整形外科医院",
       "baiduad": {},
-      "phone": [
-        "400-885-0806"
+      "url": [
+        "http://www.sh-shuguang.com/"
       ],
-      "id": "c2d9990b-4b8f-4222-8793-5b411dc5ed9a",
+      "principal": "陈兰兰",
+      "address": "上海市黄浦区普安路189号"
+    },
+    "上海康新医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        ""
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:12:13.495Z - "
+          }
+        ]
+      },
+      "created": 1463447677,
+      "location": {
+        "lng": "121.4409128",
+        "lat": "31.2363073"
+      },
+      "shareholder": [
+        ""
+      ],
+      "type": "民营医院",
       "news": {
         "evidence": [
           {
-            "url": "",
+            "snapshot": "http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.7055j0j7&bav=on.2,or.r_cp.&bvm=bv.122129774,d.cGc&biw=1438&bih=711&dpr=2&ech=1&psi=-m86V5rwBI2ujwPSgYS4Bg.1463447549083.3&ei=-m86V5rwBI2ujwPSgYS4Bg&emsg=NCSR&noj=1",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:12:57.107Z - "
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "http://wenda.tianya.cn/question/4c631ef6785e4cce",
+            "url": "http://wenda.tianya.cn/question/4c631ef6785e4cce",
+            "title": "天涯",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:14:35.498Z - "
+          }
+        ]
+      },
+      "id": "41254444-60e4-4a51-a46f-e9fdc3418c6d",
+      "updated": 1463447677,
+      "USID": "",
+      "name": "上海康新医院",
+      "baiduad": {},
+      "url": [
+        ""
+      ],
+      "principal": "",
+      "address": "上海市静安区余姚路139号(常德路口) "
+    },
+    "上海九州泌尿医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        ""
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/zh/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/zh/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T07:57:03.146Z - "
+          }
+        ]
+      },
+      "created": 1463040235,
+      "location": {
+        "lng": "121.3868697",
+        "lat": "31.2693807"
+      },
+      "shareholder": [
+        ""
+      ],
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.5h.com%2Fyl%2F11070.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.5h.com%2Fyl%2F11070.html&aqs=chrome..69i57j69i58.6635j0j7&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.5h.com/yl/11070.html",
+            "title": "5号网",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T07:59:22.798Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60l3.2910j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T07:59:22.798Z - "
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "http://www.zhinews.com/tousu/20130630_191333.html",
+            "url": "http://www.zhinews.com/tousu/20130630_191333.html",
+            "title": "云南九州医院的评论",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:03:20.408Z - "
+          }
+        ]
+      },
+      "id": "b000beeb-2df3-4cde-aafb-2131fe2356ab",
+      "updated": 1463040235,
+      "USID": "",
+      "name": "上海九州泌尿医院",
+      "baiduad": {},
+      "url": [
+        ""
+      ],
+      "principal": "",
+      "address": "中国上海市普陀区真南路685号"
+    },
+    "上海英港泌尿外科医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        "021-56846229"
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:51:27.760Z - "
+          }
+        ]
+      },
+      "created": 1463450150,
+      "location": {
+        "lng": "121.4971624",
+        "lat": "31.3736824"
+      },
+      "shareholder": [
+        "黄元聪",
+        "许乌烘",
+        "王晨飞"
+      ],
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.7055j0j7&bav=on.2,or.r_cp.&bvm=bv.122129774,d.cGc&biw=1438&bih=711&dpr=2&ech=1&psi=-m86V5rwBI2ujwPSgYS4Bg.1463447549083.3&ei=-m86V5rwBI2ujwPSgYS4Bg&emsg=NCSR&noj=1",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:51:55.511Z - "
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "http://www.dianping.com/shop/2389576/review_more_1star",
+            "url": "http://www.dianping.com/shop/2389576/review_more_1star",
+            "title": "大众点评",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:54:46.463Z - "
+          },
+          {
+            "snapshot": "http://www.120lu.com/show/145.html",
+            "url": "http://www.120lu.com/show/145.html",
+            "title": "上海英港泌尿外科医院怎么样？",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:54:46.463Z - "
+          }
+        ]
+      },
+      "id": "05cbb48e-2932-44ae-9aee-4d486bfe85ce",
+      "updated": 1463450150,
+      "USID": "91310113781859546H",
+      "name": "上海英港泌尿外科医院",
+      "baiduad": {},
+      "url": [
+        "http://www.shyg91.com/index.html"
+      ],
+      "principal": "黄元聪",
+      "address": "上海市宝山区淞滨路130号"
+    },
+    "上海玫瑰医疗美容医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        "021-36365666"
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科(原名上海玫瑰女子医院)",
+            "dateline": ""
+          }
+        ]
+      },
+      "created": 1463448447,
+      "location": {
+        "lng": "121.452042",
+        "lat": "31.246992"
+      },
+      "shareholder": [
+        "陈志强",
+        "詹国平"
+      ],
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.7055j0j7&bav=on.2,or.r_cp.&bvm=bv.122129774,d.cGc&biw=1438&bih=711&dpr=2&ech=1&psi=-m86V5rwBI2ujwPSgYS4Bg.1463447549083.3&ei=-m86V5rwBI2ujwPSgYS4Bg&emsg=NCSR&noj=1",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:25:25.317Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.saic.gov.cn%2Ffldyfbzdjz%2Fdxal%2F201506%2Ft20150629_158358.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.saic.gov.cn%2Ffldyfbzdjz%2Fdxal%2F201506%2Ft20150629_158358.html&aqs=chrome..69i57j69i58.2602j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.saic.gov.cn/fldyfbzdjz/dxal/201506/t20150629_158358.html",
+            "title": "玫瑰医院等民营医院假冒知名医院网站案",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:25:25.317Z - "
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Fwww.zhinews.com%2Ftousu%2F20140118_333994.html&oq=cache%3A%2F%2Fwww.zhinews.com%2Ftousu%2F20140118_333994.html&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58.7656j0j7&bav=on.2,or.r_cp.&bvm=bv.122129774,d.cGc&biw=1438&bih=667&dpr=2&ech=1&psi=FHI6V4DEC4GWjQO5sLC4DA.1463448086000.3&ei=FHI6V4DEC4GWjQO5sLC4DA&emsg=NCSR&noj=1",
+            "url": "http://www.zhinews.com/tousu/20140118_333994.html",
+            "title": "上海玫瑰女子医院黑心乱收费",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:22:41.049Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Fzw.buhlu.com%2Fdetail%2F41udi.html&oq=cache%3A%2F%2Fzw.buhlu.com%2Fdetail%2F41udi.html&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58.6711j0j7&bav=on.2,or.r_cp.&bvm=bv.122129774,d.cGc&biw=1438&bih=667&dpr=2&ech=1&psi=THI6V6XLMpCYjwP_lbWYDA.1463448142856.3&ei=THI6V6XLMpCYjwP_lbWYDA&emsg=NCSR&noj=1",
+            "url": "http://zw.buhlu.com/detail/41udi.html",
+            "title": "两成多民营医院存在违规经营",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:22:41.049Z - "
+          },
+          {
+            "snapshot": "http://weibo.com/3987350844/CxcwWhvh1?type=comment#_rnd1463448381297",
+            "url": "http://weibo.com/3987350844/CxcwWhvh1?type=comment#_rnd1463448381297",
+            "title": "微博用户",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:22:41.049Z - "
+          }
+        ]
+      },
+      "id": "6b01e685-6aca-4f51-be07-d1c81b9b01da",
+      "updated": 1463448447,
+      "USID": "310108000378282",
+      "name": "上海玫瑰医疗美容医院",
+      "baiduad": {},
+      "url": [
+        "http://www.shrose.cn/"
+      ],
+      "principal": "陈志强",
+      "address": "上海市闸北区长安路1138号(近天目西路)"
+    },
+    "上海市黄浦区中西医结合医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        ""
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60.6766j0j7&sourceid=chrome&ie=UTF-8",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:43:04.038Z - "
+          },
+          {
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:39:09.900Z - "
+          }
+        ]
+      },
+      "created": 1462891549,
+      "shareholder": [
+        ""
+      ],
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.mnw.cn%2Fnews%2Fpt%2F1172228.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.mnw.cn%2Fnews%2Fpt%2F1172228.html&aqs=chrome..69i57j69i58j69i60.2197j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.mnw.cn/news/pt/1172228.html",
+            "title": "闽南网综合",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:43:01.327Z - "
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
             "snapshot": "",
+            "url": "",
             "title": "",
             "dateline": ""
           }
         ]
       },
-      "updated": 1462861240,
-      "address": "中国上海市嘉定区清河路450号",
-      "created": 1462861240,
-      "principal": "王友松",
-      "province": "上海",
+      "id": "414bae8f-d590-4d03-9c3f-d2c0b843491f",
+      "updated": 1462891549,
+      "USID": "",
+      "name": "上海市黄浦区中西医结合医院",
+      "baiduad": {},
       "url": [
-        "http://www.69916666.com/"
+        "http://www.hpzxy.org/"
+      ],
+      "principal": "",
+      "address": "上海市黄浦区黄家路163号"
+    },
+    "上海虹桥医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        "021-64659999"
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:51:22.737Z - "
+          }
+        ]
+      },
+      "created": 1463558623,
+      "location": {
+        "lng": "121.394991",
+        "lat": "31.175035"
+      },
+      "shareholder": [
+        "陈国兴",
+        "陈国雄"
       ],
       "type": "民营医院",
-      "note": "",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.6201j0j7&bav=on.2,or.r_cp.&bvm=bv.122448493,d.cGc&biw=1438&bih=715&dpr=2&ech=1&psi=1OQ7V-vcN47YjwPHgpSACA.1463542998782.3&ei=1OQ7V-vcN47YjwPHgpSACA&emsg=NCSR&noj=1",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:59:19.527Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fnews.163.com%2F16%2F0516%2F13%2FBN6MAPKD00014AED.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fnews.163.com%2F16%2F0516%2F13%2FBN6MAPKD00014AED.html&aqs=chrome..69i57j69i58.2616j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://news.163.com/16/0516/13/BN6MAPKD00014AED.html",
+            "title": "莆田系P2P合规性存疑",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:59:19.527Z - "
+          },
+          {
+            "snapshot": "投诉主题：上海虹桥医院儿科医托内幕",
+            "url": "http://ts.voc.com.cn/question/view/282920.html",
+            "title": "上海虹桥医院儿科医托内幕",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:59:19.527Z - "
+          },
+          {
+            "snapshot": "http://biz.163.com/06/0216/06/2A2HPCLE00020QGP.html",
+            "url": "http://biz.163.com/06/0216/06/2A2HPCLE00020QGP.html",
+            "title": "(2006年)沪3家医院涉嫌广告违规 皆表示暂停投放违规广告",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:59:19.527Z - "
+          },
+          {
+            "snapshot": "http://news.eastday.com/eastday/node545/node8418/userobject1ai103379.html",
+            "url": "http://news.eastday.com/eastday/node545/node8418/userobject1ai103379.html",
+            "title": "针对上海虹桥医院违反医疗广告管理的行为",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:59:19.527Z - "
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fblog.sina.com.cn%2Fs%2Fblog_12d8876400102w1ka.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fblog.sina.com.cn%2Fs%2Fblog_12d8876400102w1ka.html&aqs=chrome..69i57j69i58.3018j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://blog.sina.com.cn/s/blog_12d8876400102w1ka.html",
+            "title": "上海虹桥医院儿科纯属骗子，希望更多的受害家长站出来，一起严惩他们",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:53:42.685Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-free-5431382-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-free-5431382-1.shtml&aqs=chrome..69i57j69i58.3207j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://bbs.tianya.cn/post-free-5431382-1.shtml",
+            "title": "天涯论坛",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:53:42.685Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fhealth315.people.com.cn%2Findex.php%2FDis%2Fdis%2Fid%2F832&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fhealth315.people.com.cn%2Findex.php%2FDis%2Fdis%2Fid%2F832&aqs=chrome..69i57j69i58.3176j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://health315.people.com.cn/index.php/Dis/dis/id/832",
+            "title": "人民网",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:53:42.685Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.361yaya.com%2Fthread-809-1-1.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.361yaya.com%2Fthread-809-1-1.html&aqs=chrome..69i57j69i58.2238j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.361yaya.com/thread-809-1-1.html",
+            "title": "上海虹桥医院与众多骗子的“体检”发财大计,虹桥医院知法犯法",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:53:42.685Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.xjjhcs.com%2Fa%2Fyaowen%2F20160410%2F1827.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.xjjhcs.com%2Fa%2Fyaowen%2F20160410%2F1827.html&aqs=chrome..69i57j69i58.3502j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.xjjhcs.com/a/yaowen/20160410/1827.html",
+            "title": "曝光上海虹桥医院的骗子赚黑心钱欺诈患者",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:53:42.685Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.kezaga.com%2Fshenghuo%2Fjiating%2F28759.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.kezaga.com%2Fshenghuo%2Fjiating%2F28759.html&aqs=chrome..69i57j69i58.2198j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.kezaga.com/shenghuo/jiating/28759.html",
+            "title": "网友投稿:去上海虹桥医院治口吃被骗近2万",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:53:42.685Z - "
+          },
+          {
+            "snapshot": "http://classad.beelink.cn/html/201505/content_37127.htm",
+            "url": "http://classad.beelink.cn/html/201505/content_37127.htm",
+            "title": "上海虹桥医院是可恶的黑心医院，消费者要留心",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:53:42.685Z - "
+          }
+        ]
+      },
+      "id": "2148ce44-0bcc-43ad-bce4-736f91417075",
+      "updated": 1463558623,
+      "USID": "913101127374939383",
+      "name": "上海虹桥医院",
+      "baiduad": {},
+      "url": [
+        "http://www.shhqyy.com/"
+      ],
+      "principal": "陈国兴",
+      "address": "上海市闵行区虹梅路2181号"
+    },
+    "上海江东泌尿外科医院": {
       "city": "上海",
+      "note": "",
+      "phone": [
+        "021-50349666"
+      ],
+      "dataversion": "draft1",
+      "putian": {},
+      "created": 1463041609,
       "location": {
-        "lat": "31.3769217",
-        "lng": "121.2317892"
+        "lng": "121.57117",
+        "lat": "31.264799"
+      },
+      "shareholder": [
+        ""
+      ],
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60l3.2910j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:19:45.839Z - "
+          },
+          {
+            "snapshot": "http://www.5h.com/yl/11070.html",
+            "url": "http://www.5h.com/yl/11070.html",
+            "title": "5号网",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:19:45.839Z - "
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fm.qiangjunshi.com%2F29%2F18015.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fm.qiangjunshi.com%2F29%2F18015.html&aqs=chrome..69i57j69i58.2513j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://m.qiangjunshi.com/29/18015.html",
+            "title": "曝光上海江东医院是骗子 黑心医院 让更多人知道这家 黑心医院",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:26:46.872Z - "
+          }
+        ]
+      },
+      "id": "35764a94-53c6-47bc-9533-fde48eea2bc8",
+      "updated": 1463041609,
+      "USID": "",
+      "name": "上海江东泌尿外科医院",
+      "baiduad": {},
+      "url": [
+        "http://www.dong120.com/"
+      ],
+      "principal": "",
+      "address": "中国上海市浦东新区金桥路300号"
+    },
+    "上海安平医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        "021-58981111",
+        "021-58982222"
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/zh/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/zh/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:32:32.851Z - "
+          }
+        ]
+      },
+      "created": 1463042282,
+      "location": {
+        "lng": "121.6962203",
+        "lat": "31.2012905"
+      },
+      "shareholder": [
+        ""
+      ],
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://tech.qq.com/a/20160501/017681.htm",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:34:00.235Z - "
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Ftieba.baidu.com%2Fp%2F685180058&oq=cache%3A%2F%2Ftieba.baidu.com%2Fp%2F685180058&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.6021j0j4",
+            "url": "http://tieba.baidu.com/p/685180058",
+            "title": "百度贴百",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:37:56.184Z - "
+          }
+        ]
+      },
+      "id": "4c32dc61-a832-40b7-94ef-01099bb8a998",
+      "updated": 1463042282,
+      "USID": "",
+      "name": "上海安平医院",
+      "baiduad": {},
+      "url": [
+        "http://www.apyy120.com/"
+      ],
+      "principal": "",
+      "address": "中国上海市浦东新区川沙路4425号"
+    },
+    "上海健桥医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        "021-56659999"
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:42:47.475Z - "
+          }
+        ]
+      },
+      "created": 1463543544,
+      "location": {
+        "lng": "121.4629991",
+        "lat": "31.2521575"
+      },
+      "shareholder": [
+        "陈国兴",
+        "陈金章"
+      ],
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.6201j0j7&bav=on.2,or.r_cp.&bvm=bv.122448493,d.cGc&biw=1438&bih=715&dpr=2&ech=1&psi=1OQ7V-vcN47YjwPHgpSACA.1463542998782.3&ei=1OQ7V-vcN47YjwPHgpSACA&emsg=NCSR&noj=1",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:43:38.128Z - "
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2F51jk.c029.com%2FinfoShow_1167_23663.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2F51jk.c029.com%2FinfoShow_1167_23663.html&aqs=chrome..69i57j69i58.2664j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://51jk.c029.com/infoShow_1167_23663.html",
+            "title": "51健康之路",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:49:40.770Z - "
+          },
+          {
+            "snapshot": "http://www.315rx.com/CompTs_Html/251532R20110720X44.html",
+            "url": "http://www.315rx.com/CompTs_Html/251532R20110720X44.html",
+            "title": "315热线",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:49:40.770Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fm.qiangjunshi.com%2F29%2F17921.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fm.qiangjunshi.com%2F29%2F17921.html&aqs=chrome..69i57j69i58.2830j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://m.qiangjunshi.com/29/17921.html",
+            "title": "社会视野",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:49:40.770Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.shupingnet.com%2Fjr%2F201605%2F9105.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.shupingnet.com%2Fjr%2F201605%2F9105.html&aqs=chrome..69i57j69i58.2407j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.shupingnet.com/jr/201605/9105.html",
+            "title": "评述网",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:49:40.770Z - "
+          },
+          {
+            "snapshot": "http://ctk-ktkv.com/wenzhang/4784",
+            "url": "http://ctk-ktkv.com/wenzhang/4784",
+            "title": "投诉上海健桥医院欺骗患者收取高额医疗费",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:49:40.770Z - "
+          }
+        ]
+      },
+      "id": "bbe7d48e-a404-4194-88ef-1fdaf684b605",
+      "updated": 1463543544,
+      "USID": "91310106751877073M",
+      "name": "上海健桥医院",
+      "baiduad": {},
+      "url": [
+        "http://www.jianqiaohospital.com/"
+      ],
+      "principal": "陈国雄",
+      "address": "上海闸北区中兴路1122号"
+    },
+    "上海市浦东新区传染病医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        "021-20256638",
+        "021-20256639"
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:17:40.786Z - "
+          }
+        ]
+      },
+      "created": 1462890540,
+      "location": {
+        "lng": "121.591843",
+        "lat": "31.186433"
+      },
+      "shareholder": [
+        ""
+      ],
+      "type": "",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "",
+            "url": "",
+            "title": "",
+            "dateline": ""
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "http://imgur.com/a/Yzf5W",
+            "url": "http://www.dianping.com/shop/2392477/review_more_grade",
+            "title": "大众点评",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:28:27.710Z - "
+          },
+          {
+            "snapshot": "http://imgur.com/a/Yzf5W",
+            "url": "http://www.dianping.com/shop/2392477/review_more_grade",
+            "title": "大众点评",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:28:20.296Z - "
+          }
+        ]
+      },
+      "id": "4ec198c4-4491-4e4b-b1d7-0b3be12a826e",
+      "updated": 1462890540,
+      "USID": "",
+      "name": "上海市浦东新区传染病医院",
+      "baiduad": {},
+      "url": [
+        "http://www.sgyy.cn/cn/index/"
+      ],
+      "principal": "",
+      "address": "上海市浦东新区张衡路528号"
+    },
+    "上海长江医院": {
+      "city": "上海",
+      "note": "全名 上海虹口长江医院有限公司",
+      "phone": [
+        "021-65022556"
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:41:39.361Z - "
+          }
+        ]
+      },
+      "created": 1463550497,
+      "location": {
+        "lng": "121.4981643",
+        "lat": "31.2560845"
+      },
+      "shareholder": [
+        "上海虹口长江医疗产业投资管理（集团）有限公司",
+        "林梅兰",
+        "林瑞兴",
+        "陈娟"
+      ],
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.6201j0j7&bav=on.2,or.r_cp.&bvm=bv.122448493,d.cGc&biw=1438&bih=715&dpr=2&ech=1&psi=1OQ7V-vcN47YjwPHgpSACA.1463542998782.3&ei=1OQ7V-vcN47YjwPHgpSACA&emsg=NCSR&noj=1",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:42:51.582Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.southcn.com%2Fnews%2Fcommunity%2Fshzt%2Fconsumer%2Fmedical%2F200603020437.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.southcn.com%2Fnews%2Fcommunity%2Fshzt%2Fconsumer%2Fmedical%2F200603020437.htm&aqs=chrome..69i57j69i58.2912j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.southcn.com/news/community/shzt/consumer/medical/200603020437.htm",
+            "title": "南方周未 “送子神话”的背后——上海长江医院被全面调查",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:42:51.582Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.bullettou.com%2Fnews%2Fshehui%2F2015-07-28%2F8827.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.bullettou.com%2Fnews%2Fshehui%2F2015-07-28%2F8827.html&aqs=chrome..69i57j69i58.3470j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.bullettou.com/news/shehui/2015-07-28/8827.html",
+            "title": "北都网",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:42:51.582Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fnews.sina.com.cn%2Fc%2F2006-05-29%2F09119056507s.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fnews.sina.com.cn%2Fc%2F2006-05-29%2F09119056507s.shtml&aqs=chrome..69i57j69i58.2182j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://news.sina.com.cn/c/2006-05-29/09119056507s.shtml",
+            "title": "\"骗子医院\"乔迁继续营业 长江医院还能走多远",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:42:51.582Z - "
+          },
+          {
+            "snapshot": "http://forum.xitek.net/thread-331045-1-1-1.html",
+            "url": "http://forum.xitek.net/thread-331045-1-1-1.html",
+            "title": "令人发指也不为过，上海长江医院坑人事件！看28日CCTV-2感言",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:42:51.582Z - "
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.yiliao8.com%2Fa%2F400.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.yiliao8.com%2Fa%2F400.html&aqs=chrome..69i57j69i58.2062j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.yiliao8.com/a/400.html",
+            "title": "上海长江医院发布假新闻以及收费不明乱收费问题",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:46:31.474Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.19lou.com%2Fforum-289-thread-1161375781535263-1-1.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.19lou.com%2Fforum-289-thread-1161375781535263-1-1.html&aqs=chrome..69i57j69i58.2135j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.19lou.com/forum-289-thread-1161375781535263-1-1.html",
+            "title": "上海长江医院就是骗子医院",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:46:31.474Z - "
+          },
+          {
+            "snapshot": "http://www.djlhc111.com/xinwen/shishi/29093.html",
+            "url": "http://www.djlhc111.com/xinwen/shishi/29093.html",
+            "title": "上海天伦医院黑心骗子医院，虹口区卫生局腐败透顶，黄启明黑心骗",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T05:46:31.474Z - "
+          }
+        ]
+      },
+      "id": "ea802b91-6a7e-425c-a2b0-cbb14fcb8a55",
+      "updated": 1463550497,
+      "USID": "91310109737485639H",
+      "name": "上海长江医院",
+      "baiduad": {},
+      "url": [
+        "http://www.cjhospital.com/yiyuanjianjie/"
+      ],
+      "principal": "林梅兰",
+      "address": "上海市虹口区周家嘴路515-535号"
+    },
+    "上海青城医院": {
+      "city": "上海",
+      "note": "官网已经打不开",
+      "phone": [
+        "400-890-8086"
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-11T06:56:47.757Z - "
+          }
+        ]
+      },
+      "created": 1462950261,
+      "location": {
+        "lng": "121.1152177",
+        "lat": "31.1598077"
+      },
+      "shareholder": [
+        ""
+      ],
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60l2.2653j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": ""
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fblog.tianya.cn%2Fm%2Fpost.jsp%3FpostId%3D113199931&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fblog.tianya.cn%2Fm%2Fpost.jsp%3FpostId%3D113199931&aqs=chrome..69i57j69i58.4232j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://blog.tianya.cn/m/post.jsp?postId=113199931",
+            "title": "上海青城医院怎么样？骗子医院大家别去",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-11T06:59:44.706Z - "
+          },
+          {
+            "snapshot": "http://www.yfr2a.com/19466.html",
+            "url": "http://www.yfr2a.com/19466.html",
+            "title": "上海青城医院欺骗的勾当",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-11T06:59:44.706Z - "
+          },
+          {
+            "snapshot": "",
+            "url": "",
+            "title": "",
+            "dateline": ""
+          }
+        ]
+      },
+      "id": "c6babf8d-42fd-49b3-8e18-8b5617a46dea",
+      "updated": 1462950261,
+      "USID": "",
+      "name": "上海青城医院",
+      "baiduad": {},
+      "url": [
+        "http://www.021qcyy.com/"
+      ],
+      "principal": "",
+      "address": "上海市青浦区盈港路468号（世纪联华斜对面）"
+    },
+    "上海嘉华医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        "400-885-0806"
+      ],
+      "dataversion": "draft1",
+      "putian": {},
+      "created": 1462861240,
+      "location": {
+        "lng": "121.2317892",
+        "lat": "31.3769217"
       },
       "shareholder": [
         "上海华中实业（集团）有限公司",
@@ -631,707 +1950,665 @@
         "王友志",
         "叶彩霞"
       ],
-      "dataversion": "draft1",
+      "type": "民营医院",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "",
+            "url": "",
+            "title": "",
+            "dateline": ""
+          }
+        ]
+      },
+      "province": "上海",
       "comments": {
         "evidence": [
           {
-            "url": "http://wsxf.sh.gov.cn/swldxxnew/feedback_show.aspx?State=C4AD4221A364E620&LetterID=1A3B43FF6400FAA9",
             "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwsxf.sh.gov.cn%2Fswldxxnew%2Ffeedback_show.aspx%3FState%3DC4AD4221A364E620%26LetterID%3D1A3B43FF6400FAA9&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwsxf.sh.gov.cn%2Fswldxxnew%2Ffeedback_show.aspx%3FState%3DC4AD4221A364E620%26LetterID%3D1A3B43FF6400FAA9&aqs=chrome..69i57j69i58.8112j0j7&sourceid=chrome&ie=UTF-8",
+            "url": "http://wsxf.sh.gov.cn/swldxxnew/feedback_show.aspx?State=C4AD4221A364E620&LetterID=1A3B43FF6400FAA9",
             "title": "前程无忧网站涉嫌虚假信息导致很多人资金损失",
             "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T06:17:22.796Z - "
           },
           {
-            "url": "http://imgur.com/VNaEzRW",
             "snapshot": "http://imgur.com/VNaEzRW",
+            "url": "http://imgur.com/VNaEzRW",
             "title": "前程无忧网站涉嫌虚假信息导致很多人资金损失",
             "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T06:17:22.796Z - "
           }
         ]
       },
-      "USID": "913101147836498929"
+      "id": "c2d9990b-4b8f-4222-8793-5b411dc5ed9a",
+      "updated": 1462861240,
+      "USID": "913101147836498929",
+      "name": "上海嘉华医院",
+      "baiduad": {},
+      "url": [
+        "http://www.69916666.com/"
+      ],
+      "principal": "王友松",
+      "address": "中国上海市嘉定区清河路450号"
     },
-    "上海曙康口腔医院": {
-      "name": "上海曙康口腔医院",
+    "上海九龙男子医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        "021-52739067",
+        "021-52732699"
+      ],
+      "dataversion": "draft1",
       "putian": {
+        "confirm": "Yes",
         "evidence": [
           {
-            "url": "http://tech.qq.com/a/20160501/017681.htm",
-            "snapshot": "http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.8786j0j4",
-            "title": "腾讯科技",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:36:21.760Z - "
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:36:32.070Z - "
           }
-        ],
-        "confirm": "Yes"
+        ]
       },
-      "baiduad": {},
-      "phone": [
-        ""
+      "created": 1463557463,
+      "location": {
+        "lng": "121.411441",
+        "lat": "31.216787"
+      },
+      "shareholder": [
+        "黄志勇",
+        "柯元芳",
+        "上海邦泰医院投资管理有限公司"
       ],
-      "id": "93ba05a8-2157-46c9-a5b3-faf8a7630e83",
+      "type": "民营医院",
       "news": {
         "evidence": [
           {
-            "url": "",
-            "snapshot": "",
-            "title": "",
-            "dateline": ""
+            "snapshot": "http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.6201j0j7&bav=on.2,or.r_cp.&bvm=bv.122448493,d.cGc&biw=1438&bih=715&dpr=2&ech=1&psi=1OQ7V-vcN47YjwPHgpSACA.1463542998782.3&ei=1OQ7V-vcN47YjwPHgpSACA&emsg=NCSR&noj=1",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:38:44.567Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fsh.sina.com.cn%2Fnews%2Fh%2F2011-12-14%2F0834203085.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fsh.sina.com.cn%2Fnews%2Fh%2F2011-12-14%2F0834203085.html&aqs=chrome..69i57j69i58.2458j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://sh.sina.com.cn/news/h/2011-12-14/0834203085.html",
+            "title": "上海九龙男子医院将尿频男子诊断为前列腺炎",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:38:44.567Z - "
           }
         ]
       },
-      "updated": 1462891002,
-      "address": "上海市卢湾区普安路185号",
-      "created": 1462891002,
-      "principal": "",
       "province": "上海",
-      "url": [
-        ""
-      ],
-      "type": "",
-      "note": "",
-      "city": "上海",
-      "location": {
-        "lat": "31.222935",
-        "lng": "121.4764833"
-      },
-      "shareholder": [
-        ""
-      ],
-      "dataversion": "draft1",
       "comments": {
         "evidence": [
           {
-            "url": "",
-            "snapshot": "",
-            "title": "",
-            "dateline": ""
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.120x.net%2Fthread-123130-1-1.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.120x.net%2Fthread-123130-1-1.html&aqs=chrome..69i57j69i58.2545j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.120x.net/thread-123130-1-1.html",
+            "title": "被骗了，上海九龙男子医院，骗子医院",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:44:17.982Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.hebeirexian.com%2Fhtml%2F2016%2F0505%2F9400.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.hebeirexian.com%2Fhtml%2F2016%2F0505%2F9400.html&aqs=chrome..69i57j69i58.2326j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.hebeirexian.com/html/2016/0505/9400.html",
+            "title": "上海九龙男子医院是黑医院，不要上当",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:41:36.601Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fnetbarz.com%2Fngztq%2Fmifz%2F20160215%2F5456.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fnetbarz.com%2Fngztq%2Fmifz%2F20160215%2F5456.html&aqs=chrome..69i57j69i58.2149j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://netbarz.com/ngztq/mifz/20160215/5456.html",
+            "title": "曝上海九龙男子医院怎么样坑人骗人的！",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:41:36.601Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2F2162611500.com%2Fa%2Fyiqianlingyiye%2F2016%2F0221%2F134.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2F2162611500.com%2Fa%2Fyiqianlingyiye%2F2016%2F0221%2F134.html&aqs=chrome..69i57j69i58.2030j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://2162611500.com/a/yiqianlingyiye/2016/0221/134.html",
+            "title": "我在上海九龙男子医院的受骗记（转载）",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:41:36.601Z - "
           }
         ]
       },
-      "USID": ""
+      "id": "d4c3ce1d-5ce4-425a-a5e5-b87eeac4ef36",
+      "updated": 1463557463,
+      "USID": "310105000295546",
+      "name": "上海九龙男子医院",
+      "baiduad": {},
+      "url": [
+        "http://www.long120.cn/",
+        "http://www.shjlnzyy.com/"
+      ],
+      "principal": "周义明",
+      "address": "上海市长宁区中山西路333号"
     },
     "上海中医药大学附属曙光医院浦东肝病专科分院": {
-      "name": "上海中医药大学附属曙光医院浦东肝病专科分院",
+      "city": "上海",
+      "note": "",
+      "phone": [
+        ""
+      ],
+      "dataversion": "draft1",
       "putian": {
+        "confirm": "Yes",
         "evidence": [
           {
-            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
             "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
             "title": "维基百科",
             "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T09:39:24.827Z - "
           }
-        ],
-        "confirm": "Yes"
-      },
-      "baiduad": {},
-      "phone": [
-        ""
-      ],
-      "id": "e0d333ae-8e1a-43d2-80e0-988a604f9e4e",
-      "news": {
-        "evidence": [
-          {
-            "url": "",
-            "snapshot": "",
-            "title": "",
-            "dateline": ""
-          }
         ]
       },
-      "updated": 1462873236,
-      "address": "中国上海市浦东新区华夏东路3018弄46号",
       "created": 1462873236,
-      "principal": "",
-      "province": "上海",
-      "url": [
-        ""
-      ],
-      "type": "民营医院",
-      "note": "",
-      "city": "上海",
       "location": {
-        "lat": "31.201784",
-        "lng": "121.712658"
+        "lng": "121.712658",
+        "lat": "31.201784"
       },
       "shareholder": [
         ""
       ],
-      "dataversion": "draft1",
-      "comments": {
+      "type": "民营医院",
+      "news": {
         "evidence": [
           {
-            "url": "",
             "snapshot": "",
+            "url": "",
             "title": "",
             "dateline": ""
           }
         ]
       },
-      "USID": ""
-    },
-    "上海江东泌尿外科医院": {
-      "name": "上海江东泌尿外科医院",
-      "putian": {},
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "",
+            "url": "",
+            "title": "",
+            "dateline": ""
+          }
+        ]
+      },
+      "id": "e0d333ae-8e1a-43d2-80e0-988a604f9e4e",
+      "updated": 1462873236,
+      "USID": "",
+      "name": "上海中医药大学附属曙光医院浦东肝病专科分院",
       "baiduad": {},
-      "phone": [
-        "021-50349666"
+      "url": [
+        ""
       ],
-      "id": "35764a94-53c6-47bc-9533-fde48eea2bc8",
+      "principal": "",
+      "address": "中国上海市浦东新区华夏东路3018弄46号"
+    },
+    "上海天大医疗美容医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        "021-64080808",
+        "400-0139-399"
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:43:44.405Z - "
+          }
+        ]
+      },
+      "created": 1463561429,
+      "location": {
+        "lng": "121.411481",
+        "lat": "31.216141"
+      },
+      "shareholder": [
+        "上海仁爱投资管理有限公司",
+        "上海沪申五官科医院有限公司"
+      ],
+      "type": "民营医院",
       "news": {
         "evidence": [
           {
+            "snapshot": "http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.6201j0j7&bav=on.2,or.r_cp.&bvm=bv.122448493,d.cGc&biw=1438&bih=715&dpr=2&ech=1&psi=1OQ7V-vcN47YjwPHgpSACA.1463542998782.3&ei=1OQ7V-vcN47YjwPHgpSACA&emsg=NCSR&noj=1",
             "url": "http://tech.qq.com/a/20160501/017681.htm",
-            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60l3.2910j0j4&sourceid=chrome&ie=UTF-8",
             "title": "腾讯科技",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:19:45.839Z - "
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:44:28.010Z - "
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "http://bbs.tianya.cn/post-free-2885207-1.shtml",
+            "url": "http://bbs.tianya.cn/post-free-2885207-1.shtml",
+            "title": "上海天大医疗美容医院，黑医院，请好心媒体记者和热心网友帮忙",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:45:55.556Z - "
           },
           {
-            "url": "http://www.5h.com/yl/11070.html",
-            "snapshot": "http://www.5h.com/yl/11070.html",
-            "title": "5号网",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:19:45.839Z - "
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.ca315.com%2Fts%2Fyaopin%2F20121129%2F553712.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.ca315.com%2Fts%2Fyaopin%2F20121129%2F553712.shtml&aqs=chrome..69i57j69i58.1975j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.ca315.com/ts/yaopin/20121129/553712.shtml",
+            "title": "上海天大医疗美容医院，背后靠山强大，百姓维权真难",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:45:55.556Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.fchinaw.com%2Fdianying%2F19981.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.fchinaw.com%2Fdianying%2F19981.html&aqs=chrome..69i57j69i58.2374j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.fchinaw.com/dianying/19981.html",
+            "title": "上海天大医疗美容医院被曝收费高没疗效",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T08:45:55.556Z - "
           }
         ]
       },
-      "updated": 1463041609,
-      "address": "中国上海市浦东新区金桥路300号",
-      "created": 1463041609,
-      "principal": "",
-      "province": "上海",
+      "id": "7ca7f094-5307-4c3e-95cf-c66af7796507",
+      "updated": 1463561429,
+      "USID": "91310105777139108U",
+      "name": "上海天大医疗美容医院",
+      "baiduad": {},
       "url": [
-        "http://www.dong120.com/"
+        "http://www.tida.sh.cn/",
+        "http://www.tida120.com/",
+        "http://www.tdzxyy.com/"
       ],
-      "type": "民营医院",
-      "note": "",
+      "principal": "林志忠",
+      "address": "上海市长宁区中山西路339号"
+    },
+    "上海博大医院": {
       "city": "上海",
-      "location": {
-        "lat": "31.264799",
-        "lng": "121.57117"
-      },
-      "shareholder": [
+      "note": "",
+      "phone": [
         ""
       ],
       "dataversion": "draft1",
-      "comments": {
-        "evidence": [
-          {
-            "url": "http://m.qiangjunshi.com/29/18015.html",
-            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fm.qiangjunshi.com%2F29%2F18015.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fm.qiangjunshi.com%2F29%2F18015.html&aqs=chrome..69i57j69i58.2513j0j4&sourceid=chrome&ie=UTF-8",
-            "title": "曝光上海江东医院是骗子 黑心医院 让更多人知道这家 黑心医院",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:26:46.872Z - "
-          }
-        ]
-      },
-      "USID": ""
-    },
-    "上海博大医院": {
-      "name": "上海博大医院",
       "putian": {
+        "confirm": "Yes",
         "evidence": [
           {
-            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
             "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
             "title": "维基百科",
             "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-11T06:18:38.193Z - "
           }
-        ],
-        "confirm": "Yes"
+        ]
       },
-      "baiduad": {},
-      "phone": [
+      "created": 1462948297,
+      "location": {
+        "lng": "121.229828",
+        "lat": "31.005725"
+      },
+      "shareholder": [
         ""
       ],
-      "id": "a8208e04-9d6c-4c87-866f-b3d470de12c0",
+      "type": "民营医院",
       "news": {
         "evidence": [
           {
-            "url": "http://tech.qq.com/a/20160501/017681.htm",
             "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60l2.2653j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
             "title": "腾讯科技",
             "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-11T06:18:20.131Z - "
           }
         ]
       },
-      "updated": 1462948297,
-      "address": "上海市松江区人民南路（阔街）55号",
-      "created": 1462948297,
-      "principal": "",
       "province": "上海",
-      "url": [
-        ""
-      ],
-      "type": "民营医院",
-      "note": "",
-      "city": "上海",
-      "location": {
-        "lat": "31.005725",
-        "lng": "121.229828"
-      },
-      "shareholder": [
-        ""
-      ],
-      "dataversion": "draft1",
       "comments": {
         "evidence": [
           {
-            "url": "http://bbs.tianya.cn/post-41-1233784-1.shtml",
             "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-1233784-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-1233784-1.shtml&aqs=chrome..69i57j69i58.2774j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://bbs.tianya.cn/post-41-1233784-1.shtml",
             "title": "天涯论坛",
             "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-11T06:21:50.525Z - "
           },
           {
-            "url": "",
             "snapshot": "",
+            "url": "",
             "title": "",
             "dateline": ""
           }
         ]
       },
-      "USID": ""
-    },
-    "上海天伦医院": {
-      "name": "上海天伦医院",
-      "putian": {
-        "evidence": [
-          {
-            "url": "http://news.sina.com.cn/c/nd/2016-05-03/doc-ifxrtzte9887908.shtml",
-            "snapshot": "http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fnews.sina.com.cn%2Fc%2Fnd%2F2016-05-03%2Fdoc-ifxrtzte9887908.shtml&oq=cache%3A%2F%2Fnews.sina.com.cn%2Fc%2Fnd%2F2016-05-03%2Fdoc-ifxrtzte9887908.shtml&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.6786j0j4",
-            "title": "“莆田系”民营医院名单大揭秘",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T03:03:43.927Z - "
-          },
-          {
-            "url": "",
-            "snapshot": "",
-            "title": "",
-            "dateline": ""
-          }
-        ],
-        "confirm": "Yes"
-      },
+      "id": "a8208e04-9d6c-4c87-866f-b3d470de12c0",
+      "updated": 1462948297,
+      "USID": "",
+      "name": "上海博大医院",
       "baiduad": {},
-      "phone": [
-        "021-65667633",
-        "021-65259999",
-        "+9864006660102",
-        "021-55158829"
-      ],
-      "id": "4d7702d3-fe24-463d-9b02-fb330b990cdd",
-      "news": {
-        "evidence": [
-          {
-            "url": "",
-            "snapshot": "",
-            "title": "",
-            "dateline": ""
-          }
-        ]
-      },
-      "updated": 1462849918,
-      "address": "上海市虹口区凉城路545号",
-      "created": 1462849918,
-      "principal": "丁光燕",
-      "province": "上海",
-      "url": [
-        "http://www.shtl120.com/",
-        "http://www.sh-byby.org/",
-        "http://www.shtlyy.com/",
-        "http://www.shtianlun.org/",
-        "http://www.tianlun100.com/"
-      ],
-      "type": "民营医院",
-      "note": "",
-      "city": "上海",
-      "location": {
-        "lat": "31.290862",
-        "lng": "121.470761"
-      },
-      "shareholder": [
-        "上海渝协投资管理有限公司"
-      ],
-      "dataversion": "draft1",
-      "comments": {
-        "evidence": [
-          {
-            "url": "http://bbs.tianya.cn/post-41-1230858-1.shtml",
-            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-1230858-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-1230858-1.shtml&aqs=chrome..69i57j69i58.3751j0j4&sourceid=chrome&ie=UTF-8",
-            "title": "上海天伦医院黑心骗子医院，黄启明黑心骗子医生，虹口区卫生局腐败透顶",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T03:10:34.846Z - "
-          },
-          {
-            "url": "http://tieba.baidu.com/p/2421760105?pn=2",
-            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftieba.baidu.com%2Fp%2F2421760105%3Fpn%3D2&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftieba.baidu.com%2Fp%2F2421760105%3Fpn%3D2&aqs=chrome..69i57j69i58.2816j0j4&sourceid=chrome&ie=UTF-8",
-            "title": "回复：上海天伦医院骗子",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T03:10:23.022Z - "
-          },
-          {
-            "url": "http://www.dianping.com/review/47644143",
-            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.dianping.com%2Freview%2F47644143&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.dianping.com%2Freview%2F47644143&aqs=chrome..69i57j69i58.5060j0j4&sourceid=chrome&ie=UTF-8",
-            "title": "大众点评",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T03:10:23.022Z - "
-          }
-        ]
-      },
-      "USID": "91310109681013594D"
-    },
-    "众仁曙光医疗保健中心": {
-      "name": "众仁曙光医疗保健中心",
-      "putian": {
-        "evidence": [
-          {
-            "url": "http://www.mnw.cn/news/pt/1172228.html",
-            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.mnw.cn%2Fnews%2Fpt%2F1172228.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.mnw.cn%2Fnews%2Fpt%2F1172228.html&aqs=chrome..69i57j69i58.2869j0j4&sourceid=chrome&ie=UTF-8",
-            "title": "莆田系林氏家族背景资料发家史 林志忠林志程博爱医疗名单",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T09:23:09.567Z - "
-          },
-          {
-            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "title": "维基百科",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T09:23:09.567Z - "
-          }
-        ],
-        "confirm": "Yes"
-      },
-      "baiduad": {},
-      "phone": [
-        ""
-      ],
-      "id": "ee0a71a1-20ef-4c6f-975d-d31e91486441",
-      "news": {
-        "evidence": [
-          {
-            "url": "",
-            "snapshot": "",
-            "title": "",
-            "dateline": ""
-          }
-        ]
-      },
-      "updated": 1462872494,
-      "address": "",
-      "created": 1462872494,
-      "province": "上海",
       "url": [
         ""
       ],
-      "type": "民营医院",
-      "note": "",
-      "city": "上海",
       "principal": "",
-      "shareholder": [
+      "address": "上海市松江区人民南路（阔街）55号"
+    },
+    "上海曙康口腔医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
         ""
       ],
       "dataversion": "draft1",
-      "comments": {
-        "evidence": [
-          {
-            "url": "",
-            "snapshot": "",
-            "title": "",
-            "dateline": ""
-          }
-        ]
-      },
-      "USID": ""
-    },
-    "上海中亚医院": {
-      "name": "上海中亚医院",
       "putian": {
+        "confirm": "Yes",
         "evidence": [
           {
-            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "title": "基维百科",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T15:03:11.946Z - "
-          }
-        ],
-        "confirm": "Yes"
-      },
-      "baiduad": {},
-      "phone": [
-        "400-8251-666"
-      ],
-      "id": "8d8e6377-b7d5-4432-878c-414540298b5c",
-      "news": {
-        "evidence": [
-          {
+            "snapshot": "http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.8786j0j4",
             "url": "http://tech.qq.com/a/20160501/017681.htm",
-            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60.6766j0j7&sourceid=chrome&ie=UTF-8",
             "title": "腾讯科技",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T15:03:43.562Z - "
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:36:21.760Z - "
           }
         ]
       },
-      "updated": 1462892847,
-      "address": "上海市嘉定区嘉定镇嘉丰路35号",
-      "created": 1462892847,
-      "principal": "李金同",
-      "province": "上海",
-      "url": [
-        "http://www.bhjchouse.com/"
-      ],
-      "type": "民营医院",
-      "note": "",
-      "city": "上海",
+      "created": 1462891002,
       "location": {
-        "lat": "31.373032",
-        "lng": "121.2351832"
+        "lng": "121.4764833",
+        "lat": "31.222935"
       },
       "shareholder": [
-        "李金山",
-        "李金同",
-        "上海美中安和医疗控股（集团）有限公司"
-      ],
-      "dataversion": "draft1",
-      "comments": {
-        "evidence": [
-          {
-            "url": "",
-            "snapshot": "",
-            "title": "",
-            "dateline": ""
-          }
-        ]
-      },
-      "USID": "913101147465072896"
-    },
-    "上海同德医院": {
-      "name": "上海同德医院",
-      "putian": {
-        "evidence": [
-          {
-            "url": "https://zh.wikipedia.org/zh/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "snapshot": "https://zh.wikipedia.org/zh/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "title": "维基百科",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:47:33.127Z - "
-          }
-        ],
-        "confirm": "Yes"
-      },
-      "baiduad": {},
-      "phone": [
-        "021-69229050"
-      ],
-      "id": "565eddee-c58b-4671-806b-4927efe7e8aa",
-      "news": {
-        "evidence": [
-          {
-            "url": "http://tech.qq.com/a/20160501/017681.htm",
-            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60l3.2910j0j4&sourceid=chrome&ie=UTF-8",
-            "title": "腾讯科技",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:48:55.417Z - "
-          }
-        ]
-      },
-      "updated": 1463043040,
-      "address": "上海市青浦区盈港路1006号",
-      "created": 1463043040,
-      "principal": "",
-      "province": "上海",
-      "url": [
-        "http://www.shtdyy.com/"
+        ""
       ],
       "type": "",
-      "note": "",
-      "city": "上海",
-      "location": {
-        "lat": "31.1612303",
-        "lng": "121.1056037"
-      },
-      "shareholder": [
-        ""
-      ],
-      "dataversion": "draft1",
-      "comments": {
-        "evidence": [
-          {
-            "url": "http://www.dianping.com/shop/3498982/review_more_flower",
-            "snapshot": "http://www.dianping.com/shop/3498982/review_more_flower",
-            "title": "大众点评",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:50:38.427Z - "
-          }
-        ]
-      },
-      "USID": ""
-    },
-    "上海圣爱医院": {
-      "name": "上海圣爱医院",
-      "putian": {
-        "evidence": [
-          {
-            "url": "https://zh.wikipedia.org/zh/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "snapshot": "https://zh.wikipedia.org/zh/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "title": "维基百科",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:55:18.525Z - "
-          }
-        ],
-        "confirm": "Yes"
-      },
-      "baiduad": {},
-      "phone": [
-        "021-69521000"
-      ],
-      "id": "ef6556ac-74a7-4bfb-b2e8-97122146ce8a",
       "news": {
         "evidence": [
           {
-            "url": "http://tech.qq.com/a/20160501/017681.htm",
-            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60l3.2910j0j4&sourceid=chrome&ie=UTF-8",
-            "title": "腾讯科技",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T09:00:49.919Z - "
+            "snapshot": "",
+            "url": "",
+            "title": "",
+            "dateline": ""
           }
         ]
       },
-      "updated": 1463043652,
-      "address": "中国上海市嘉定区群裕路60号",
-      "created": 1463043652,
-      "principal": "",
       "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "",
+            "url": "",
+            "title": "",
+            "dateline": ""
+          }
+        ]
+      },
+      "id": "93ba05a8-2157-46c9-a5b3-faf8a7630e83",
+      "updated": 1462891002,
+      "USID": "",
+      "name": "上海曙康口腔医院",
+      "baiduad": {},
       "url": [
-        "http://www.shsayy.com/"
+        ""
+      ],
+      "principal": "",
+      "address": "上海市卢湾区普安路185号"
+    },
+    "上海真美妇科医院": {
+      "city": "上海",
+      "note": "",
+      "phone": [
+        "021-55099999",
+        "17091958466"
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:18:28.557Z - "
+          }
+        ]
+      },
+      "created": 1463552854,
+      "location": {
+        "lng": "121.5356756",
+        "lat": "31.2648233"
+      },
+      "shareholder": [
+        "沈雪峰",
+        "卓国勇",
+        "黄开飞",
+        "吴元良"
       ],
       "type": "民营医院",
-      "note": "",
-      "city": "上海",
-      "location": {
-        "lat": "31.3720062",
-        "lng": "121.2517713"
-      },
-      "shareholder": [
-        ""
-      ],
-      "dataversion": "draft1",
-      "comments": {
-        "evidence": [
-          {
-            "url": "",
-            "snapshot": "",
-            "title": "",
-            "dateline": ""
-          }
-        ]
-      },
-      "USID": ""
-    },
-    "上海安真医院 口腔科 / 上海旭邦医院投资管理有限公司": {
-      "name": "上海安真医院 口腔科 / 上海旭邦医院投资管理有限公司",
-      "putian": {},
-      "baiduad": {},
-      "phone": [
-        ""
-      ],
-      "id": "9f188d46-f9e3-4681-bf1f-3592c58e3435",
       "news": {
         "evidence": [
           {
-            "url": "",
-            "snapshot": "",
-            "title": "",
-            "dateline": ""
+            "snapshot": "http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.6201j0j7&bav=on.2,or.r_cp.&bvm=bv.122448493,d.cGc&biw=1438&bih=715&dpr=2&ech=1&psi=1OQ7V-vcN47YjwPHgpSACA.1463542998782.3&ei=1OQ7V-vcN47YjwPHgpSACA&emsg=NCSR&noj=1",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:21:57.559Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.cqn.com.cn%2Fnews%2Fwqpd%2Fwqxw%2F306685.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.cqn.com.cn%2Fnews%2Fwqpd%2Fwqxw%2F306685.html&aqs=chrome..69i57j69i58.2061j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.cqn.com.cn/news/wqpd/wqxw/306685.html",
+            "title": "上海通报违法发布医疗广告机构 涉及古美医院、宏康医院",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:21:57.559Z - "
           }
         ]
       },
-      "updated": 1462834738,
-      "address": "上海市松江区人民南路39号",
-      "created": 1462834738,
-      "principal": "李劲松",
       "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "http://blog.sina.com.cn/s/blog_160c4c8200102w6ep.html",
+            "url": "http://blog.sina.com.cn/s/blog_160c4c8200102w6ep.html",
+            "title": "新浪博客(上海真美妇科医院太黑了，骗钱一流，大家别被坑了！)",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:24:29.265Z - "
+          },
+          {
+            "snapshot": "http://www.dianping.com/shop/65613292/review_more",
+            "url": "http://www.dianping.com/shop/65613292/review_more",
+            "title": "大众点评",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:24:29.265Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fqiye.zhujiangw.cn%2Fweiquanshikong%2Fjizhediaocha%2F1327991583.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fqiye.zhujiangw.cn%2Fweiquanshikong%2Fjizhediaocha%2F1327991583.html&aqs=chrome..69i57j69i58.2807j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://qiye.zhujiangw.cn/weiquanshikong/jizhediaocha/1327991583.html",
+            "title": "上海真美妇科医院是很差的一家私人医院，真...",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:24:29.265Z - "
+          },
+          {
+            "snapshot": "http://www.g5k6.com/88127.html",
+            "url": "http://www.g5k6.com/88127.html",
+            "title": "上海真美妇科医院骗子医院欺诈收费",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:24:29.265Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-free-5463486-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-free-5463486-1.shtml&aqs=chrome..69i57j69i58.2030j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://bbs.tianya.cn/post-free-5463486-1.shtml",
+            "title": "天涯论坛",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:24:29.265Z - "
+          }
+        ]
+      },
+      "id": "c438b799-5494-484b-8a52-5fdf39e270f7",
+      "updated": 1463552854,
+      "USID": "9131011077577946XD",
+      "name": "上海真美妇科医院",
+      "baiduad": {},
       "url": [
-        "http://xubang.fnkq.com/"
+        "http://www.giivi.com/",
+        "http://www.zdia.net/"
       ],
-      "type": "外包科室",
-      "note": "工商局信息显示上海旭邦医院投资管理有限公司状态为 吊销，未注销状态。安真医院无网站，旭邦医院网站数年未更新。和莆田系关系不明。",
+      "principal": "沈雪峰",
+      "address": "上海市杨浦区宁国路313弄263、265、267号1-3层"
+    },
+    "上海阿波罗男子医院": {
       "city": "上海",
+      "note": "",
+      "phone": [
+        "021-63731722"
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:41:02.844Z - "
+          }
+        ]
+      },
+      "created": 1463449559,
       "location": {
-        "lat": "31.003154",
-        "lng": "121.229016"
+        "lng": "121.4845453",
+        "lat": "31.2117873"
+      },
+      "shareholder": [
+        "吴剑煌",
+        "陈志强",
+        "林国彪"
+      ],
+      "type": "",
+      "news": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.7055j0j7&bav=on.2,or.r_cp.&bvm=bv.122129774,d.cGc&biw=1438&bih=711&dpr=2&ech=1&psi=-m86V5rwBI2ujwPSgYS4Bg.1463447549083.3&ei=-m86V5rwBI2ujwPSgYS4Bg&emsg=NCSR&noj=1",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:41:41.217Z - "
+          }
+        ]
+      },
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fqiye.zhujiangw.cn%2Fweiquanshikong%2Fjizhediaocha%2F1326700732.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fqiye.zhujiangw.cn%2Fweiquanshikong%2Fjizhediaocha%2F1326700732.html&aqs=chrome..69i57j69i58.6426j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://qiye.zhujiangw.cn/weiquanshikong/jizhediaocha/1326700732.html",
+            "title": "上海阿波罗男子医院黑医院",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:44:46.813Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.gzeveningpaperi.com%2F2%2F4%2F107462.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.gzeveningpaperi.com%2F2%2F4%2F107462.html&aqs=chrome..69i57j69i58.7663j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.gzeveningpaperi.com/2/4/107462.html",
+            "title": "上海阿波罗男子医院是黑医院3天6000黑医院 骗子医院",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:44:46.813Z - "
+          },
+          {
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.heblife.com%2Fthread-12656-1-1.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.heblife.com%2Fthread-12656-1-1.html&aqs=chrome..69i57j69i58.2190j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://www.heblife.com/thread-12656-1-1.html",
+            "title": "上海阿波罗医院怎么样?网友多起投诉小病大治",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-17T01:44:46.813Z - "
+          }
+        ]
+      },
+      "id": "869afb67-9ae5-42e3-ad71-d9768c9d072a",
+      "updated": 1463449559,
+      "USID": "9131010178475570XN",
+      "name": "上海阿波罗男子医院",
+      "baiduad": {},
+      "url": [
+        "http://www.mens120.com/"
+      ],
+      "principal": "栗豪",
+      "address": "上海黄浦区陆家浜路1283号"
+    },
+    "上海安真医院 口腔科 / 上海旭邦医院投资管理有限公司": {
+      "city": "上海",
+      "note": "工商局信息显示上海旭邦医院投资管理有限公司状态为 吊销，未注销状态。安真医院无网站，旭邦医院网站数年未更新。和莆田系关系不明。",
+      "phone": [
+        ""
+      ],
+      "dataversion": "draft1",
+      "putian": {},
+      "created": 1462834738,
+      "location": {
+        "lng": "121.229016",
+        "lat": "31.003154"
       },
       "shareholder": [
         "吕刚",
         "李劲松"
       ],
-      "dataversion": "draft1",
-      "comments": {
-        "evidence": [
-          {
-            "url": "",
-            "snapshot": "",
-            "title": "",
-            "dateline": ""
-          }
-        ]
-      },
-      "USID": "3102262054792"
-    },
-    "上海市浦东新区传染病医院": {
-      "name": "上海市浦东新区传染病医院",
-      "putian": {
-        "evidence": [
-          {
-            "url": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "snapshot": "https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB",
-            "title": "维基百科",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:17:40.786Z - "
-          }
-        ],
-        "confirm": "Yes"
-      },
-      "baiduad": {},
-      "phone": [
-        "021-20256638",
-        "021-20256639"
-      ],
-      "id": "4ec198c4-4491-4e4b-b1d7-0b3be12a826e",
+      "type": "外包科室",
       "news": {
         "evidence": [
           {
-            "url": "",
             "snapshot": "",
+            "url": "",
             "title": "",
             "dateline": ""
           }
         ]
       },
-      "updated": 1462890540,
-      "address": "上海市浦东新区张衡路528号",
-      "created": 1462890540,
-      "principal": "",
       "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "",
+            "url": "",
+            "title": "",
+            "dateline": ""
+          }
+        ]
+      },
+      "id": "9f188d46-f9e3-4681-bf1f-3592c58e3435",
+      "updated": 1462834738,
+      "USID": "3102262054792",
+      "name": "上海安真医院 口腔科 / 上海旭邦医院投资管理有限公司",
+      "baiduad": {},
       "url": [
-        "http://www.sgyy.cn/cn/index/"
+        "http://xubang.fnkq.com/"
       ],
-      "type": "",
-      "note": "",
+      "principal": "李劲松",
+      "address": "上海市松江区人民南路39号"
+    },
+    "上海圣爱医院": {
       "city": "上海",
+      "note": "",
+      "phone": [
+        "021-69521000"
+      ],
+      "dataversion": "draft1",
+      "putian": {
+        "confirm": "Yes",
+        "evidence": [
+          {
+            "snapshot": "https://zh.wikipedia.org/zh/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "url": "https://zh.wikipedia.org/zh/%E8%8E%86%E7%94%B0%E7%B3%BB",
+            "title": "维基百科",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:55:18.525Z - "
+          }
+        ]
+      },
+      "created": 1463043652,
       "location": {
-        "lat": "31.186433",
-        "lng": "121.591843"
+        "lng": "121.2517713",
+        "lat": "31.3720062"
       },
       "shareholder": [
         ""
       ],
-      "dataversion": "draft1",
-      "comments": {
+      "type": "民营医院",
+      "news": {
         "evidence": [
           {
-            "url": "http://www.dianping.com/shop/2392477/review_more_grade",
-            "snapshot": "http://imgur.com/a/Yzf5W",
-            "title": "大众点评",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:28:27.710Z - "
-          },
-          {
-            "url": "http://www.dianping.com/shop/2392477/review_more_grade",
-            "snapshot": "http://imgur.com/a/Yzf5W",
-            "title": "大众点评",
-            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-10T14:28:20.296Z - "
+            "snapshot": "http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60l3.2910j0j4&sourceid=chrome&ie=UTF-8",
+            "url": "http://tech.qq.com/a/20160501/017681.htm",
+            "title": "腾讯科技",
+            "dateline": "GithubOpenPowerProgrammer, OpenPower, 2016-05-12T09:00:49.919Z - "
           }
         ]
       },
-      "USID": ""
+      "province": "上海",
+      "comments": {
+        "evidence": [
+          {
+            "snapshot": "",
+            "url": "",
+            "title": "",
+            "dateline": ""
+          }
+        ]
+      },
+      "id": "ef6556ac-74a7-4bfb-b2e8-97122146ce8a",
+      "updated": 1463043652,
+      "USID": "",
+      "name": "上海圣爱医院",
+      "baiduad": {},
+      "url": [
+        "http://www.shsayy.com/"
+      ],
+      "principal": "",
+      "address": "中国上海市嘉定区群裕路60号"
     }
-  },
-  "info": {
-    "version": "draft1",
-    "date": "2016年05月16日",
-    "license": "https://github.com/open-power-workgroup/Hospital/blob/master/open_data_usage_license.md"
   }
 }

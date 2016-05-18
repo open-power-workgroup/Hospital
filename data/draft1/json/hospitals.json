@@ -1,13 +1,25 @@
 {
+  "info": {
+    "license": "https://github.com/open-power-workgroup/Hospital/blob/master/open_data_usage_license.md",
+    "date": "2016年05月18日",
+    "version": "draft1"
+  },
   "data": {
+    "四川": {
+      "json_filename": "sichuan.json",
+      "pinyin": "sichuan"
+    },
+    "重庆": {
+      "json_filename": "chongqing.json",
+      "pinyin": "chongqing"
+    },
     "上海": {
       "json_filename": "shanghai.json",
       "pinyin": "shanghai"
+    },
+    "北京": {
+      "json_filename": "beijing.json",
+      "pinyin": "beijing"
     }
-  },
-  "info": {
-    "version": "draft1",
-    "date": "2016年05月16日",
-    "license": "https://github.com/open-power-workgroup/Hospital/blob/master/open_data_usage_license.md"
   }
 }
