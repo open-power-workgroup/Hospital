@@ -252,19 +252,19 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
  - 网址 http://www.mary120.cn/
  - 网址 http://www.shmary.cn/
  - 地址 上海市青浦区公园路380号
-- 上海真爱(整形美容)医院
+- 上海真爱(整形美容)医院 [官网变了]
  - 电话 021-62269000
  - 网址 http://www.shzhenai.com/
  - 用户反馈 [患者1](http://www.kobeei.com/lc/31713.html)
  - 用户反馈 [Google缓存](http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&oq=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.4678j0j4)
-- 上海沪申五官科医院
+- 上海沪申五官科医院 [done]
  - 电话 021-54305338
  - 网址 http://www.hs5g.com
-- 上海远大心胸医院(号称上海心脏病医院)
+- 上海远大心胸医院(号称上海心脏病医院) [done]
  - 电话 021-64829999
  - 网址 http://www.yodak.net/
  - 地址 上海市徐汇区龙漕路218号
-- 上海仁爱医院
+- 上海仁爱医院 [done]
  - 电话 021-64688888
  - 网址 http://www.renai.cn/
  - 网址 http://en.renai.cn/
@@ -273,7 +273,7 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
  - 电话 021 -64080808
  - 网址 http://www.tida.sh.cn
  - 网址 http://www.tida120.com
-- 上海五官科医院(注:这个隶属深圳博爱医疗集团，非汾阳路的复旦大学附属眼耳鼻喉科医院/上海市五官科医院) （复旦大学附属眼耳鼻喉科医院/上海市五官科医院是卫计委直属公立三甲医院，此条目仅一字之差，容易混淆。目前百度搜索上海五官科医院也是导向到复旦大学附属眼耳鼻喉科医院/上海市五官科医院）院方申明 www.fdeent.org/content/4408
+- 上海五官科医院(注:这个隶属深圳博爱医疗集团，非汾阳路的复旦大学附属眼耳鼻喉科医院/上海市五官科医院) （复旦大学附属眼耳鼻喉科医院/上海市五官科医院是卫计委直属公立三甲医院，此条目仅一字之差，容易混淆。目前百度搜索上海五官科医院也是导向到复旦大学附属眼耳鼻喉科医院/上海市五官科医院）院方申明 www.fdeent.org/content/4408 [这个资料不好找]
  - 网址 http://www.er021.com
  - 相关资料 百度搜索关键词"上海五官科医院 上海沪申五官科医院",可以直接看到搜索结果把两者混淆
 - 上海博爱医院（是否属于莆田系存在争议，请继续求证）[done]
