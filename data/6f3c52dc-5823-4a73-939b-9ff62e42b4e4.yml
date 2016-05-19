@@ -1,0 +1,42 @@
+dataversion: draft1
+created: 1463626946
+updated: 1463626946
+id: 6f3c52dc-5823-4a73-939b-9ff62e42b4e4
+USID: 91310115667779964K
+name: 上海福华医院
+city: 上海
+province: 上海
+address: 上海市浦东新区惠南镇城南路98号
+type: 民营医院
+location:
+  lat: '31.03993'
+  lng: '121.746776'
+principal: 张晓鹏
+shareholder:
+  - 上海维康投资管理有限公司
+url:
+  - ''
+phone:
+  - 021-51961999
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cach&aqs=chrome.0.69i59l3j69i57j0l2.1668j0j7&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T03:00:41.016Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T03:00:30.731Z - '
+comments:
+  evidence:
+    - url: 'http://www.dianping.com/shop/3496444'
+      title: 大众点评用户
+      snapshot: 'http://www.dianping.com/shop/3496444'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T03:02:25.151Z - '
+note: ''
