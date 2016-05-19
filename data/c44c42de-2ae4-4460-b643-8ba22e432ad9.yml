@@ -1,0 +1,58 @@
+dataversion: draft1
+created: 1463624159
+updated: 1463624159
+id: c44c42de-2ae4-4460-b643-8ba22e432ad9
+USID: ''
+name: 上海远大心胸医院
+city: 上海
+province: 上海
+address: 上海市徐汇区龙漕路218号
+type: 民营医院
+location:
+  lat: '31.169674'
+  lng: '121.442313'
+principal: ''
+shareholder:
+  - ''
+url:
+  - 'http://www.yodak.net/'
+phone:
+  - 400-677-0366
+  - 021-64829999
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cach&aqs=chrome.0.69i59l3j69i57j0l2.1668j0j7&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T02:13:40.040Z - '
+    - url: 'http://www.xinshicy.com/shyf/778.html'
+      title: 上海远大心胸医院被网友举报虚假宣传_新事网
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.xinshicy.com%2Fshyf%2F778.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.xinshicy.com%2Fshyf%2F778.html&aqs=chrome..69i57j69i58.3457j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T02:13:40.040Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T02:11:12.167Z - '
+comments:
+  evidence:
+    - url: 'http://wenda.tianya.cn/question/6000e30d3186817d'
+      title: 天涯问答
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwenda.tianya.cn%2Fquestion%2F6000e30d3186817d&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwenda.tianya.cn%2Fquestion%2F6000e30d3186817d&aqs=chrome..69i57j69i58.2133j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T02:12:53.614Z - '
+    - url: 'http://www.dianping.com/shop/2845399/review_more_1star'
+      title: 大众点评1星用户
+      snapshot: 'http://www.dianping.com/shop/2845399/review_more_1star'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T02:12:53.614Z - '
+    - url: 'http://blog.sina.com.cn/s/blog_697850fb0100tpyc.html'
+      title: 新浪博客用户
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fblog.sina.com.cn%2Fs%2Fblog_697850fb0100tpyc.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fblog.sina.com.cn%2Fs%2Fblog_697850fb0100tpyc.html&aqs=chrome..69i57j69i58.1957j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T02:12:53.614Z - '
+note: '可能医院改名字了，没有找到上海远大心胸医院的企业信息,但是微博和微信公众号认证用的都是上海远大心胸医院'
