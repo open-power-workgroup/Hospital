@@ -1,0 +1,48 @@
+dataversion: draft1
+created: 1463627412
+updated: 1463627412
+id: d5557f5c-b697-43d6-bf28-c66e63b410dc
+USID: ''
+name: 上海安真医院
+city: 上海
+province: 上海
+address: 中国上海市松江区松江人民南路人民南路39之10-11
+type: 民营医院
+location:
+  lat: '31.00309'
+  lng: '121.228619'
+principal: ''
+shareholder:
+  - ''
+url:
+  - ''
+phone:
+  - 021-57711006
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cach&aqs=chrome.0.69i59l3j69i57j0l2.1668j0j7&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T03:08:32.271Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T03:07:52.910Z - '
+comments:
+  evidence:
+    - url: 'http://www.aishangshouer.com/m2ytm/jvgr/20160513/5539.html'
+      title: 上海安真医院骗子医院！上海安真医院黑医院！不要上当！
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.aishangshouer.com%2Fm2ytm%2Fjvgr%2F20160513%2F5539.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.aishangshouer.com%2Fm2ytm%2Fjvgr%2F20160513%2F5539.html&aqs=chrome..69i57j69i58.2311j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T03:10:07.086Z - '
+    - url: 'http://bbs.tianya.cn/post-41-751455-1.shtml'
+      title: 天涯广告
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-751455-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-751455-1.shtml&aqs=chrome..69i57j69i58j69i60.6647j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T03:10:07.086Z - '
+note: ''
