@@ -210,7 +210,7 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
 [](hospital list begin //PLEASE DO NOT DELETE THIS LINE)
 ## 上海
 
-- 上海市闵行区中医医院（原上海莱茵医院）
+- 上海市闵行区中医医院（原上海莱茵医院）[done]
  - 电话 021-51876888
  - 网址 http://www.tcmmh.com
  - 地址 上海市闵行区合川路3071号
@@ -219,7 +219,7 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
      - [ 全国企业信用信息系统](https://m.imgur.com/ADiokDn)显示： 上海西红柿投资控股有限公司的法定代表人是陈金秀，自然人股东包括：李爱兰和陈金秀。
      -  [谷歌缓存页面](https://webcache.googleusercontent.com/search?q=cache:D5otmZNe-wMJ:www.ptshsh.com/index.php%3Fm%3Dcms%26q%3Dview%26id%3D33+&cd=1&hl=en&ct=clnk&lr=lang_en%7Clang_zh-CN%7Clang_zh-TW)显示（这是谷歌对[上海市莆田商会](http://www.ptshsh.com/)网页的缓存），陈金秀是上海市莆田商会名誉会长，籍贯：秀屿区东庄镇
      -  通过“[上海市企业注册登记信息公开](http://www.sgs.gov.cn/lz/etpsInfo.do?method=index)”地址[查询显示](https://imgur.com/wUqEpMU)，上海莱茵医院有限公司于今年四月二十八日注销。该公司法定代表人为林一平。
-- 上海华美医疗美容医院
+- 上海华美医疗美容医院 [done]
  - 电话 021-58856655
  - 电话 400-8806580
  - 网址 http://www.shhuamei.cn
@@ -228,7 +228,7 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
      - 工信部备案信息，主办单位：上海华美医疗美容医院有限公司；网站负责人：蔡智俊；备案许可证号：沪ICP备13030768号-1   
      - 上海企业信息登记注册公开查询信息，上海华美医疗美容医院有限公司法定代表人：雷启龙；自然人股东：洪玲燕，黄志佳
      -  黄志佳相关信息：[莆田青年发展促进会（珠海）第三次交流会顺利召开](http://zonghui.hxyjw.com/show-146921)，（[中国）健康产业总会上海分会筹备大会在沪胜利召开 - 上海市莆田商会](https://www.google.com/search?hl=en&q=%E9%BB%84%E5%BF%97%E4%BD%B3+site%3Awww.ptshsh.com#newwindow=1&hl=en&q=%E9%BB%84%E5%BF%97%E4%BD%B3+site:ptshsh.com)。 （请进一步求证。）
-- 上海万众医院
+- 上海万众医院 [done]
  - 电话 400-8892218
  - 网址 http://www.wz120.cc/
  - 地址 上海市徐汇区吴中路2号
@@ -239,15 +239,15 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
      - 用户反馈 [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716_397644.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fhealth.dahe.cn%2Fyypj%2Fyhb%2F201207%2Ft20120716_397644.html&aqs=chrome..69i57j69i58.4789j0j4&sourceid=chrome&ie=UTF-8)
      - 用户反馈 [天涯网友](http://bbs.tianya.cn/post-41-943030-1.shtml)
      - 用户反馈 [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&aqs=chrome..69i57j69i58.2551j0j4&sourceid=chrome&ie=UTF-8)
-- 上海安真医院
+- 上海安真医院 [done]
  - 电话 021-57711006
  - 地址 上海市松江区人民南路39号
  - 用户反馈 [天涯广告](http://bbs.tianya.cn/post-41-751455-1.shtml)
  - 用户反馈 [Google缓存](http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-751455-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-751455-1.shtml&aqs=chrome..69i57j69i58.2326j0j4&sourceid=chrome&ie=UTF-8)
-- 上海福华医院
+- 上海福华医院 [done]
  - 电话 021-51961999
  - 地址 上海市浦东新区惠南镇城南路98号
-- 上海玛丽女子医院
+- 上海玛丽女子医院 [done]
  - 电话 021-69726299
  - 网址 http://www.mary120.cn/
  - 网址 http://www.shmary.cn/
