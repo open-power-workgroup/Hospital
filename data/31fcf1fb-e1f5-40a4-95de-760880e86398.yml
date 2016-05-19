@@ -1,0 +1,45 @@
+dataversion: draft1
+created: 1463626268
+updated: 1463626268
+id: 31fcf1fb-e1f5-40a4-95de-760880e86398
+USID: '310229001319929'
+name: 上海玛丽医院
+city: 上海
+province: 上海
+address: 上海市青浦区公园路372、376、380、390号
+type: 民营医院
+location:
+  lat: '31.148889'
+  lng: '121.118764'
+principal: 陈国太
+shareholder:
+  - 陈国太
+  - 北京民众医院投资管理有限责任公司
+url:
+  - 'http://www.mary120.cn/index.html'
+  - 'http://www.shmary.cn/'
+phone:
+  - 021-69726088
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cach&aqs=chrome.0.69i59l3j69i57j0l2.1668j0j7&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T02:50:12.613Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T02:47:29.079Z - '
+comments:
+  evidence:
+    - url: 'http://www.mzd888.cn/lxqg/201605/9614.html'
+      title: 莆田系上海玛丽女子医院双眼皮眼角失败
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.mzd888.cn%2Flxqg%2F201605%2F9614.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.mzd888.cn%2Flxqg%2F201605%2F9614.html&aqs=chrome..69i57j69i58.2522j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T02:51:05.920Z - '
+note: ''
