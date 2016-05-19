@@ -1,0 +1,43 @@
+dataversion: draft1
+created: 1463620107
+updated: 1463620107
+id: 544583ee-c558-495d-a92f-7ffd7e05117b
+USID: ''
+name: 深圳中仁泌尿外科医院
+city: 深圳
+province: 广东
+address: 深圳市龙华新区龙华办事处工业西路97号
+type: 民营医院
+principal: 林国金
+shareholder:
+  - ''
+url:
+  - 'http://yyk.99.com.cn/baoan/105761/'
+phone:
+  - '4008669999'
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: >-
+        http://szcredit.com.cn/web/gspt/newGSPTDetail3.aspx?ID=fdc9ca483af345c093af7b624e76764f
+      title: 深圳中仁泌尿外科医院有限公司
+      snapshot: 'http://imgur.com/5PiBr6e'
+      dateline: ''
+    - url: 'http://www.ptws.com.cn/DoctorBrief/48870580140.shtml'
+      title: 莆田市卫生综合服务网－专家介绍
+      snapshot: 'http://imgur.com/PdDIwHo'
+      dateline: ''
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''
