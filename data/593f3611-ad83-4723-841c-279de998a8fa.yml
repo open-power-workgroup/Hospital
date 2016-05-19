@@ -1,0 +1,32 @@
+dataversion: draft1
+created: 1463650969
+updated: 1463650969
+id: 593f3611-ad83-4723-841c-279de998a8fa
+USID: ''
+name: 四川绵阳美康医院
+city: 绵阳
+province: 四川
+address: 绵阳市火车客站荷花北街11号
+type: 民营医院
+principal: ''
+shareholder:
+  - ''
+url:
+  - ''
+phone:
+  - ''
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian: {}
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''
