@@ -1,0 +1,32 @@
+dataversion: draft1
+created: 1463619705
+updated: 1463619705
+id: e5e04698-2a6a-4a49-a14e-f80f9c4cad8e
+USID: ''
+name: 东莞玛丽亚妇产医院
+city: 东莞
+province: 广东
+address: 东莞南城莞太大道(广彩城酒店旁)
+type: 民营医院
+principal: ''
+shareholder:
+  - ''
+url:
+  - 'http://www.dgmaria.cn/'
+phone:
+  - 0769-22993333
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian: {}
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''
