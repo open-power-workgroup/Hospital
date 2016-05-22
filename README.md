@@ -1,5 +1,7 @@
 ## [Readme (English)](README_en.md)
 
+[![Join the chat at https://gitter.im/open-power-workgroup/Hospital](https://badges.gitter.im/open-power-workgroup/Hospital.svg)](https://gitter.im/open-power-workgroup/Hospital?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # 这是什么？
 
 本项目的意图是收集汇总与国内一些医疗机构有关的开放数据，供广大寻医问药的患者及家属参考。
