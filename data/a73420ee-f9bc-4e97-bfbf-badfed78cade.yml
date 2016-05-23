@@ -1,0 +1,40 @@
+dataversion: draft1
+created: 1463995323
+updated: 1463995323
+id: a73420ee-f9bc-4e97-bfbf-badfed78cade
+USID: '913101016916142110'
+name: 上海医博肛泰医院
+city: 上海
+province: 上海
+address: 上海市黄浦区斜土路105号
+type: 民营医院
+principal: 吴鸿龙
+shareholder:
+  - 吴丽清
+  - 吴鸿龙
+url:
+  - 'http://www.021gc.com/'
+  - 'http://wwvv.021gc.net/'
+phone:
+  - 021-51575999
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''
