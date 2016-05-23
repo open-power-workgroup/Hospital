@@ -254,11 +254,21 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
  - 网址 http://www.mary120.cn/
  - 网址 http://www.shmary.cn/
  - 地址 上海市青浦区公园路380号
-- 上海真爱(整形美容)医院 [官网变了]
+- 上海真爱女子(整形美容)医院 
  - 电话 021-62269000
- - 网址 http://www.shzhenai.com/
- - 用户反馈 [患者1](http://www.kobeei.com/lc/31713.html)
- - 用户反馈 [Google缓存](http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&oq=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.4678j0j4)
+ - 电话 400-880-5522
+ - 电话 4006-006-530
+ - 网址 http://www.shzhenai.com/[官网变了]
+ - 网址 http://shzhenai.sh.aimeicity.com/
+ - 网址 http://www.shzazx.com/
+ - 地址 上海市长宁区延安西路934号
+ - 证据：
+       - [全国企业信用信息公示系统（上海）查询显示](http://gsxt.sh.gov.cn/notice/notice/view?uuid=VgYaGdm2x7m2TX3HMu48BqySPopYlbbA&tab=01)， 自然人股东包括：林国瑞，林国彪，林宗金，苏荣华，上海亿豪医疗器械有限公司(法定代表人：林国雄-[莆田（中国）健康产业总会副理事长](http://weibo.com/ttarticle/p/show?id=2309351000123970977124987204))。公司名称：上海真爱医院有限公司；公司地址：上海市长宁区延安西路934号
+       - 林宗金为莆田系参见[广东省福建莆田商会网页信息](http://www.gdptsh.com/shanghuihuiyuan/714.html)：广东省福建莆田商会名誉会长、南京市莆田商会会长、江苏华世伟业投资股份有限公司董事长。香港华世伟业集团、江苏华世伟业投资股份有限公司是一家以医疗产业、高新产业投资为主的大中型现代化企业集团。
+       - 林国瑞为莆田系参见新闻“[林国瑞、陈国兴受邀参加法国领事馆国庆晚宴](http://zonghui.hxyjw.com/show-140304)”： 莆田（中国）健康产业总会常务副会长、时光-施尔美集团董事长
+       - 林国彪为莆田系参见新闻"[莆田（中国）健康产业总会成立](http://zonghui.hxyjw.com/show-150693)": 常务副组长：林国彪。
+       - 用户反馈 [患者1](http://www.kobeei.com/lc/31713.html)
+       - 用户反馈 [Google缓存](http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&oq=cache%3A%2F%2Fwww.kobeei.com%2Flc%2F31713.html&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.4678j0j4)
 - 上海沪申五官科医院 [done]
  - 电话 021-54305338
  - 网址 http://www.hs5g.com
