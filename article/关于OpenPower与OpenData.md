@@ -1,6 +1,6 @@
 # 借助开放的力量，构造更可信赖的未来
 
-_With open power, build more trusted future._
+_With open power, build more trusted future._
 
 作为IT行业的从业者，我们都非常熟悉开源操作系统：**Linux**，也都听说过著名的[Linus's Law](https://en.wikipedia.org/wiki/Linus's_Law)： “given enough eyeballs, all bugs are shallow”。如果翻译成非技术形式的中文，也许应该是：“众目睽睽之下，害虫无所遁形”。
 
