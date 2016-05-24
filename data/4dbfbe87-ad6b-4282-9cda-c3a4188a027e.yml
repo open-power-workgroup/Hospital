@@ -1,0 +1,44 @@
+dataversion: draft1
+created: 1463576867
+updated: 1463576867
+id: 4dbfbe87-ad6b-4282-9cda-c3a4188a027e
+USID: '110108013349359'
+name: 北京艾丽斯妇科医院
+city: 北京
+province: 北京
+address: 北京市海淀区北四环西路9号-1
+type: 民营医院
+principal: 赵平安
+shareholder:
+  - 林美连
+  - 北京英才医院管理有限公司
+url:
+  - 'http://www.fuke120.cn/'
+phone:
+  - 010-62800867
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://money.163.com/16/0329/09/BJAIJCRK00253B0H.html'
+      title: 艾丽斯妇科医院被疑过度医疗 手术价格相差十倍
+      snapshot: 'http://i.imgur.com/22Em4GB.png'
+      dateline: ''
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: >-
+        http://qyxy.baic.gov.cn/gjjbj/gjjQueryCreditAction!openEntInfo.dhtml?entId=F1D83577396A4A8CBD5711CB38ACD69E&credit_ticket=5CDA7730DB5863DED6B61FBD2E1445CA&entNo=110102009046944&timeStamp=1463576531192
+      title: 北京英才医院管理有限公司
+      snapshot: 'http://i.imgur.com/4IBdHYT.png'
+      dateline: ''
+    - url: 'http://www.gdptsh.com/shanghuihuiyuan/712.html'
+      title: 名誉会长 林金宗
+      snapshot: 'http://i.imgur.com/3439Xjk.png'
+      dateline: ''
+comments:
+  evidence:
+    - url: 'http://ask.yaolan.com/question/15112409310913796432.html'
+      title: 北京艾丽斯妇科医院黑吗？这个医院怎么样，求解啊。
+      snapshot: 'http://i.imgur.com/mueyRMY.png'
+      dateline: ''
+note: ''

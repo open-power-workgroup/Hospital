@@ -1,0 +1,65 @@
+dataversion: draft1
+created: 1462849918
+updated: 1462849918
+id: 4d7702d3-fe24-463d-9b02-fb330b990cdd
+USID: 91310109681013594D
+name: 上海天伦医院
+city: 上海
+province: 上海
+address: 上海市虹口区凉城路545号
+type: 民营医院
+location:
+  lat: '31.290862'
+  lng: '121.470761'
+principal: 丁光燕
+shareholder:
+  - 上海渝协投资管理有限公司
+url:
+  - 'http://www.shtl120.com/'
+  - 'http://www.sh-byby.org/'
+  - 'http://www.shtlyy.com/'
+  - 'http://www.shtianlun.org/'
+  - 'http://www.tianlun100.com/'
+phone:
+  - 021-65667633
+  - 021-65259999
+  - '+9864006660102'
+  - 021-55158829
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'http://news.sina.com.cn/c/nd/2016-05-03/doc-ifxrtzte9887908.shtml'
+      title: “莆田系”民营医院名单大揭秘
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=cache%3A%2F%2Fnews.sina.com.cn%2Fc%2Fnd%2F2016-05-03%2Fdoc-ifxrtzte9887908.shtml&oq=cache%3A%2F%2Fnews.sina.com.cn%2Fc%2Fnd%2F2016-05-03%2Fdoc-ifxrtzte9887908.shtml&rlz=1C5CHFA_enUS659US659&aqs=chrome..69i57j69i58.6786j0j4
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-10T03:03:43.927Z - '
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+comments:
+  evidence:
+    - url: 'http://bbs.tianya.cn/post-41-1230858-1.shtml'
+      title: 上海天伦医院黑心骗子医院，黄启明黑心骗子医生，虹口区卫生局腐败透顶
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-1230858-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-1230858-1.shtml&aqs=chrome..69i57j69i58.3751j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-10T03:10:34.846Z - '
+    - url: 'http://tieba.baidu.com/p/2421760105?pn=2'
+      title: 回复：上海天伦医院骗子
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftieba.baidu.com%2Fp%2F2421760105%3Fpn%3D2&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftieba.baidu.com%2Fp%2F2421760105%3Fpn%3D2&aqs=chrome..69i57j69i58.2816j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-10T03:10:23.022Z - '
+    - url: 'http://www.dianping.com/review/47644143'
+      title: 大众点评
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.dianping.com%2Freview%2F47644143&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.dianping.com%2Freview%2F47644143&aqs=chrome..69i57j69i58.5060j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-10T03:10:23.022Z - '
+note: ''
+

@@ -1,0 +1,107 @@
+<html>
+<head>
+    <link href="./bootstrap-combined.min.css" rel="stylesheet">
+</head>
+
+<body>
+<div class="container">
+    <form method="post" class="form-horizontal">
+        <fieldset>
+            <div class="control-group">
+                <div class="controls">
+                    <p>从hospital_list.json文件复制属于同一个省的多个城市的数据过来转换</p>
+
+                    <p>注意:可能需要在数据最外层加上大括号,使其成为合法的JSON格式</p>
+                </div>
+                <label class="control-label" for="province">省份</label>
+
+                <div class="controls">
+                    <input class="input-xlarge" type="text" name="province" id="province" value="">
+                </div>
+
+                <div class="controls">
+            <textarea class="input-xlarge" name="json" id="json" placeholder="原来的json数据"
+                      style="margin: 0px; height: 500px; width: 600px;"></textarea>
+                </div>
+            </div>
+
+            <div class="form-actions">
+                <input type="button" name="yaml" id="yaml" value="generate YAML" class="btn btn-primary">
+            </div>
+            <div class="controls">
+            <textarea class="input-xlarge" name="yaml_dump" id="yaml_dump"
+                      style="margin: 0px; height: 500px; width: 600px;"></textarea>
+            </div>
+        </fieldset>
+    </form>
+</div>
+
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
+<script src="bower_components/js-yaml/dist/js-yaml.min.js"></script>
+<script src="bower_components/uuid4/lib/browser/index.js"></script>
+<script>
+    var dataversion = 'draft1';
+
+    function newId() {
+        return UUID4.generate();
+    }
+
+    function generateHospital(city, hospital) {
+        var hospitalData = {};
+        hospitalData.dataversion = dataversion;
+        hospitalData.created = Math.floor(Date.now() / 1000);
+        hospitalData.id = newId();
+        hospitalData.USID = '';
+        hospitalData.name = hospital;
+        hospitalData.city = city;
+        hospitalData.province = $("#province").val();
+        hospitalData.address = '';
+        hospitalData.type = '';
+        hospitalData.location = '';
+        hospitalData.principal = '';
+        hospitalData.shareholder = [];
+        hospitalData.url = [];
+        hospitalData.phone = [];
+        hospitalData.baiduad = {};
+        hospitalData.news = {};
+        hospitalData.putian = {};
+        hospitalData.comments = {};
+        hospitalData.note = '';
+
+        var fileName = hospitalData.id + '.yml';
+        var result = {};
+        result[fileName] = hospitalData;
+        return result;
+    }
+
+    function generateOneCity(city, hospitals) {
+        var result = [];
+        for (var hospital in hospitals) {
+            result.push(generateHospital(city, hospital));
+        }
+        return result;
+    }
+
+    function generateMultipleCities() {
+        var result = {};
+        var input = JSON.parse($('#json').val());
+        console.log('ok');
+        for (var city in input) {
+            console.log(city);
+            result[city] = (generateOneCity(city, input[city]));
+        }
+        return result;
+    }
+
+    $(document).ready(function () {
+        $('#yaml').click(function () {
+            event.preventDefault();
+            var result = generateMultipleCities();
+            var yaml = jsyaml.safeDump(result);
+            console.log(yaml);
+            $("#yaml_dump").val(yaml);
+        });
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+dataversion: draft1
+created: 1463575040
+updated: 1463575040
+id: 6abdaefc-2dfd-40ad-8d56-e36d0cc2833f
+USID: ''
+name: 武警北京总队医院
+city: 北京
+province: 北京
+address: 北京市朝阳区东三里屯一号院
+type: 外包科室
+principal: ''
+shareholder:
+  - ''
+url:
+  - ''
+phone:
+  - ''
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://news.ifeng.com/a/20160501/48651671_0.shtml'
+      title: 专家：百度竞价排名＋武警医院＋莆田系＝医疗毒瘤
+      snapshot: 'http://i.imgur.com/WgN6hn2.png'
+      dateline: ''
+putian: {}
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''

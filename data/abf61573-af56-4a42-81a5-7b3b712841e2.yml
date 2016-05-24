@@ -1,0 +1,32 @@
+dataversion: draft1
+created: 1463404792
+updated: 1463404792
+id: abf61573-af56-4a42-81a5-7b3b712841e2
+USID: 91510100663030083A
+name: 成都安琪儿妇产医院
+city: 成都
+province: 四川
+address: 成都市武侯区高攀路3号
+type: 民营医院
+principal: 卓朝阳
+shareholder:
+  - 成都安琪儿医疗控股有限公司
+url:
+  - ''
+phone:
+  - ''
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian: {}
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''

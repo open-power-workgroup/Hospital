@@ -1,0 +1,38 @@
+dataversion: draft1
+created: 1463405427
+updated: 1463405427
+id: 904fb693-4873-4453-ad53-7a9bcfbd1d27
+USID: 91510100394098855D
+name: 成都圣贝牙科医院
+city: 成都
+province: 四川
+address: 成都高新区桂溪西街60号1栋1-5层3号
+type: 民营医院
+principal: 陈新贤
+shareholder:
+  - 陈新贤
+url:
+  - ''
+phone:
+  - ''
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'http://fj.sina.com.cn/zt/shlxxl07/'
+      title: 陈新贤："老"莆医新征程
+      snapshot: 'http://i.imgur.com/OBIujWr.png'
+      dateline: ''
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''

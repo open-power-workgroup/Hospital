@@ -1,0 +1,67 @@
+dataversion: draft1
+created: 1463557463
+updated: 1463557463
+id: d4c3ce1d-5ce4-425a-a5e5-b87eeac4ef36
+USID: '310105000295546'
+name: 上海九龙男子医院
+city: 上海
+province: 上海
+address: 上海市长宁区中山西路333号
+type: 民营医院
+location:
+  lat: '31.216787'
+  lng: '121.411441'
+principal: 周义明
+shareholder:
+  - 黄志勇
+  - 柯元芳
+  - 上海邦泰医院投资管理有限公司
+url:
+  - 'http://www.long120.cn/'
+  - 'http://www.shjlnzyy.com/'
+phone:
+  - 021-52739067
+  - 021-52732699
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.6201j0j7&bav=on.2,or.r_cp.&bvm=bv.122448493,d.cGc&biw=1438&bih=715&dpr=2&ech=1&psi=1OQ7V-vcN47YjwPHgpSACA.1463542998782.3&ei=1OQ7V-vcN47YjwPHgpSACA&emsg=NCSR&noj=1
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:38:44.567Z - '
+    - url: 'http://sh.sina.com.cn/news/h/2011-12-14/0834203085.html'
+      title: 上海九龙男子医院将尿频男子诊断为前列腺炎
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fsh.sina.com.cn%2Fnews%2Fh%2F2011-12-14%2F0834203085.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fsh.sina.com.cn%2Fnews%2Fh%2F2011-12-14%2F0834203085.html&aqs=chrome..69i57j69i58.2458j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:38:44.567Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:36:32.070Z - '
+comments:
+  evidence:
+    - url: 'http://www.120x.net/thread-123130-1-1.html'
+      title: 被骗了，上海九龙男子医院，骗子医院
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.120x.net%2Fthread-123130-1-1.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.120x.net%2Fthread-123130-1-1.html&aqs=chrome..69i57j69i58.2545j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:44:17.982Z - '
+    - url: 'http://www.hebeirexian.com/html/2016/0505/9400.html'
+      title: 上海九龙男子医院是黑医院，不要上当
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.hebeirexian.com%2Fhtml%2F2016%2F0505%2F9400.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.hebeirexian.com%2Fhtml%2F2016%2F0505%2F9400.html&aqs=chrome..69i57j69i58.2326j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:41:36.601Z - '
+    - url: 'http://netbarz.com/ngztq/mifz/20160215/5456.html'
+      title: 曝上海九龙男子医院怎么样坑人骗人的！
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fnetbarz.com%2Fngztq%2Fmifz%2F20160215%2F5456.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fnetbarz.com%2Fngztq%2Fmifz%2F20160215%2F5456.html&aqs=chrome..69i57j69i58.2149j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:41:36.601Z - '
+    - url: 'http://2162611500.com/a/yiqianlingyiye/2016/0221/134.html'
+      title: 我在上海九龙男子医院的受骗记（转载）
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2F2162611500.com%2Fa%2Fyiqianlingyiye%2F2016%2F0221%2F134.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2F2162611500.com%2Fa%2Fyiqianlingyiye%2F2016%2F0221%2F134.html&aqs=chrome..69i57j69i58.2030j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:41:36.601Z - '
+note: ''

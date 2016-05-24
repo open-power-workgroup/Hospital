@@ -1,0 +1,128 @@
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+          integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css"
+          integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+    <script src="http://lib.sinaapp.com/js/jquery/1.9.1/jquery-1.9.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
+            integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
+            crossorigin="anonymous"></script>
+    <style>
+        .navbar-header .navbar-brand a {
+            color: #eeeeee;
+        }
+    </style>
+</head>
+
+<body>
+<nav class="navbar navbar-inverse" style="border-radius: 0">
+    <div class="navbar-header">
+        <span class="navbar-brand">医院列表 - {{ province }}</span>
+        <span class="navbar-brand"><a href="hospitals.html">返回首页</a></span>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <table class="table table-bordered">
+            <thead>
+            <tr>
+                <th>医院名称</th>
+                <th>医院类型</th>
+                <th>是否莆田系</th>
+                <th>负责人</th>
+                <th>地址</th>
+                <th>更多</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for hospital in hospitals %}
+            <tr>
+                <td>{{ hospitals[hospital]['name'] }}</td>
+                <td>{{ hospitals[hospital]['type'] }}</td>
+                <td style="text-align: center">{{ hospitals[hospital]['putian']['confirm'] }}</td>
+                <td>{{ hospitals[hospital]['principal'] }}</td>
+                <td>{{ hospitals[hospital]['address'] }}</td>
+                <td><a data-toggle="collapse" href="#collapse{{ loop.index }}">点击查看...</a></td>
+            </tr>
+            <tr id="collapse{{ loop.index }}" class="collapse">
+                <td colspan="6">
+                    <div>数据ID: {{ hospitals[hospital]["id"] }}</div>
+                    <div>名称: {{ hospital }}</div>
+                    <div>统一社会信用代码: {{ hospitals[hospital]["USID"] }}</div>
+                    <div>负责人: {{ hospitals[hospital]["principal"] }}</div>
+                    <div>股东:
+                        {% for shareholder in hospitals[hospital]["shareholder"] %}
+                        {{ shareholder }} &nbsp;
+                        {% endfor %}
+                    </div>
+                    <div>省: {{ hospitals[hospital]["province"] }}</div>
+                    <div>市: {{ hospitals[hospital]["city"] }}</div>
+                    <div>地址: {{ hospitals[hospital]["address"] }}</div>
+                    <div>类型: {{ hospitals[hospital]["type"] }}</div>
+                    <div>网址:
+                        {% for url in hospitals[hospital]["url"] %}
+                        {{ url }} &nbsp;
+                        {% endfor %}
+                    </div>
+                    <div>电话:
+                        {% for item in hospitals[hospital]["phone"] %}
+                        {{ item }} &nbsp;
+                        {% endfor %}
+                    </div>
+                    <div>
+                        莆田系查证:
+                        <ul>
+                            {% for evidence in hospitals[hospital]["putian"]["evidence"] %}
+                            <li>
+                                <a href="{{ evidence['url'] }}" target="_blank" rel="noopener noreferrer">
+                                    {{ evidence['title'] }}
+                                </a>
+                                &nbsp;
+                                ( <a href="{{ evidence['snapshot'] }}" target="_blank" rel="noopener noreferrer">网页快照</a> )
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                    <div>
+                        百度广告:
+                        <ul>
+                            {% for evidence in hospitals[hospital]["baiduad"]["evidence"] %}
+                            <li>
+                                <a href="{{ evidence['url'] }}" target="_blank" rel="noopener noreferrer">
+                                    {{ evidence['title'] }}
+                                </a>
+                                &nbsp;
+                                ( <a href="{{ evidence['snapshot'] }}" target="_blank" rel="noopener noreferrer">网页快照</a> )
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                    <div>
+                        新闻报道:
+                        <ul>
+                            {% for evidence in hospitals[hospital]["news"]["evidence"] %}
+                            <li>
+                                <a href="{{ evidence['url'] }}" target="_blank" rel="noopener noreferrer">
+                                    {{ evidence['title'] }}
+                                </a>
+                                &nbsp;
+                                ( <a href="{{ evidence['snapshot'] }}" target="_blank" rel="noopener noreferrer">网页快照</a> )
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                    <div>备注: {{ hospitals[hospital]["note"] }}</div>
+                </td>
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <hr>
+    {% include 'footer.phtml' %}
+</div>
+</body>
+</html>

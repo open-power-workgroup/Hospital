@@ -1,0 +1,41 @@
+dataversion: draft1
+created: 1463041609
+updated: 1463041609
+id: 35764a94-53c6-47bc-9533-fde48eea2bc8
+USID: ''
+name: 上海江东泌尿外科医院
+city: 上海
+province: 上海
+address: 中国上海市浦东新区金桥路300号
+type: 民营医院
+location:
+  lat: '31.264799'
+  lng: '121.57117'
+principal: ''
+shareholder:
+  - ''
+url:
+  - 'http://www.dong120.com/'
+phone:
+  - 021-50349666
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60l3.2910j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:19:45.839Z - '
+    - url: 'http://www.5h.com/yl/11070.html'
+      title: 5号网
+      snapshot: 'http://www.5h.com/yl/11070.html'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:19:45.839Z - '
+putian: {}
+comments:
+  evidence:
+    - url: 'http://m.qiangjunshi.com/29/18015.html'
+      title: 曝光上海江东医院是骗子 黑心医院 让更多人知道这家 黑心医院
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fm.qiangjunshi.com%2F29%2F18015.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fm.qiangjunshi.com%2F29%2F18015.html&aqs=chrome..69i57j69i58.2513j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:26:46.872Z - '
+note: ''

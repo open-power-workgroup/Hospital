@@ -1,0 +1,82 @@
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+          integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css"
+          integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+    <style>
+        a:hover {
+            text-decoration: none;
+        }
+
+        .jumbotron p {
+            font-size: large;
+        }
+
+        .navbar {
+            background-color: #f5f5f5;
+            font-weight: bold;
+            border-bottom: 1px solid #e5e5e5;
+        }
+
+        .province-text {
+            border-radius: 5px;
+            font-size: 35px;
+            padding: 10px 0 10px 0;
+        }
+
+        .province-text:hover {
+            background-color: #e5e5e5;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+<nav class="navbar" style="border-radius: 0">
+    <div class="navbar-header">
+        <span class="navbar-brand">OpenPower医院信息公布开放数据</span>
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row">
+        <div class="jumbotron">
+            <h2>说明</h2>
+
+            <p>本网站展示OpenPower工作组收集汇总的与国内一些医疗机构有关的信息，供广大寻医问药的患者及家属参考。</p>
+
+            <p>本网站展示的第一批医院名单来源于<a href="http://news.ifeng.com/mainland/special/ptxyy/" target="_blank"
+                                  rel="noreferrer noopener">凤凰网医院名单</a>，后根据社区热心人的贡献汇总而成。进入这份名单的医院符合以下三个条件中的至少一个：
+            <ul>
+                <li>曾经投放百度竞价广告</li>
+                <li>曾经被媒体报道过医疗欺诈事件</li>
+                <li>与<a href="https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB" target="_blank" rel="noreferrer noopener">莆田系</a>存在直接关系</li>
+            </ul>
+            </p>
+
+            <p>本网站展示的数据遵循<a href="https://github.com/open-power-workgroup/Hospital/blob/incoming/open_data_usage_license.md"
+                            target="_blank" rel="noopener noreferrer">OPW开放数据使用授权协议</a>发布。在使用本网站所提供的数据时请务必遵守授权协议要求。</p>
+
+            <p>任何疑问或贡献，请移步至我们的<a href="https://github.com/open-power-workgroup/Hospital"  target="_blank" rel="noreferrer noopener">项目网站</a>讨论。</p>
+
+            <p>请点击下列省/直辖市/自治区名称，查看该地区的详细信息。或使用<a href="../json/hospitals.json"  target="_blank" rel="noreferrer noopener">JSON格式的开放数据</a>。</p>
+        </div>
+    </div>
+    <div class="row">
+        {% for province in provinces %}
+        <div class="col-md-2 text-center province-text">
+            <span>
+                <a href="{{ provinces[province]['pinyin'] }}.html">{{ province }}</a>
+            </span>
+        </div>
+        {% endfor %}
+    </div>
+    <hr>
+    {% include 'footer.phtml' %}
+</div>
+
+</body>
+</html>

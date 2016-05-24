@@ -1,0 +1,33 @@
+dataversion: draft1
+created: 1463405033
+updated: 1463405033
+id: 15db377b-6b56-426e-93f3-8b933166351c
+USID: '510100000118019'
+name: 成都蜀都乳腺医院
+city: 成都
+province: 四川
+address: 成都市青羊区八宝街130号
+type: 民营医院
+principal: 卓朝雄
+shareholder:
+  - 成都博爱医疗投资管理有限公司
+  - 卓朝雄
+url:
+  - ''
+phone:
+  - ''
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian: {}
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''

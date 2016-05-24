@@ -1,0 +1,92 @@
+dataversion: draft1
+created: 1463558623
+updated: 1463558623
+id: 2148ce44-0bcc-43ad-bce4-736f91417075
+USID: '913101127374939383'
+name: 上海虹桥医院
+city: 上海
+province: 上海
+address: 上海市闵行区虹梅路2181号
+type: 民营医院
+location:
+  lat: '31.175035'
+  lng: '121.394991'
+principal: 陈国兴
+shareholder:
+  - 陈国兴
+  - 陈国雄
+url:
+  - 'http://www.shhqyy.com/'
+phone:
+  - 021-64659999
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.6201j0j7&bav=on.2,or.r_cp.&bvm=bv.122448493,d.cGc&biw=1438&bih=715&dpr=2&ech=1&psi=1OQ7V-vcN47YjwPHgpSACA.1463542998782.3&ei=1OQ7V-vcN47YjwPHgpSACA&emsg=NCSR&noj=1
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:59:19.527Z - '
+    - url: 'http://news.163.com/16/0516/13/BN6MAPKD00014AED.html'
+      title: 莆田系P2P合规性存疑
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fnews.163.com%2F16%2F0516%2F13%2FBN6MAPKD00014AED.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fnews.163.com%2F16%2F0516%2F13%2FBN6MAPKD00014AED.html&aqs=chrome..69i57j69i58.2616j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:59:19.527Z - '
+    - url: 'http://ts.voc.com.cn/question/view/282920.html'
+      title: 上海虹桥医院儿科医托内幕
+      snapshot: 投诉主题：上海虹桥医院儿科医托内幕
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:59:19.527Z - '
+    - url: 'http://biz.163.com/06/0216/06/2A2HPCLE00020QGP.html'
+      title: (2006年)沪3家医院涉嫌广告违规 皆表示暂停投放违规广告
+      snapshot: 'http://biz.163.com/06/0216/06/2A2HPCLE00020QGP.html'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:59:19.527Z - '
+    - url: >-
+        http://news.eastday.com/eastday/node545/node8418/userobject1ai103379.html
+      title: 针对上海虹桥医院违反医疗广告管理的行为
+      snapshot: >-
+        http://news.eastday.com/eastday/node545/node8418/userobject1ai103379.html
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:59:19.527Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:51:22.737Z - '
+comments:
+  evidence:
+    - url: 'http://blog.sina.com.cn/s/blog_12d8876400102w1ka.html'
+      title: 上海虹桥医院儿科纯属骗子，希望更多的受害家长站出来，一起严惩他们
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fblog.sina.com.cn%2Fs%2Fblog_12d8876400102w1ka.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fblog.sina.com.cn%2Fs%2Fblog_12d8876400102w1ka.html&aqs=chrome..69i57j69i58.3018j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:53:42.685Z - '
+    - url: 'http://bbs.tianya.cn/post-free-5431382-1.shtml'
+      title: 天涯论坛
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-free-5431382-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-free-5431382-1.shtml&aqs=chrome..69i57j69i58.3207j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:53:42.685Z - '
+    - url: 'http://health315.people.com.cn/index.php/Dis/dis/id/832'
+      title: 人民网
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fhealth315.people.com.cn%2Findex.php%2FDis%2Fdis%2Fid%2F832&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fhealth315.people.com.cn%2Findex.php%2FDis%2Fdis%2Fid%2F832&aqs=chrome..69i57j69i58.3176j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:53:42.685Z - '
+    - url: 'http://www.361yaya.com/thread-809-1-1.html'
+      title: '上海虹桥医院与众多骗子的“体检”发财大计,虹桥医院知法犯法'
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.361yaya.com%2Fthread-809-1-1.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.361yaya.com%2Fthread-809-1-1.html&aqs=chrome..69i57j69i58.2238j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:53:42.685Z - '
+    - url: 'http://www.xjjhcs.com/a/yaowen/20160410/1827.html'
+      title: 曝光上海虹桥医院的骗子赚黑心钱欺诈患者
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.xjjhcs.com%2Fa%2Fyaowen%2F20160410%2F1827.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.xjjhcs.com%2Fa%2Fyaowen%2F20160410%2F1827.html&aqs=chrome..69i57j69i58.3502j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:53:42.685Z - '
+    - url: 'http://www.kezaga.com/shenghuo/jiating/28759.html'
+      title: '网友投稿:去上海虹桥医院治口吃被骗近2万'
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.kezaga.com%2Fshenghuo%2Fjiating%2F28759.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.kezaga.com%2Fshenghuo%2Fjiating%2F28759.html&aqs=chrome..69i57j69i58.2198j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:53:42.685Z - '
+    - url: 'http://classad.beelink.cn/html/201505/content_37127.htm'
+      title: 上海虹桥医院是可恶的黑心医院，消费者要留心
+      snapshot: 'http://classad.beelink.cn/html/201505/content_37127.htm'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T07:53:42.685Z - '
+note: ''

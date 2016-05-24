@@ -1,0 +1,70 @@
+dataversion: draft1
+created: 1463552854
+updated: 1463552854
+id: c438b799-5494-484b-8a52-5fdf39e270f7
+USID: 9131011077577946XD
+name: 上海真美妇科医院
+city: 上海
+province: 上海
+address: 上海市杨浦区宁国路313弄263、265、267号1-3层
+type: 民营医院
+location:
+  lat: '31.2648233'
+  lng: '121.5356756'
+principal: 沈雪峰
+shareholder:
+  - 沈雪峰
+  - 卓国勇
+  - 黄开飞
+  - 吴元良
+url:
+  - 'http://www.giivi.com/'
+  - 'http://www.zdia.net/'
+phone:
+  - 021-55099999
+  - '17091958466'
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.6201j0j7&bav=on.2,or.r_cp.&bvm=bv.122448493,d.cGc&biw=1438&bih=715&dpr=2&ech=1&psi=1OQ7V-vcN47YjwPHgpSACA.1463542998782.3&ei=1OQ7V-vcN47YjwPHgpSACA&emsg=NCSR&noj=1
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:21:57.559Z - '
+    - url: 'http://www.cqn.com.cn/news/wqpd/wqxw/306685.html'
+      title: 上海通报违法发布医疗广告机构 涉及古美医院、宏康医院
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.cqn.com.cn%2Fnews%2Fwqpd%2Fwqxw%2F306685.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.cqn.com.cn%2Fnews%2Fwqpd%2Fwqxw%2F306685.html&aqs=chrome..69i57j69i58.2061j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:21:57.559Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:18:28.557Z - '
+comments:
+  evidence:
+    - url: 'http://blog.sina.com.cn/s/blog_160c4c8200102w6ep.html'
+      title: 新浪博客(上海真美妇科医院太黑了，骗钱一流，大家别被坑了！)
+      snapshot: 'http://blog.sina.com.cn/s/blog_160c4c8200102w6ep.html'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:24:29.265Z - '
+    - url: 'http://www.dianping.com/shop/65613292/review_more'
+      title: 大众点评
+      snapshot: 'http://www.dianping.com/shop/65613292/review_more'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:24:29.265Z - '
+    - url: 'http://qiye.zhujiangw.cn/weiquanshikong/jizhediaocha/1327991583.html'
+      title: 上海真美妇科医院是很差的一家私人医院，真...
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fqiye.zhujiangw.cn%2Fweiquanshikong%2Fjizhediaocha%2F1327991583.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fqiye.zhujiangw.cn%2Fweiquanshikong%2Fjizhediaocha%2F1327991583.html&aqs=chrome..69i57j69i58.2807j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:24:29.265Z - '
+    - url: 'http://www.g5k6.com/88127.html'
+      title: 上海真美妇科医院骗子医院欺诈收费
+      snapshot: 'http://www.g5k6.com/88127.html'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:24:29.265Z - '
+    - url: 'http://bbs.tianya.cn/post-free-5463486-1.shtml'
+      title: 天涯论坛
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-free-5463486-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-free-5463486-1.shtml&aqs=chrome..69i57j69i58.2030j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T06:24:29.265Z - '
+note: ''

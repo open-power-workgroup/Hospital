@@ -1,0 +1,62 @@
+dataversion: draft1
+created: 1463542567
+updated: 1463542567
+id: e71244bd-937f-48e0-a3f2-1865e50442e1
+USID: ''
+name: 解放军411医院
+city: 上海
+province: 上海
+address: 中国上海市虹口区东江湾路15号
+type: 民营医院
+location:
+  lat: '31.26528'
+  lng: '121.480644'
+principal: ''
+shareholder:
+  - ''
+url:
+  - 'http://www.sh411wgk.com'
+phone:
+  - 400-0789411
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome.0.69i59j69i57j69i59l2j0l2.2368j0j7&bav=on.2,or.r_cp.&biw=1438&bih=715&dpr=2&ech=1&psi=t-E7V5vgI8LUjwPf-7_4CA.1463542201608.3&ei=t-E7V5vgI8LUjwPf-7_4CA&emsg=NCSR&noj=1
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:30:17.318Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:29:51.379Z - '
+comments:
+  evidence:
+    - url: 'http://www.dianping.com/shop/2372878'
+      title: 大众点评
+      snapshot: 'http://www.dianping.com/shop/2372878'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:30:59.445Z - '
+    - url: 'http://bbs.tianya.cn/post-837-166049-1.shtml'
+      title: 天涯社区
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-837-166049-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-837-166049-1.shtml&aqs=chrome..69i57j69i58.2794j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:30:59.445Z - '
+    - url: 'http://blog.sina.com.cn/s/blog_15579c9230102vv2w.html'
+      title: 新浪博客
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fblog.sina.com.cn%2Fs%2Fblog_15579c9230102vv2w.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fblog.sina.com.cn%2Fs%2Fblog_15579c9230102vv2w.html&aqs=chrome..69i57j69i58.2496j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:30:59.445Z - '
+    - url: 'http://www.yiliao8.com/a/700.html'
+      title: 医疗吧
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.yiliao8.com%2Fa%2F700.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.yiliao8.com%2Fa%2F700.html&aqs=chrome..69i57j69i58.2540j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:30:59.445Z - '
+    - url: 'http://www.scsoho.com/news/shehui/2016-5-9/38915.html'
+      title: 上海解放军411医院骗子乱收费 收费是人家的几倍
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.scsoho.com%2Fnews%2Fshehui%2F2016-5-9%2F38915.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.scsoho.com%2Fnews%2Fshehui%2F2016-5-9%2F38915.html&aqs=chrome..69i57j69i58.2854j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-18T03:30:59.445Z - '
+note: ''

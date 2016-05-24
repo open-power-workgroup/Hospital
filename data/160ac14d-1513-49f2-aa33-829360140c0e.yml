@@ -1,0 +1,44 @@
+dataversion: draft1
+created: 1463575790
+updated: 1463575790
+id: 160ac14d-1513-49f2-aa33-829360140c0e
+USID: '911101050536245970'
+name: 北京美莱医疗美容医院
+city: 北京
+province: 北京
+address: 北京市朝阳区朝阳门外大街227号
+type: 民营医院
+principal: 陈文良
+shareholder:
+  - 许文新
+  - 上海美莱投资管理有限公司
+url:
+  - 'http://www.bjmylike.com/'
+phone:
+  - 010-56935111
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: >-
+        https://www.sgs.gov.cn/notice/notice/view?uuid=9DfasM8QpxkUh5I_FnqttCFdIkDTyER3&tab=01
+      title: 上海美莱投资管理有限公司
+      snapshot: 'http://i.imgur.com/6BuDEKX.png'
+      dateline: ''
+    - url: 'http://baike.baidu.com/view/1574371.htm'
+      title: 陈金秀
+      snapshot: 'http://i.imgur.com/O9oUk6E.png'
+      dateline: ''
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''

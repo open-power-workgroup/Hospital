@@ -1,0 +1,47 @@
+dataversion: draft1
+created: 1463040235
+updated: 1463040235
+id: b000beeb-2df3-4cde-aafb-2131fe2356ab
+USID: ''
+name: 上海九州泌尿医院
+city: 上海
+province: 上海
+address: 中国上海市普陀区真南路685号
+type: 民营医院
+location:
+  lat: '31.2693807'
+  lng: '121.3868697'
+principal: ''
+shareholder:
+  - ''
+url:
+  - ''
+phone:
+  - ''
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://www.5h.com/yl/11070.html'
+      title: 5号网
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.5h.com%2Fyl%2F11070.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.5h.com%2Fyl%2F11070.html&aqs=chrome..69i57j69i58.6635j0j7&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-12T07:59:22.798Z - '
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&aqs=chrome..69i57j69i58j69i60l3.2910j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-12T07:59:22.798Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/zh/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/zh/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-12T07:57:03.146Z - '
+comments:
+  evidence:
+    - url: 'http://www.zhinews.com/tousu/20130630_191333.html'
+      title: 云南九州医院的评论
+      snapshot: 'http://www.zhinews.com/tousu/20130630_191333.html'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-12T08:03:20.408Z - '
+note: ''

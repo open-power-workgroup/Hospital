@@ -1,0 +1,38 @@
+dataversion: draft1
+created: 1463575326
+updated: 1463575326
+id: 21cb54c4-90b4-48fb-b0f0-ab0e07ececd8
+USID: ''
+name: 武警北京市总队第二医院
+city: 北京
+province: 北京
+address: 北京市西城区月坛北街丁3号
+type: 外包科室
+principal: ''
+shareholder:
+  - ''
+url:
+  - ''
+phone:
+  - ''
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/012212.htm'
+      title: 一个死在百度和部队医院之手的年轻人
+      snapshot: 'http://i.imgur.com/JdPLtYG.png'
+      dateline: ''
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''
