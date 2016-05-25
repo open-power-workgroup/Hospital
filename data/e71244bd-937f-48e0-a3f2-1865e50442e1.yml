@@ -7,7 +7,7 @@ name: 解放军411医院
 city: 上海
 province: 上海
 address: 中国上海市虹口区东江湾路15号
-type: 民营医院
+type: 外包科室
 location:
   lat: '31.26528'
   lng: '121.480644'
