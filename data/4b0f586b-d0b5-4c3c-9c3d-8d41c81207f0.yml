@@ -9,8 +9,8 @@ province: 上海
 address: 上海市市辖区浦东新区源深路155号
 type: 民营医院 
 location:  
-  - lat : 31.239803 
-    lng : 121.530622
+  lat : 31.239803
+  lng : 121.530622
 principal: "雷启龙" 
 shareholder: 
   - "黄志佳"
