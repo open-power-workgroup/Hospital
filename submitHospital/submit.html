@@ -32,6 +32,15 @@
           <div class="form-actions">
             <input type="button" name="saveuserid" id="saveuserid" value="Save My Info" class="btn btn-primary">
           </div>
+          <div class="control-group">
+            <label class="control-label" for="yamlname">Github上YAML文件名</label>
+            <div class="controls">
+              <input class="input-xlarge" type="text" name="yamlname" id="yamlname" value="" placeholder="例如：0084f47d-cdcf-427a-96e5-f27a54d7e303.yml"/>
+            </div>
+          </div>
+          <div class="form-actions">
+            <input type="button" name="loadyaml" id="loadyaml" value="Load YAML" class="btn btn-primary">
+          </div>
           <legend>基本信息</legend>  
 
           <div class="control-group">
@@ -304,6 +313,7 @@
             }); 
             return evidence_items;
     }
+
     var generateResult = function(){
           var result={};
           result.dataversion=dataversion;
@@ -357,6 +367,101 @@
       return dateline;
       //san577478, OpenPower, 05/08/2016 @ 12:27am (UTC) - submit #dateline是新闻媒体常用的格式，一般是一小段文本，写明贡献者、组织、时间、描述。参考： https://en.wikipedia.org/wiki/Dateline
     }
+
+
+    var evidenceListToForm=function(evidence_list, idx,evidence_name){
+
+          if(evidence_list && evidence_list.evidence){
+            for (var i = 0; i < evidence_list.evidence.length-1; i ++){
+              var new_evidence=$($("."+evidence_name+"_evidence")[0]).clone();
+              new_evidence.clone().insertAfter($("."+evidence_name+"_evidence")[$("."+evidence_name+"_evidence").length-1]);
+            }
+
+
+            for (var i in evidence_list.evidence){
+              var evidence=evidence_list.evidence[i];
+
+              var current_evidence=$($("."+evidence_name+"_evidence")[i]);
+              $(current_evidence.find("#"+evidence_name+"_evidence_url")[0]).val(evidence.url)
+              $(current_evidence.find("#"+evidence_name+"_evidence_title")[0]).val(evidence.title)
+              $(current_evidence.find("#"+evidence_name+"_evidence_snapshot")[0]).val(evidence.snapshot)
+              $(current_evidence.find("#"+evidence_name+"_evidence_dateline")[0]).val(evidence.dateline)
+            }
+          }
+    };
+
+    var yamlToForm = function(yaml){
+      var yaml = jsyaml.safeLoad(yaml);
+
+          $("#id").val(yaml.id);
+          $("#usid").val(yaml.USID);
+          $("#name").val(yaml.name);
+          $("#city").val(yaml.city);
+          $("#province").val(yaml.province);
+          $("#address").val(yaml.address);
+          $("#type").val(yaml.type);
+          $("#principal").val(yaml.principal);
+
+          if(yaml.location && yaml.location.lat && yaml.location.lng){
+            $("#location").val(yaml.location.lat +","+ yaml.location.lng);
+          }
+          if(yaml.shareholder){
+            var shareholder="";
+            for (var i in yaml.shareholder){
+              if(yaml.shareholder[i].trim()!=""){
+                shareholder+=yaml.shareholder[i];
+                if( i < yaml.shareholder.length -1 ){
+                  shareholder+=",";
+                }
+              }
+            }
+            $("#shareholder").val(shareholder);
+          }
+          
+          if(yaml.url){
+            var url="";
+            for (var i in yaml.url){
+              url+=yaml.url[i]+"\n";
+            }
+            $("#url").val(url);
+          }
+          if(yaml.phone){
+            var phone="";
+            for (var i in yaml.phone){
+              phone+=yaml.phone[i]+"\n";
+            }
+            $("#phone").val(phone);
+          }
+          evidenceListToForm(yaml.news, 0, "news");
+          evidenceListToForm(yaml.comments, 0, "comment");
+
+          if(yaml.baiduad && Object.keys(yaml.baiduad).length>0 && yaml.baiduad.confirm=="Yes"){
+            $("#baiduad_confirm").val("Yes");
+            evidenceListToForm(yaml.baiduad, 1, "baiduad");
+          }
+          if(yaml.putian && Object.keys(yaml.putian).length>0 && yaml.putian.confirm=="Yes"){
+            $("#putian_confirm").val("Yes");
+            evidenceListToForm(yaml.putian, 1,"putian");
+          }
+
+          $("#note").val(yaml.note);
+
+    }
+
+    var loadYamlUrl = function(url){
+      var xhr = new XMLHttpRequest();
+      xhr.open('GET', url, true);
+      xhr.responseType = 'text';
+      xhr.onload = function(e) {
+        if (this.status == 200) {
+          yamlToForm(this.response);
+            console.log(this.response);
+        }
+      };
+      xhr.send();
+    }
+
+
     var init=function(){
       if(localStorage && localStorage.OpenPower_SubmitID)
          $("#myid").val(localStorage.OpenPower_SubmitID);
@@ -399,9 +504,16 @@
           event.preventDefault()
           var result = generateResult(); 
           var yaml = jsyaml.safeDump (result);
-          console.log(yaml);
           $("#yaml_dump").val(yaml);
         });
+
+        $( "#loadyaml" ).click(function() {
+          var yamlname=$("#yamlname").val();
+          var githuburl="https://raw.githubusercontent.com/open-power-workgroup/Hospital/master/data/"+yamlname;
+          var a=loadYamlUrl(githuburl);
+          console.log(githuburl);
+        });
+
     });
     </script>
   </body>
