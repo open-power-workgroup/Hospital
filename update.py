@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# encoding: utf-8
 """
 This file was created by Chantisnake
 This code obeys GPL V3.0 licence
