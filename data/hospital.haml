@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+%html
+	%head
+		%meta(charset="utf-8")
+		%link(rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous")
+		%link(rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous")
+		%script(src="http://lib.sinaapp.com/js/jquery/1.9.1/jquery-1.9.1.min.js")
+		%script(src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous")
+		:css
+			.navbar-header .navbar-brand a {
+				color: #eeeeee;
+			}
+	%body
+		%nav.navbar.navbar-inverse(style="border-radius: 0")
+			.navbar-header
+				%span.navbar-brand
+					= "医院详细信息 - #{hospital[:name]}"
+				%span.navbar-brand
+					%a{:href=>"#{@provinces_array[hospital[:province]]}.html"}
+						本省医院列表
+		.container
+			.row
+				%h2 网站地址
+			.row
+				%table.table.table-bordered
+					%thead
+						%tr
+							%th 网站名称
+							%th 域名
+							%th 首页地址
+							%th 是否百度认证
+							%th ICP备案号
+							%th 网站主体
+					%tbody
+						- sites.each do |site|
+							%tr
+								%td
+									= site[:name]
+								%td
+									= site[:domain]
+								%td
+									= site[:url]
+								%td
+									= site[:auth]
+								%td
+									= site[:icp]
+								%td
+									= site[:org]
+			.row
+				%h2 相关证据
+			.row
+				%table.table.table-bordered
+					%thead
+						%tr
+							%th 证据类别
+							%th 内容
+							%th 快照
+							%th 时间戳
+					%tbody
+						- evidences.each do |evidence|
+							%tr
+								%td
+									= evidence[:type]
+								%td
+									%a{:href=>evidence[:url]}
+										= evidence[:title]
+								%td
+									%a{:href=>evidence[:snapshot]}
+										快照地址
+								%td
+									= evidence[:dateline]
+			%hr
+			%footer
+				%p
+					本页面信息遵循
+					%a(href="https://github.com/open-power-workgroup/Hospital/blob/master/open_data_usage_license.md" target="_blank" rel="noopener noreferrer")
+						OPW开放数据使用授权协议
+					发布于2016年05月28日，当前数据版本: draft2

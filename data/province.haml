@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+%html
+	%head
+		%meta(charset="utf-8")
+		%link(rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous")
+		%link(rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous")
+		%script(src="http://lib.sinaapp.com/js/jquery/1.9.1/jquery-1.9.1.min.js")
+		%script(src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous")
+		:css
+			.navbar-header .navbar-brand a {
+				color: #eeeeee;
+			}
+	%body
+		%nav.navbar.navbar-inverse(style="border-radius: 0")
+			.navbar-header
+				%span.navbar-brand
+					= "医院列表 - #{@province_name}"
+				%span.navbar-brand
+					%a(href="index.html")
+						返回首页
+		.container
+			.row
+				%table.table.table-bordered
+					%thead
+						%tr
+							%th 所在城市
+							%th 医院名称
+							%th 医院类型
+							%th 是否莆田系
+							%th 是否与百度合作
+							%th 负责人
+							%th 地址
+							%th 更多
+					%tbody
+						- @hospitals.each do |hospital|
+							%tr
+								%td
+									= hospital[:city]
+								%td
+									= hospital[:name]
+								%td
+									= hospital[:type]
+								%td
+									= @putians[hospital[:id]] ? "是" : ""
+								%td
+									= hospital[:bdv]
+								%td
+									= hospital[:principal]
+								%td
+									= hospital[:address]
+								%td
+									%a(href="#{hospital[:id]}.html")
+										明细信息
+			%hr
+			%footer
+				%p
+					本页面信息遵循
+					%a(href="https://github.com/open-power-workgroup/Hospital/blob/master/open_data_usage_license.md" target="_blank" rel="noopener noreferrer")
+						OPW开放数据使用授权协议
+					发布于2016年05月28日，当前数据版本: draft2
