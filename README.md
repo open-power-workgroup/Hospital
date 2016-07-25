@@ -157,6 +157,8 @@
 - 北京德胜门中医院
 - 北京军都医院
 - 北京慈康医院
+- 北京新兴医院
+  - 网址 3g.bjxxyy.com/index.html
 
 ## 苏州
 
@@ -1247,7 +1249,49 @@
 - 郑州华夏白癜风医院
 - 巩义阳光医院
 - 郑州华山医院
+  - 网址 byby.huashanhp.com
 - 郑州丽天整形医院
+- 郑州长江医院
+  - 网址 www.zzcj120.cn
+- 郑州天伦医院
+  - 网址 www.zztlyy888.com
+  - 网址 www.zztianlun.org
+- 郑州名仕医院
+  - 网址 www.msnkyy.cn
+- 郑州阳光男科医院
+  - 网址 www.zznk0371.cn
+  - 网址 www.ygnkyy120.com
+  - 网址 www.zznk120.net
+  - 网址 www.zzygnk120.com
+  - 网址 www.ygnk0371.com
+  - 网址 www.zznk0371.com
+  - 网址 www.zzyg120.com
+  - 网址 www.zzygnk120.cn
+  - 网址 www.0371ygnk.com
+  - 网址 www.zzygnkyy.cn
+  - 网址 www.zzygnk.net
+  - 网址 www.67033333.com
+  - 网址 www.zzyg120.cn
+- 河南省医药科学研究院附属医院
+  - 网址 www.hnmtfkyy.com
+  - 网址 www.gbk0371.com
+  - 网址 www.yy120fk.com
+  - 网址 www.
+  - 网址 www.
+  - 网址 www.
+  - 网址 www.
+  - 网址 www.
+  - 网址 www.
+  - 网址 www.
+  - 网址 www.
+  - 网址 www.
+  - 网址 www.
+  - 网址 www.
+  - 网址 www.
+  - 网址 www.
+  - 网址 www.网址 www.
+
+
 
 ## 新乡
 
@@ -1259,6 +1303,12 @@
 
 - 许昌新时代妇科医院
 - 许昌凤凰医院
+- 许昌玛丽妇科医院
+  - 网址 www.xcnxjk.com
+- 许昌现代男科医院
+  - 网址 www.xcxdnk.net
+  - 网址 xcxdnk.com.cn
+  - 网址 xcxdnk.com.cn
 - 许昌中山医院
   - 网址 www.xczshp.com
   - 网址 www.xcyyhp.com
