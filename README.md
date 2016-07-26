@@ -454,7 +454,8 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
 - 北京艾丽斯妇科医院
  - 网址 http://www.fuke120.cn/
  - 用户反馈 亲测：医院收费不透明，治疗过程中各种乱开检查的单子，手术价格为普通医院价格10倍左右，最后医院连检查的结果都不会给你。有类似的受害者：[http://money.163.com/16/0329/09/BJAIJCRK00253B0H.html](http://money.163.com/16/0329/09/BJAIJCRK00253B0H.html) , [http://ask.yaolan.com/question/15112409310913796432.html](http://ask.yaolan.com/question/15112409310913796432.html)
-
+- 北京新兴医院
+  - 网址 3g.bjxxyy.com/index.html
 
 ## 苏州
 
@@ -1722,7 +1723,70 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
 - 郑州华夏白癜风医院
 - 巩义阳光医院
 - 郑州华山医院
+  - 网址 byby.huashanhp.com
 - 郑州丽天整形医院
+- 郑州长江医院
+  - 网址 www.zzcj120.cn
+- 郑州天伦医院
+  - 网址 www.zztlyy888.com
+  - 网址 www.zztianlun.org
+- 郑州名仕医院
+  - 网址 www.msnkyy.cn
+- 郑州阳光男科医院
+  - 网址 www.zznk0371.cn
+  - 网址 www.ygnkyy120.com
+  - 网址 www.zznk120.net
+  - 网址 www.zzygnk120.com
+  - 网址 www.ygnk0371.com
+  - 网址 www.zznk0371.com
+  - 网址 www.zzyg120.com
+  - 网址 www.zzygnk120.cn
+  - 网址 www.0371ygnk.com
+  - 网址 www.zzygnkyy.cn
+  - 网址 www.zzygnk.net
+  - 网址 www.67033333.com
+  - 网址 www.zzyg120.cn
+- 河南省医药科学研究院附属医院
+  - 网址 www.hnmtfkyy.com
+  - 网址 www.gbk0371.com
+  - 网址 www.yy120fk.com
+  - 网址 www.zzmnwk120.com
+  - 网址 www.hngb0371.com
+  - 网址 www.jwjyzz.com
+  - 网址 www.hnksc.net
+  - 网址 www.yyy120fuke.com
+  - 网址 www.hnyymnnk120.com
+  - 网址 www.aifa8.com
+  - 网址 www.yy120fuke.com
+  - 网址 www.hnyymnwk120.com
+  - 网址 www.zzyymn120.com
+  - 网址 www.yygb0371.com
+  - 网址 www.tlxhyc.com
+  - 网址 www.hnyygbk.com
+  - 网址 www.hnhllygs.com
+  - 网址 www.hnyy0371.com
+  - 网址 www.hnbyby.org
+  - 网址 www.yyyfk120.com
+  - 网址 www.zzjk91.com
+  - 网址 www.hnswck.com
+  - 网址 www.zzyymnwk120.com
+  - 网址 www.yiyao120fuke.com
+  - 网址 www.sxdq360.com
+  - 网址 www.hnyyyxbk.com
+  - 网址 www.120hnmtyy.com
+  - 网址 www.hnyyyxb.com
+  - 网址 www.yiyao120fk.com
+  - 网址 www.yyfuke120.com
+  - 网址 www.hnyyaow.com
+  - 网址 www.gbyy0371.com
+  - 网址 www.zzyymnnk120.com
+  - 网址 www.zzyymnk120.com
+  - 网址 www.zzyynk120.com
+  - 网址 www.yyyfuke120.com
+  - 网址 www.hnxbkyy.com
+  - 网址 www.yiyaofuke120.com
+  - 网址 www.yywck.net
+  - 网址 www.hngbk0371.com
 
 ## 新乡
 
@@ -1734,6 +1798,12 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
 
 - 许昌新时代妇科医院
 - 许昌凤凰医院
+- 许昌玛丽妇科医院
+  - 网址 www.xcnxjk.com
+- 许昌现代男科医院
+  - 网址 www.xcxdnk.net
+  - 网址 xcxdnk.com.cn
+  - 网址 xcxdnk.com.cn
 - 许昌中山医院
  - 网址 http://www.xczshp.com
  - 网址 http://www.xcyyhp.com
