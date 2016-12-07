@@ -694,6 +694,20 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
  - 网站：http://www.hyrl120.com/ （粤ICP备11032832号）
  - 地址：河源市河源大道北50号
  - 证据：粤ICP备11032832号属东莞市迈跃医院投资管理有限公司，该公司董事长为林诚坤；http://zonghui.hxyjw.com/show-145338 （林诚坤为莆田健康产业总会广东分会惠河梅支会会长）；http://szgw.heyuan.gov.cn/content.aspx?nid=492 （林诚坤为河源现代妇科医院董事长）
+- 河源博爱医院
+ - 负责人：待查
+ - 电话：0762-3360120 
+ - 网站：http://www.liftsct.com/ （闽ICP备08106057号）
+ - 网站：http://ck.hyfuke.net/
+ - 网站：http://www.hyfuke.net/
+ - 网站：http://www.hyba120.net/
+ - 网站：http://www.hyfc120.net/
+ - 网站：http://www.affage.com/
+ - 网站：http://www.hynanke.net/
+ - 网站：http://www.ycba120.com/
+ - 网站：http://www.haoyi120.net/
+ - 地址：河源市源城区新港路口1号
+ - 证据：闽ICP备08106057号属厦门益康生殖健康与不孕症专业门诊部（http://www.xmnkw.net/） ；http://blog.sina.com.cn/s/blog_903061a1010141ph.html （莆田医疗大佬2014最新集团名录中第11，厦门益康，福建新东方医疗投资有限公司属莆田(中国)健康总会名誉会长陈金秀）;http://www.fjxdfyl.com/xiangmuzhanshi/ （河源博爱医院和厦门益康同属福建新东方医疗投资有限公司）
  
 ## 昆明
 
