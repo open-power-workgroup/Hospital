@@ -74,6 +74,8 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
 - [肇庆](#%E8%82%87%E5%BA%86)
 - [佛山](#%E4%BD%9B%E5%B1%B1)
 - [深圳](#%E6%B7%B1%E5%9C%B3)
+- [韶关](#%E9%9F%B6%E5%85%B3)
+- [河源](#%E6%B2%B3%E6%BA%90)
 - [昆明](#%E6%98%86%E6%98%8E)
 - [玉溪](#%E7%8E%89%E6%BA%AA)
 - [普洱](#%E6%99%AE%E6%B4%B1)
@@ -646,6 +648,67 @@ Open Power小组会以这三个入选条件作为指导原则，明确更详细�
 	 - http://imgur.com/5PiBr6e
 	 - http://imgur.com/LcXYUo0
 
+## 韶关
+
+- 韶关圣亚泌尿外科医院
+ - 负责人：陈庆龙（前）、李金高（后，其身份证号码为3503开头，属福建省莆田市）
+ - 电话：0751-8529999
+ - 网站：http://0751fk.com/
+ - 网站：http://www.men91.net/
+ - 网站：http://www.nkyyy.com/
+ - 网站：http://0751sy.com/
+ - 地址：韶关市武江区沙洲路34号
+ - 证据：http://www.bjptsh.com/shld/cwfhz/2015/0817/368.html （陈庆龙为北京中豪医疗集团董事长）；https://zh.wikipedia.org/zh-hans/%E8%8E%86%E7%94%B0%E7%B3%BB （北京中豪基业医疗投资管理有限公司属莆田系）；http://blog.sina.com.cn/s/blog_94f216d10102vbgv.html （莆田医疗大佬2014最新集团名录中第55，其中广州圣亚泌尿外科医、深圳圣亚泌尿外科医院、韶关圣亚泌尿外科医院、北京圣亚医院等圣亚系列医院为其代表医院，广州圣亚已列入莆田系）
+- 韶关福康医院
+ - 负责人：赖慧群
+ - 电话：0751-8529999
+ - 网站：http://www.sgfk16.com/
+ - 地址：韶关市浈江区北江路丽江楼
+ - 证据：http://blog.sina.com.cn/s/blog_94f216d10102vbgv.html （莆田医疗大佬2014最新集团名录中第66，韶关福康医院为吴氏医疗(集团)有限公司(北京福来康投资管理有限公司)下属医院； https://zh.wikipedia.org/zh-hans/%E8%8E%86%E7%94%B0%E7%B3%BB （北京福来康属莆田系））
+- 韶关爱民医院
+ - 负责人：赖慧群
+ - 电话：400-0751-513
+ - 网站：http://www.aimin120.com/
+ - 地址：韶关市武江区惠民南路23栋
+ - 证据：http://blog.sina.com.cn/s/blog_903061a1010141ph.html （中国民营医疗集团100强（医界顾问版第58，韶关爱民女子医院为北京福来康下属医院，北京福来康属莆田系，另该医院与韶关福康医院共用ip（42.51.7.156），负责人更为同一人）
+- 韶关韶州医院
+ - 负责人：占加锋
+ - 电话：0751-8288120 
+ - 网站：暂无
+ - 地址：韶关市浈江区韶南大道中19号
+ - 证据：http://zonghui.hxyjw.com/show-137803 （占加锋为莆田（中国）健康产业总会江苏支团苏州分会秘书长） 
+ 
+## 河源
+
+- 河源协和男科（河源协和门诊部）
+ - 负责人：陈海滨
+ - 电话：0762-3605120
+ - 网站：http://www.hyxhnk.com/
+ - 网站：http://www.hynkjkw.com/
+ - 地址：河源市源城区河源大道南63号
+ - 证据：https://www.liepin.com/company/gs1847693/ （河源协和男科属香港博华医疗投资集团，旗下有子公司中天医疗）； https://www.yigoudai.com/xw/companyShareholder.html （博华（香港）实业投资有限公司为莆田系医购贷股东）；http://www.rqbao.com/show-yigoudai/article-38347.html （博华（香港）实业投资有限公司是莆田（中国）健康产业总会的成员，为医购贷九个创办公司之一）；http://blog.sina.com.cn/s/blog_903061a1010141ph.html （莆田医疗大佬2014最新集团名录中第63，中天医疗董事长为陈金国)
+- 河源现代医院妇科
+ - 负责人：钟兴娣
+ - 电话：400-666-0762
+ - 网站：http://www.hyxdfk120.com/
+ - 网站：http://www.hyrl120.com/ （粤ICP备11032832号）
+ - 地址：河源市河源大道北50号
+ - 证据：粤ICP备11032832号属东莞市迈跃医院投资管理有限公司，该公司董事长为林诚坤；http://zonghui.hxyjw.com/show-145338 （林诚坤为莆田健康产业总会广东分会惠河梅支会会长）；http://szgw.heyuan.gov.cn/content.aspx?nid=492 （林诚坤为河源现代妇科医院董事长）
+- 河源博爱医院
+ - 负责人：待查
+ - 电话：0762-3360120 
+ - 网站：http://www.liftsct.com/ （闽ICP备08106057号）
+ - 网站：http://ck.hyfuke.net/
+ - 网站：http://www.hyfuke.net/
+ - 网站：http://www.hyba120.net/
+ - 网站：http://www.hyfc120.net/
+ - 网站：http://www.affage.com/
+ - 网站：http://www.hynanke.net/
+ - 网站：http://www.ycba120.com/
+ - 网站：http://www.haoyi120.net/
+ - 地址：河源市源城区新港路口1号
+ - 证据：闽ICP备08106057号属厦门益康生殖健康与不孕症专业门诊部（http://www.xmnkw.net/） ；http://blog.sina.com.cn/s/blog_903061a1010141ph.html （莆田医疗大佬2014最新集团名录中第11，厦门益康，福建新东方医疗投资有限公司属莆田(中国)健康总会名誉会长陈金秀）;http://www.fjxdfyl.com/xiangmuzhanshi/ （河源博爱医院和厦门益康同属福建新东方医疗投资有限公司）
+ 
 ## 昆明
 
 - 昆明华美美莱整形医院
