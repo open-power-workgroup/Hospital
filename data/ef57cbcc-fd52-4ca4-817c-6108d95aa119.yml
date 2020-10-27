@@ -1,0 +1,58 @@
+dataversion: draft1
+created: 1463628548
+updated: 1463628548
+id: ef57cbcc-fd52-4ca4-817c-6108d95aa119
+USID: '310115000904981'
+name: 上海华美医疗美容医院
+city: 上海
+province: 上海
+address: 中国（上海）自由贸易试验区源深路155号1－3楼
+type: 民营医院
+location:
+  lat: '31.225603'
+  lng: '121.5376929'
+principal: 雷启龙
+shareholder:
+  - 洪玲燕
+  - 黄志佳
+url:
+  - 'http://www.shhuamei.cn/'
+phone:
+  - 400-880-6580
+  - 021-58856655
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cach&aqs=chrome.0.69i59l3j69i57j0l2.1668j0j7&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T03:27:01.901Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T03:25:09.252Z - '
+comments:
+  evidence:
+    - url: >-
+        http://finance.sina.com.cn/consume/puguangtai/20150419/143221990688.shtml
+      title: '真假九院:上海华美医疗美容医院被曝假冒交大九院骗患者'
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ffinance.sina.com.cn%2Fconsume%2Fpuguangtai%2F20150419%2F143221990688.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Ffinance.sina.com.cn%2Fconsume%2Fpuguangtai%2F20150419%2F143221990688.shtml&aqs=chrome..69i57j69i58.3159j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T03:28:50.449Z - '
+    - url: 'http://sg.dwnlk.com/meirong/20160217/348.html'
+      title: 新闻网用户
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fsg.dwnlk.com%2Fmeirong%2F20160217%2F348.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fsg.dwnlk.com%2Fmeirong%2F20160217%2F348.html&aqs=chrome..69i57j69i58.2798j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T03:28:50.449Z - '
+note: >-
+  工信部备案信息，主办单位：上海华美医疗美容医院有限公司；网站负责人：蔡智俊；备案许可证号：沪ICP备13030768号-1
+
+  上海企业信息登记注册公开查询信息，上海华美医疗美容医院有限公司法定代表人：雷启龙；自然人股东：洪玲燕，黄志佳
+
+  http://zonghui.hxyjw.com/show-146921
+
+  https://www.google.com/#newwindow=1&hl=en&q=%E9%BB%84%E5%BF%97%E4%BD%B3+site:ptshsh.com

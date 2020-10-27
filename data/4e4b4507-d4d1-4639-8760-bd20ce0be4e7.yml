@@ -1,0 +1,51 @@
+dataversion: draft1
+created: 1463994783
+updated: 1463994783
+id: 4e4b4507-d4d1-4639-8760-bd20ce0be4e7
+USID: 91310106667782602A
+name: 上海中佑肛肠医院
+city: 上海
+province: 上海
+address: 上海市静安区康定路359号1幢1－3楼
+type: 民营医院
+location:
+  lat: '31.234504'
+  lng: '121.449798'
+principal: 翟保祥
+shareholder:
+  - 南京肛泰医院投资管理有限公司
+url:
+  - 'http://www.gcwsh.com/'
+phone:
+  - 021-52131616
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+comments:
+  evidence:
+    - url: 'http://health.dahe.cn/jkhb/jjwr/201303/t20130304_459711.html'
+      title: 网友投诉上海中佑肛肠医院夸大宣传 最好肛肠医院是骗人
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fhealth.dahe.cn%2Fjkhb%2Fjjwr%2F201303%2Ft20130304_459711.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fhealth.dahe.cn%2Fjkhb%2Fjjwr%2F201303%2Ft20130304_459711.html&aqs=chrome..69i57j69i58.2887j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-23T09:11:36.161Z - '
+    - url: 'http://bbs.tianya.cn/post-828-1282792-1.shtml'
+      title: 天涯论坛
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-828-1282792-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-828-1282792-1.shtml&aqs=chrome..69i57j69i58.2382j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-23T09:11:36.161Z - '
+    - url: 'http://biooo.blogspot.com/2011/06/blog-post_6425.html'
+      title: blogspot
+      snapshot: 'http://biooo.blogspot.com/2011/06/blog-post_6425.html'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-23T09:11:36.161Z - '
+note: ''

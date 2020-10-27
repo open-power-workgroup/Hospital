@@ -1,0 +1,32 @@
+dataversion: draft1
+created: 1463651163
+updated: 1463651163
+id: d5a3897a-ed10-4915-970a-22f96d6bb77f
+USID: 91511302590467224J
+name: 南充东大肛肠医院
+city: 南充
+province: 四川
+address: 顺庆区果城路139号
+type: ''
+principal: 孙王官
+shareholder:
+  - 孙王官
+url:
+  - ''
+phone:
+  - ''
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian: {}
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''

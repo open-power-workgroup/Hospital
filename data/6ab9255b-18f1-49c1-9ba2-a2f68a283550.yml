@@ -1,0 +1,61 @@
+dataversion: draft1
+created: 1463625155
+updated: 1463625155
+id: 6ab9255b-18f1-49c1-9ba2-a2f68a283550
+USID: '913101047449077212'
+name: 上海沪申五官科医院
+city: 上海
+province: 上海
+address: 上海市徐汇区石龙路269号
+type: 民营医院
+location:
+  lat: '31.156465'
+  lng: '121.442983'
+principal: 林志忠
+shareholder:
+  - 上海仁爱投资管理有限公司
+url:
+  - 'http://www.hs5g.com/'
+phone:
+  - 021-54305338
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cach&aqs=chrome.0.69i59l3j69i57j0l2.1668j0j7&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T02:28:03.200Z - '
+    - url: 'http://www.xinshicy.com/shyf/774.html'
+      title: 上海沪申五官科医院违规宣传曝光_新事网
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.xinshicy.com%2Fshyf%2F774.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.xinshicy.com%2Fshyf%2F774.html&aqs=chrome..69i57j69i58.2339j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T02:28:03.200Z - '
+    - url: 'http://www.gxzycn.com/zc/45247.html'
+      title: 上海叫停沪申五官科医院“公益活动”，主办方回应为什么选它
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.gxzycn.com%2Fzc%2F45247.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.gxzycn.com%2Fzc%2F45247.html&aqs=chrome..69i57j69i58.24569j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T02:28:03.200Z - '
+    - url: 'http://money.163.com/13/0802/16/959LOF4B00254TI5.html'
+      title: 上海沪申五官科医院因违法宣传被查处
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fmoney.163.com%2F13%2F0802%2F16%2F959LOF4B00254TI5.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fmoney.163.com%2F13%2F0802%2F16%2F959LOF4B00254TI5.html&aqs=chrome..69i57j69i58.2262j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T02:28:03.200Z - '
+    - url: 'http://news.ifeng.com/gundong/detail_2013_07/30/28068674_0.shtml'
+      title: 上海沪申五官科医院涉嫌虚假宣传欺骗消费者
+      snapshot: 'http://news.ifeng.com/gundong/detail_2013_07/30/28068674_0.shtml'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T02:28:03.200Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T02:26:44.597Z - '
+comments:
+  evidence:
+    - url: 'http://www.dianping.com/shop/2529493/review_all_1star'
+      title: 大众点评一星用户
+      snapshot: 'http://www.dianping.com/shop/2529493/review_all_1star'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T02:32:34.327Z - '
+note: ''

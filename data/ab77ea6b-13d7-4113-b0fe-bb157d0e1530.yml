@@ -1,0 +1,32 @@
+dataversion: draft1
+created: 1463650837
+updated: 1463650837
+id: ab77ea6b-13d7-4113-b0fe-bb157d0e1530
+USID: ''
+name: 解放军第三十七医院
+city: 雅安
+province: 四川
+address: 雅安市雨城区魏家岗18号
+type: 外包科室
+principal: ''
+shareholder:
+  - ''
+url:
+  - ''
+phone:
+  - ''
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian: {}
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''

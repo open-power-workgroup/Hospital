@@ -1,0 +1,32 @@
+dataversion: draft1
+created: 1463651030
+updated: 1463651030
+id: 166b3cc3-04e9-44ff-b22b-ed251a14c060
+USID: ''
+name: 南充解放军51医院
+city: 南充
+province: 四川
+address: ''
+type: 外包科室
+principal: ''
+shareholder:
+  - ''
+url:
+  - ''
+phone:
+  - ''
+baiduad: {}
+news:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+putian: {}
+comments:
+  evidence:
+    - url: ''
+      title: ''
+      snapshot: ''
+      dateline: ''
+note: ''

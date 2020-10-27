@@ -1,0 +1,55 @@
+dataversion: draft1
+created: 1463628023
+updated: 1463628023
+id: c6cce5cb-503f-4120-ac0e-01fe0fb5abf3
+USID: 91310104688719055G
+name: 上海万众医院
+city: 上海
+province: 上海
+address: 上海市徐汇区吴中路6号
+type: 民营医院
+location:
+  lat: '31.189116'
+  lng: '121.419996'
+principal: 占阳珊
+shareholder:
+  - 上海万众医疗投资股份有限公司
+url:
+  - 'http://www.wz120.cc/'
+phone:
+  - 400-8892218
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&oq=cach&aqs=chrome.0.69i59l3j69i57j0l2.1668j0j7&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T03:15:54.446Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T03:14:24.318Z - '
+comments:
+  evidence:
+    - url: 'http://bbs.tianya.cn/post-41-943030-1.shtml'
+      title: 无耻至极 及其无耻 无耻的万众医院 徐汇吴中路6号
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-41-943030-1.shtml&aqs=chrome..69i57j69i58.2814j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T03:17:38.048Z - '
+    - url: 'http://www.dianping.com/shop/3045976'
+      title: 大众点评用户
+      snapshot: 'http://www.dianping.com/shop/3045976'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T03:17:38.048Z - '
+    - url: 'http://wenwen.sogou.com/z/q434040171.htm'
+      title: 搜搜用户
+      snapshot: 'http://wenwen.sogou.com/z/q434040171.htm'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T03:17:38.048Z - '
+    - url: 'http://nanfangsd.com/jiangxingchuanqi/74989.html'
+      title: 上海万众医院骗子!上海万众医院黑！不要上当受骗
+      snapshot: 'http://nanfangsd.com/jiangxingchuanqi/74989.html'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T03:17:38.048Z - '
+note: ''

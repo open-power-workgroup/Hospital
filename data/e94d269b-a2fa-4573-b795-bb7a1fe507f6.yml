@@ -1,0 +1,69 @@
+dataversion: draft1
+created: 1463622571
+updated: 1463622571
+id: e94d269b-a2fa-4573-b795-bb7a1fe507f6
+USID: 91310104735437115R
+name: 上海仁爱医院
+city: 上海
+province: 上海
+address: 上海市徐汇区漕溪路135号
+type: 民营医院
+location:
+  lat: '31.1755564'
+  lng: '121.436059'
+principal: 林志忠
+shareholder:
+  - 上海仁爱投资管理有限公司
+  - 深圳博爱医院
+url:
+  - 'http://www.renai.cn/'
+  - 'http://en.renai.cn/'
+phone:
+  - '4006703899'
+  - 021-64688888
+  - 010-64693399
+  - 021-64693399
+  - 021-54893781
+  - 021-64688888-213
+baiduad: {}
+news:
+  evidence:
+    - url: 'http://tech.qq.com/a/20160501/017681.htm'
+      title: 腾讯科技
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?ion=1&sourceid=chrome-psyapi2&q=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&oq=cache%3A%2F%2Ftech.qq.com%2Fa%2F20160501%2F017681.htm&rlz=1C5CHFA_enUS659US659&ie=UTF-8&aqs=chrome..69i57j69i58j69i60l3.7225j0j7&bav=on.2,or.r_cp.&bvm=bv.122129774,d.amc&biw=1438&bih=711&dpr=2&ech=1&psi=7xg9V7LKM4jLjwSDuIegDQ.1463621872639.3&ei=7xg9V7LKM4jLjwSDuIegDQ&emsg=NCSR&noj=1
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T01:47:27.108Z - '
+    - url: 'http://www.xiaofeipinglun.com/yiyuanjiankang/4706.html'
+      title: 上海仁爱医院手术按揭降门槛 由两万降至三千元举报
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fwww.xiaofeipinglun.com%2Fyiyuanjiankang%2F4706.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fwww.xiaofeipinglun.com%2Fyiyuanjiankang%2F4706.html&aqs=chrome..69i57j69i58.2407j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T01:47:27.108Z - '
+putian:
+  confirm: 'Yes'
+  evidence:
+    - url: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      title: 维基百科
+      snapshot: 'https://zh.wikipedia.org/wiki/%E8%8E%86%E7%94%B0%E7%B3%BB'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T01:38:12.131Z - '
+comments:
+  evidence:
+    - url: 'http://www.dianping.com/shop/2021116/review_all_1star'
+      title: 大众点评1星用户
+      snapshot: 'http://www.dianping.com/shop/2021116/review_all_1star'
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T01:42:29.814Z - '
+    - url: 'http://bbs.tianya.cn/post-no11-1428972-1.shtml'
+      title: 上海仁爱医院是骗子，注射的伊维兰竟然是奥美定，美白针也忽悠
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-no11-1428972-1.shtml&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fbbs.tianya.cn%2Fpost-no11-1428972-1.shtml&aqs=chrome..69i57j69i58.2726j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T01:42:29.814Z - '
+    - url: 'http://mysh.qq.com/t-393256-1.htm'
+      title: '上海仁爱医院虚假广告骗人害人噩梦不断 '
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fmysh.qq.com%2Ft-393256-1.htm&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fmysh.qq.com%2Ft-393256-1.htm&aqs=chrome..69i57j69i58.2327j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T01:42:29.814Z - '
+    - url: 'http://yyk.99.com.cn/xuhui/68744/jingyan-339061.html'
+      title: 999健康网
+      snapshot: >-
+        http://webcache.googleusercontent.com/search?q=cache%3A%2F%2Fyyk.99.com.cn%2Fxuhui%2F68744%2Fjingyan-339061.html&rlz=1C5CHFA_enUS659US659&oq=cache%3A%2F%2Fyyk.99.com.cn%2Fxuhui%2F68744%2Fjingyan-339061.html&aqs=chrome..69i57j69i58.2039j0j4&sourceid=chrome&ie=UTF-8
+      dateline: 'GithubOpenPowerProgrammer, OpenPower, 2016-05-19T01:42:29.814Z - '
+note: ''
